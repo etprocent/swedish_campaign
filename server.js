@@ -49,15 +49,16 @@ app.post("/hook", (req, res) => {
 io.on("connection", (socket) => {
   socket.on("create", (data) => {
     console.log("DATA", data);
-    generateEmail(data.form_response).then((generatedEmail) => {
-      io.emit("typeform-incoming", {
-        formToken: data.form_response.token,
-        generatedEmail: generatedEmail,
-      });
-      if (app.settings.env === "development") {
-        // writeDataToExampleResponsesFile(data);
-      }
+    //generateEmail(data.form_response).then((generatedEmail) => {
+    io.emit("typeform-incoming", {
+      // formToken: data.form_response.token,
+      // generatedEmail: generatedEmail,
+      test: "test",
     });
+    if (app.settings.env === "development") {
+      // writeDataToExampleResponsesFile(data);
+    }
+    // });
   });
 });
 

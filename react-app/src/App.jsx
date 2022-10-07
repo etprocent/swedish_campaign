@@ -49,19 +49,23 @@ const App = () => {
   const emailBoxRef = useRef(null);
 
   useEffect(() => {
-    socket.on("typeform-incoming", ({ formToken, generatedEmail }) => {
-      if (formToken === responseId) {
-        setState({
-          ...state,
-          generatedEmailBody: generatedEmail.body,
-          emailSubject: generatedEmail.subject,
-          mpData: generatedEmail.mpData,
-          greeting: generatedEmail.greeting,
-          emailWithGreeting: generatedEmail.greeting + generatedEmail.body,
-          positiveTypeFormResponseReturned: generatedEmail.supportsAid,
-        });
-      }
+    socket.on("typeform-incoming", (data) => {
+      console.log(data);
     });
+
+    // ({ formToken, generatedEmail }) => {
+    //   if (formToken === responseId) {
+    //     setState({
+    //       ...state,
+    //       generatedEmailBody: generatedEmail.body,
+    //       emailSubject: generatedEmail.subject,
+    //       mpData: generatedEmail.mpData,
+    //       greeting: generatedEmail.greeting,
+    //       emailWithGreeting: generatedEmail.greeting + generatedEmail.body,
+    //       positiveTypeFormResponseReturned: generatedEmail.supportsAid,
+    //     });
+    //   }
+    // });
   }, [responseId]);
 
   useEffect(() => {
