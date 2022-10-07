@@ -48,6 +48,7 @@ app.post("/hook", (req, res) => {
 //our webhook is triggered by the post request above
 io.on("connection", (socket) => {
   socket.on("create", (data) => {
+    console.log("DATA", data);
     generateEmail(data.form_response).then((generatedEmail) => {
       io.emit("typeform-incoming", {
         formToken: data.form_response.token,
