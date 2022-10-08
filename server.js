@@ -15,6 +15,7 @@ const { generateEmail } = require("./emailGenerator");
 //initialise express and define a port
 const port = process.env.PORT || 5000;
 const client = require("socket.io-client")("http://localhost:" + port);
+const dir = {};
 
 app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({ extended: true }));
@@ -46,18 +47,25 @@ app.post("/hook", (req, res) => {
 });
 
 //our webhook is triggered by the post request above
+
 io.on("connection", (socket) => {
+  socket.on("register", (token) => {
+    dir[token] = socket;
+  });
+
   socket.on("create", (data) => {
-    console.log("DATA", data);
-    //generateEmail(data.form_response).then((generatedEmail) => {
-    io.emit("typeform-incoming", {
-      // formToken: data.form_response.token,
-      // generatedEmail: generatedEmail,
-      test: "test",
-    });
-    if (app.settings.env === "development") {
-      // writeDataToExampleResponsesFile(data);
+    const client2 = dir[data.form_response.token];
+    if (client2) {
+      //generateEmail(data.form_response).then((generatedEmail) => {
+      client2.emit("typeform-incoming", {
+        formToken: data.form_response.token,
+        generatedEmail: 232, //generatedEmail,
+      });
     }
+
+    // if (app.settings.env === "development") {
+    //   // writeDataToExampleResponsesFile(data);
+    // }
     // });
   });
 });

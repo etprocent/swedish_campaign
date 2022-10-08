@@ -49,6 +49,10 @@ const App = () => {
   const emailBoxRef = useRef(null);
 
   useEffect(() => {
+    if (responseId) {
+      socket.emit("register", responseId);
+    }
+
     socket.on("typeform-incoming", (data) => {
       console.log(data);
     });

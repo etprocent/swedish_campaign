@@ -13,11 +13,13 @@ const TypeForm = ({ passDataUpstream, isMobile }) => {
     {
       mode: "popup",
       autoClose: 3,
-      onSubmit: ({ response_id }) => {
-        passDataUpstream({ responseId: response_id });
+      onSubmit: (data) => {
+        console.log(data);
+        passDataUpstream({ responseId: data.response_id });
       },
-      onClose: ({ response_id }) => {
-        passDataUpstream({ responseId: response_id });
+      onClose: (data) => {
+        console.log(data);
+        passDataUpstream({ responseId: data.response_id });
       },
     }
   );
@@ -31,8 +33,9 @@ const TypeForm = ({ passDataUpstream, isMobile }) => {
           hideScrollbars: true,
           hideHeaders: true,
           opacity: 0,
-          onSubmit: ({ response_id }) => {
-            passDataUpstream({ responseId: response_id });
+          onSubmit: (data) => {
+            console.log(data);
+            passDataUpstream({ responseId: data.response_id });
             setTimeout(() => {
               setTypeformWidgetOpen(false);
             }, 3000);
