@@ -54,14 +54,24 @@ io.on("connection", (socket) => {
   });
 
   socket.on("create", (data) => {
-    const client2 = dir[data.form_response.token];
-    if (client2) {
-      //generateEmail(data.form_response).then((generatedEmail) => {
-      client2.emit("typeform-incoming", {
-        formToken: data.form_response.token,
-        generatedEmail: 232, //generatedEmail,
-      });
-    }
+    const rep = (i) => {
+      if (i > 10) {
+        return;
+      }
+      const client2 = dir[data.form_response.token];
+      if (client2) {
+        //generateEmail(data.form_response).then((generatedEmail) => {
+        client2.emit("typeform-incoming", {
+          formToken: data.form_response.token,
+          generatedEmail: 232, //generatedEmail,
+        });
+      } else {
+        setTimeout(() => {
+          rep(i++);
+        }, 500);
+      }
+    };
+    rep(0);
 
     // if (app.settings.env === "development") {
     //   // writeDataToExampleResponsesFile(data);
