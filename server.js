@@ -11,7 +11,49 @@ const mps = require("./emailGenerator/MPs.json");
 const io = require("socket.io")(http);
 
 const { getMpByPostcode } = require("./api-calls");
-const { generateEmail } = require("./emailGenerator");
+
+const getAnswersFromTypeform = (typeform) => {
+  function getObjKey(obj, value) {
+    return Object.keys(obj).find((key) => obj[key] === value);
+  }
+
+  const typeformAnswers = typeform.form_response.answers;
+  // Key to decipher typeform containing ids of fields and their types.
+  const key = {
+    shouldSwedenGiveAid: "aw0eDbnYFM6e", // Do you think it is good that Sweden gives aid to developing countries?
+    why: "mAN4s5AjLA3D", // Why do you think it is important to preserve aid?
+    party: "TKqucFyEhWjH", // Which party did you vote for?
+    relationWithParty: "yIdt7p5jBDpv",
+    doYouWantMeetingWithMP: "FJCxoMaWG5zY",
+    name: "1dUPuPKEbad4",
+    email: "FwUM3bB6Rtrx",
+    region: "kWsxFuQHepRo",
+    postcode: "SdRS3THm5a4S",
+  };
+
+  const answers = {};
+  for (const typeformAnswer of typeformAnswers) {
+    let value;
+    switch (typeformAnswer.type) {
+      case "choice":
+        value = typeformAnswer.choice.label;
+        break;
+      case "email":
+        value = typeformAnswer.email;
+        break;
+      case "text":
+        value = typeformAnswer.text;
+      default:
+        console.log("error");
+        break;
+    }
+    const fieldName = getObjKey(key, typeformAnswer.field.id);
+
+    answers[fieldName] = value;
+  }
+
+  return answers;
+};
 
 //initialise express and define a port
 const port = process.env.PORT || 5000;
@@ -61,27 +103,41 @@ io.on("connection", (socket) => {
       }
       const client2 = dir[data.form_response.token];
       if (client2) {
+        const answers = getAnswersFromTypeform(data);
+
+        let mp = mps.find((mp) => {
+          return (
+            mp.Party === answers.party && mp.Constituency === answers.region
+          );
+        });
+
+        // Fallback
+        if (!mp) {
+          console.log("Did not find an mp for", {
+            ...answers,
+            name: "XXX",
+            email: "XXX",
+          });
+          mp = mps.find((mp) => mp.Constituency === answers.region);
+        }
+
         // Naive way of doing that, I will later change it. It will index the MPs based on the constituency
-        console.log(data);
 
-        // const constituency = data.Constituency.split(" (")[0]
-        // const party = data.party
-
-        // const mpData = mps.find((politician) => politician.Constituency === constituency && politician.party === party);
-        //generateEmail(data.form_response).then((generatedEmail) => {
         client2.emit("typeform-incoming", {
           formToken: data.form_response.token,
           generatedEmail: {
             body: "body",
             subject: "subject",
-            mpData: {
-              full_name: "full name",
-              name: "name",
-              constituency: "cons",
-              party: "party",
-              error: "",
-              mpEmailAddress: "email",
-            },
+            mpData: mp
+              ? {
+                  full_name: mp.Member,
+                  name: mp.Member.split(" ")[0],
+                  constituency: mp.Constituency,
+                  party: mp.party,
+                  error: "",
+                  mpEmailAddress: mp.Email,
+                }
+              : { error: "mp not fund!" },
             greeting: "greeting",
             supportsAid: "aid",
           },
