@@ -50,7 +50,8 @@ const MpForm = ({ passDataUpstream }) => {
       ...state,
       [e.target.name]: value,
     });
-    const postCodeRegex = /([A-Z][A-HJ-Y]?[0-9][A-Z0-9]? ?[0-9][A-Z]{2}|GIR ?0A{2})$/;
+    const postCodeRegex =
+      /([A-Z][A-HJ-Y]?[0-9][A-Z0-9]? ?[0-9][A-Z]{2}|GIR ?0A{2})$/;
     if (value && state.bots !== "on") {
       if (value.length > 5) {
         if (postCodeRegex.test(value.toUpperCase())) {
@@ -75,6 +76,7 @@ const MpForm = ({ passDataUpstream }) => {
         >
           Don't see your MP?
         </button>
+
         <button
           className="btn btn-lg cta btn-primary right-button "
           type="submit"
