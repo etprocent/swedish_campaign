@@ -9,7 +9,7 @@
     ]
   },
   "scripts": {
-    "heroku-postbuild": "cd react-app && npm install --no-shrinkwrap && npm run build",
+    "heroku-postbuild": "cd react-app && npm install --force && npm run build",
     "install-react": "cd react-app && npm install",
     "react-start": "cd react-app && npm start",
     "react-build": "cd react-app && npm run build",
@@ -20,7 +20,8 @@
     "test": "mocha --timeout 500000 tests/puppeteer/bootstrap.js --recursive tests",
     "test-email": "npm test -- --grep generateEmail",
     "test-email-funcs": "npm test -- --grep emailGeneratorFuncs",
-    "test-postcode": "npm test -- --grep /api/postcode"
+    "test-postcode": "npm test -- --grep /api/postcode",
+    "start": "nodemon server.js"
   },
   "dependencies": {
     "@reach/router": "^1.3.4",
