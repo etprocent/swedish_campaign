@@ -21,7 +21,7 @@
     "test-email": "npm test -- --grep generateEmail",
     "test-email-funcs": "npm test -- --grep emailGeneratorFuncs",
     "test-postcode": "npm test -- --grep /api/postcode",
-    "start": "nodemon server.js"
+    "start": "node server.js"
   },
   "dependencies": {
     "@reach/router": "^1.3.4",
