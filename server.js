@@ -6,6 +6,7 @@ const app = express();
 var http = require("http").createServer(app);
 const crypto = require("crypto");
 const fs = require("fs");
+const mps = require("./emailGenerator/MPs.json");
 
 const io = require("socket.io")(http);
 
@@ -60,6 +61,13 @@ io.on("connection", (socket) => {
       }
       const client2 = dir[data.form_response.token];
       if (client2) {
+        // Naive way of doing that, I will later change it. It will index the MPs based on the constituency
+        console.log(data);
+
+        // const constituency = data.Constituency.split(" (")[0]
+        // const party = data.party
+
+        // const mpData = mps.find((politician) => politician.Constituency === constituency && politician.party === party);
         //generateEmail(data.form_response).then((generatedEmail) => {
         client2.emit("typeform-incoming", {
           formToken: data.form_response.token,
@@ -71,7 +79,7 @@ io.on("connection", (socket) => {
               name: "name",
               constituency: "cons",
               party: "party",
-              error: "error",
+              error: "",
               mpEmailAddress: "email",
             },
             greeting: "greeting",
