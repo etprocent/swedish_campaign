@@ -24,7 +24,6 @@ const TextBox = ({ emailBody, passDataUpstream }) => {
           Personalising your email will distinguish it from others and is much
           more likely to grab your MP’s attention.
         </p>
-        <p>Textbox placeholder</p>
         <EdiText
           viewContainerClassName="emailBox"
           type="textarea"
