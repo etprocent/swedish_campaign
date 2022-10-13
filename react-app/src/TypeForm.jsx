@@ -9,7 +9,7 @@ const TypeForm = ({ passDataUpstream, isMobile }) => {
   const queryStr = window.location.search.substr(1);
 
   const mobileTypeform = typeformEmbed.makePopup(
-    `https://8wjkk5b7m7a.typeform.com/to/mO0UauLy#${queryStr}`,
+    `https://skcgw55qrns.typeform.com/to/N8DmwqC6#${queryStr}`,
     {
       mode: "popup",
       autoClose: 3,
@@ -28,7 +28,7 @@ const TypeForm = ({ passDataUpstream, isMobile }) => {
     !isMobile &&
       typeformEmbed.makeWidget(
         typeformComponent.current,
-        `https://8wjkk5b7m7a.typeform.com/to/mO0UauLy#${queryStr}`,
+        `https://skcgw55qrns.typeform.com/to/N8DmwqC6#${queryStr}`,
         {
           hideScrollbars: true,
           hideHeaders: true,
