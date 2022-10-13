@@ -63,7 +63,20 @@ io.on("connection", (socket) => {
         //generateEmail(data.form_response).then((generatedEmail) => {
         client2.emit("typeform-incoming", {
           formToken: data.form_response.token,
-          generatedEmail: 232, //generatedEmail,
+          generatedEmail: {
+            body: "body",
+            subject: "subject",
+            mpData: {
+              full_name: "full name",
+              name: "name",
+              constituency: "cons",
+              party: "party",
+              error: "error",
+              mpEmailAddress: "email",
+            },
+            greeting: "greeting",
+            supportsAid: "aid",
+          },
         });
       } else {
         setTimeout(() => {

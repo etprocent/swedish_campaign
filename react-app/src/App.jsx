@@ -53,23 +53,17 @@ const App = () => {
       socket.emit("register", responseId);
     }
 
-    socket.on("typeform-incoming", (data) => {
-      console.log(data);
+    socket.on("typeform-incoming", ({ generatedEmail }) => {
+      setState({
+        ...state,
+        generatedEmailBody: generatedEmail.body,
+        emailSubject: generatedEmail.subject,
+        mpData: generatedEmail.mpData,
+        greeting: generatedEmail.greeting,
+        emailWithGreeting: generatedEmail.greeting + generatedEmail.body,
+        positiveTypeFormResponseReturned: generatedEmail.supportsAid,
+      });
     });
-
-    // ({ formToken, generatedEmail }) => {
-    //   if (formToken === responseId) {
-    //     setState({
-    //       ...state,
-    //       generatedEmailBody: generatedEmail.body,
-    //       emailSubject: generatedEmail.subject,
-    //       mpData: generatedEmail.mpData,
-    //       greeting: generatedEmail.greeting,
-    //       emailWithGreeting: generatedEmail.greeting + generatedEmail.body,
-    //       positiveTypeFormResponseReturned: generatedEmail.supportsAid,
-    //     });
-    //   }
-    // });
   }, [responseId]);
 
   useEffect(() => {
