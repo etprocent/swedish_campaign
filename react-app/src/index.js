@@ -14,7 +14,7 @@ import Footer from "./Footer";
 import About from "./About";
 
 const tagManagerArgs = {
-  gtmId: "GTM-MWBT83W",
+  gtmId: "G-3BVFQGCCP4",
 };
 
 TagManager.initialize(tagManagerArgs);
