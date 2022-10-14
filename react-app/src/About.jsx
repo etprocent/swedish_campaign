@@ -1,13 +1,6 @@
 import React from "react";
 import { Col, Container, Row } from "react-bootstrap";
 
-import matt from "./assets/matt.jpg";
-import robert from "./assets/robert.jpg";
-import natasha from "./assets/natasha.jpg";
-import sanjay from "./assets/sanjay.jpg";
-import sean from "./assets/sean.jpg";
-import sahil from "./assets/sahil.jpg";
-
 const About = () => {
   return (
     <div className="about">
@@ -17,70 +10,17 @@ const About = () => {
             <h1 className="title">About Us</h1>
             <h2>Who are we?</h2>
             <p>
-              The 0.7% Commitment is a grassroots UK campaign aiming to change
-              the government’s intentions to suspend its foreign aid
-              commitments. We’re a group of volunteers, all UK citizens, who
-              came together to try and convince our government to do the right
-              thing. You can see some of our photos and names below.
+              Et Procent is a grassroots campaign aiming to change
+              the government's intentions to suspend its foreign aid
+              commitments. 
             </p>
-            <div class="image-grid">
-              <div class="grid-item">
-                <figure>
-                  <img src={matt} alt="Matt" />
-                  <figcaption>Matt</figcaption>
-                </figure>
-              </div>
-              <div class="grid-item">
-                <figure>
-                  <img src={sanjay} alt="Sanjay" />
-                  <figcaption>Sanjay</figcaption>
-                </figure>
-              </div>
-              <div class="grid-item">
-                <figure>
-                  <img src={natasha} alt="Natasha" />
-                  <figcaption>Natasha</figcaption>
-                </figure>
-              </div>
-              <div class="grid-item">
-                <figure>
-                  <img src={sahil} alt="Sahil" />
-                  <figcaption>Sahil</figcaption>
-                </figure>
-              </div>
-              <div class="grid-item">
-                <figure>
-                  <img src={robert} alt="Robert" />
-                  <figcaption>Robert</figcaption>
-                </figure>
-              </div>
-              <div class="grid-item">
-                <figure>
-                  <img src={sean} alt="Sean" />
-                  <figcaption>Sean</figcaption>
-                </figure>
-              </div>
-            </div>
 
             <h2>Why are we doing this?</h2>
             <p>
-              The United Kingdom is at a pivotal moment in its history. We have
-              recently left the EU. The end of the coronavirus pandemic is in
-              sight – at least for our country. And our government has been
-              voted in to deliver a Global Britain, delivering on our
-              international ambitions. Boris Johnson was voted into power with a
-              manifesto that promised to “proudly maintain our commitment to
-              spend 0.7 per cent of GNI on development” and bolster global
-              institutions to protect our interests overseas.
-            </p>
-            <p>
-              This is the most crucial time for our country to stand tall on the
-              global stage. Instead, we are witnessing our government break its
-              international commitments. Breaking promises to those who need our
-              help the most, and to voters at a time when trust in British
-              government has never been lower. Millions of lives, our
-              international reputation and our democratic foundations are all
-              being put at risk by this decision.
+              Sweden is historically a <a href="https://cgdev.org/quoda-2021">fantastic</a> distributor of international aid.
+              The Swedish people don't want aid to be cut - a <a href="https://www.sida.se/om-sida/opinion-om-bistandet">majority</a> of Swedes (54%) think the current level of aid should increase or stay the same.
+              And yet, the government plans on reducing the international aid budget.
+              We think that something should be done about it.
             </p>
             <h2>Why complete the survey?</h2>
             <p>
@@ -112,7 +52,7 @@ const About = () => {
               Our survey, website and email platform use encryption when
               collecting data and are highly secure, so your data is safe. You
               can read more about data privacy in our policy
-              <a href="https://www.point7percent.org/privacy-policy"> here</a>.
+              <a href="https://www.etprocent.se/privacy-policy"> here</a>.
             </p>
           </Col>
         </Row>
