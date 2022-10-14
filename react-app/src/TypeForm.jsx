@@ -60,13 +60,10 @@ const TypeForm = ({ passDataUpstream, isMobile }) => {
           }}
           className="btn btn-primary btn-lg main-cta"
         >
-          Fill out the survey to email your MP{" "}
+          Fyll i enkäten för att mejla din MP{" "}
         </button>
         <p className="explanation">
-          <strong>We will draft an email</strong> based on your survey
-          responses,{" "}
-          <strong>written to have the maximum impact on your MP.</strong> With
-          your help we can safeguard the support so many need.
+          <strong>Vi kommer att skriva ett e-postmeddelande</strong> baserat på din undersökning svar,{" "} <strong>skriven för att ha maximal effekt på din MP.</strong> Med din hjälp kan vi säkra det stöd så många behöver.
         </p>
       </div>
       <div

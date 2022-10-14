@@ -4,18 +4,13 @@ import React from "react";
 
 const IntroContent = () => (
   <div className="intro-content">
-    <h1 className="title">The 0.7% Commitment</h1>
+    <h1 className="title">Et Procent</h1>
     <p className="intro-para">
-      The 2019 Conservative Manifesto declared Britain would{" "}
-      <strong>
-        "proudly maintain our commitment to spend 0.7 per cent of GNI on
-        development"
-      </strong>
-      . But just one year later, the government intends to cut foreign aid.
+      Sverige är ett imponerande exempel på världsscenen genom att anslå 1 % av sina inkomster till att hjälpa behövande. 
+      <strong>Svenska folket vill ha det så.</strong>
       <br></br>
-      <br></br> At a time of unprecedented international crisis, with millions
-      at risk of extreme poverty,{" "}
-      <strong>Britain must show leadership - not break its commitments.</strong>
+      <br></br> 
+      I en tid av aldrig tidigare skådad internationell kris, med miljoner som riskerar att drabbas av extrem fattigdom, <strong>måste Sverige visa ledarskap</strong>.
     </p>
   </div>
 );
