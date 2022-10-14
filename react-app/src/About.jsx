@@ -7,52 +7,43 @@ const About = () => {
       <Container>
         <Row>
           <Col>
-            <h1 className="title">About Us</h1>
-            <h2>Who are we?</h2>
+            <h1 className="title">Om oss</h1>
+            <h2>Vilka är vi?</h2>
             <p>
-              Et Procent is a grassroots campaign aiming to change
-              the government's intentions to suspend its foreign aid
-              commitments. 
+              Et Procent är en gräsrotskampanj som syftar till att förändra regeringens avsikt att avbryta sitt utländska bistånd åtaganden. 
             </p>
 
-            <h2>Why are we doing this?</h2>
+            <h2>Varför gör vi detta?</h2>
             <p>
-              Sweden is historically a <a href="https://cgdev.org/quoda-2021">fantastic</a> distributor of international aid.
-              The Swedish people don't want aid to be cut - a <a href="https://www.sida.se/om-sida/opinion-om-bistandet">majority</a> of Swedes (54%) think the current level of aid should increase or stay the same.
-              And yet, the government plans on reducing the international aid budget.
-              We think that something should be done about it.
+              Sverige är historiskt sett en <a href="https://cgdev.org/quoda-2021">fantastisk</a> distributör av internationellt bistånd.
+              Svenska folket vill inte att biståndet ska minskas - en <a href="https://www.sida.se/om-sida/opinion-om-bistandet">majoritet</a> av svenskarna (54 %) anser att den nuvarande biståndsnivån bör öka eller förbli oförändrad.
+              Ändå planerar regeringen att minska budgeten för det internationella biståndet.
+              Vi anser att något bör göras åt detta.
             </p>
-            <h2>Why complete the survey?</h2>
+            <h2>Varför fylla i enkäten?</h2>
             <p>
-              We have researched the most effective ways to persuade our MPs to
-              carry the right message to the government. We created the survey
-              so that people could create compelling emails and letters to write
-              to their MP, that makes use of our research while incorporating
-              their beliefs and wishes. We hope this will make it easier for
-              constituents to contact their MPs about the foreign aid
-              commitment.
+              Vi har undersökt de mest effektiva sätten att övertala våra parlamentsledamöter att
+              föra fram rätt budskap till regeringen. Vi har skapat enkäten
+              så att människor kan skapa övertygande e-postmeddelanden och brev som de kan skriva till
+              till sina parlamentsledamöter, som utnyttjar vår forskning samtidigt som de innehåller
+              deras övertygelser och önskemål. Vi hoppas att detta kommer att göra det lättare för
+              väljare att kontakta sina parlamentsledamöter om det utländska biståndet.
             </p>
-            <h2>Why do we ask for your personal information in the survey?</h2>
+            <h2>Varför ber vi om dina personuppgifter i undersökningen?</h2>
             <p>
-              We collect your information primarily to complete the email that
-              is generated at the end of the survey. MPs can only make enquiries
-              on behalf of their constituents, so the email needs to include
-              this information so they can recognise you as a constituent.
+              Vi samlar in dina uppgifter i första hand för att kunna fylla i det e-postmeddelande som
+              genereras i slutet av undersökningen. Parlamentsledamöter kan endast göra förfrågningar
+              på uppdrag av sina väljare, så e-postmeddelandet måste innehålla
+              denna information så att de kan känna igen dig som väljare.
             </p>
             <p>
-              We collect your email address to contact you according to your
-              choices during the survey. For example, if you said you would like
+              Vi samlar in din e-postadress för att kontakta dig enligt din
+              val under undersökningen. Om du till exempel har sagt att du vill
               to request a meeting with your MP, then we will use your email
               address to help support you with your meeting.
             </p>
             <p>
-              We will not share your personal information with third party
-              marketers/advertisers, we promise we will not send you spam or
-              fundraising emails, and you control how we use your personal data.
-              Our survey, website and email platform use encryption when
-              collecting data and are highly secure, so your data is safe. You
-              can read more about data privacy in our policy
-              <a href="https://www.etprocent.se/privacy-policy"> here</a>.
+              Vi kommer inte att dela din personliga information med tredjepartsmarknadsförare/annonsörer, vi lovar att vi inte kommer att skicka dig spam eller insamlingsmeddelanden, och du kontrollerar hur vi använder dina personuppgifter. Vår undersökning, webbplats och e-postplattform använder kryptering när vi samlar in data och är mycket säkra, så din data är säker. Du kan läsa mer om datasekretess i vår policy <a href="https://www.etprocent.se/integritetspolicy"> här</a>.
             </p>
           </Col>
         </Row>

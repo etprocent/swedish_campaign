@@ -7,17 +7,8 @@ const Footer = () => (
     <Container>
       {/* <Row> */}
       <Col>
-        <Link to="about">About</Link>
-        <Link to="privacy-policy">Privacy Policy</Link>
-        © 2021 The 0.7% Commitment
-        <br />
-        Red Scarf Services Ltd,
-        <br />
-        48 Queen Edith's Way, Cambridge, England, CB1 8PW
-        <br />
-        <a href="https://concepts.effectivealtruism.org/concepts/aid-effectiveness/">
-          Further reading on aid
-        </a>
+        <Link to="om">Om</Link>
+        <Link to="integritetspolicy">Integritetspolicy</Link>
       </Col>
       {/* </Row> */}
     </Container>

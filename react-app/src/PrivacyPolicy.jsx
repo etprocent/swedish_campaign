@@ -6,208 +6,197 @@ const PrivacyPolicy = () => (
     <Container>
       <Row>
         <Col>
-          <h1 className="title">Privacy Policy</h1>
+        <h1 className="title">Integritetspolicy</h1>
           <p>
-            Our Privacy Policy applies only to our online activities and is
-            valid for visitors to our website with regards to the information
-            that they shared and/or collect in https://www.point7percent.org.
-            This policy is not applicable to any information collected offline
-            or via channels other than this website.
+            Vår integritetspolicy gäller endast våra onlineaktiviteter och är
+            gäller för besökare på vår webbplats med avseende på informationen
+            som de delat och/eller samlar på https://www.etprocent.se.
+            Denna policy är inte tillämplig på information som samlas in offline
+            eller via andra kanaler än denna webbplats.
           </p>
-          <h2>Who we are, and your privacy at a glance</h2>
+          <h2>Vilka vi är och din integritet i korthet</h2>
           <p>
-            The 0.7% Commitment is a UK-based campaign, organised by UK citizens
-            acting entirely voluntarily. Our goal is to convince the
-            Conservative government under Boris Johnson to meet their commitment
-            to foreign aid, as described in their 2019 election manifesto. To
-            learn more about us and also for a summary of our privacy policy and
-            how we protect your data, please <a href="/about"> visit here</a>.
+            Et Procent är en gräsrotskampanj som syftar till att förändra regeringens avsikt att avbryta sitt utländska bistånd åtaganden. Till
+            läs mer om oss och även för en sammanfattning av vår integritetspolicy och
+            hur vi skyddar dina uppgifter <a href="/om"> besök här</a>.
           </p>
-          <h2>General Data Protection Regulation (GDPR)</h2>
+          <h2>Allmän dataskyddsförordning (GDPR)</h2>
           <p>
-            We are a Data Controller of your information.
+            Vi är en personuppgiftsansvarig för din information.
             <br />
             <br />
-            We collect and process your personal data in order to fulfil various
-            purposes:
+            Vi samlar in och behandlar dina personuppgifter för att kunna uppfylla olika
+            syften:
             <ul>
               <li>
-                Data collected via first and third party tracking scripts and
-                cookies is used to:
+                Data som samlas in via första och tredje parts spårningsskript och
+                cookies används för att:
                 <ul>
                   <li>
-                    Improve our website and survey through aggregated data
-                    analysis
+                    Förbättra vår webbplats och enkät genom samlad data
+                    analys
                   </li>
                   <li>
-                    Understand the usefulness of advertising the survey and
-                    improve advertising targeting.
+                    Förstå nyttan av att annonsera undersökningen och
+                    förbättra annonsinriktningen.
                   </li>
                 </ul>
               </li>
               <li>
-                Personal details collected during the process of the survey are
-                used to:
+                Personuppgifter som samlas in under undersökningsprocessen är
+                brukade:
                 <ul>
-                  <li>Personalise the results of the survey.</li>
+                  <li>Anpassa resultaten av undersökningen.</li>
                   <li>
-                    Contact you to support your engagement with your MP based on
-                    your choices in the survey.
+                    Kontakta dig för att stödja ditt engagemang med din MP baserat på
+                    dina val i undersökningen.
                   </li>
                 </ul>
               </li>
               <li>
-                Process your personal information according to The 0.7%
-                Commitment campaign’s legitimate interests, where we have
-                ensured that your interests and rights have not been infringed.
+                Behandla dina personuppgifter enligt Et Procents legitima intressen, där vi har
+                säkerställt att dina intressen och rättigheter inte har kränkts.
               </li>
               <li>
-                Process or disclose personal information in order to comply with
-                the law.
+                Behandla eller lämna ut personlig information för att följa
+                lagen.
               </li>
             </ul>
           </p>
           <p>
-            We may process your personal information according to The 0.7%
-            Commitment campaign’s legitimate interests, where we have ensured
-            that your interests and rights have not been infringed.
+          Vi kan komma att behandla dina personuppgifter enligt Et Procents legitima intressen, där vi har säkerställt
+            att dina intressen och rättigheter inte har kränkts.
           </p>
           <p>
-            If required, we may process or disclose personal information to
-            comply with the law.
+            Vid behov kan vi behandla eller lämna ut personlig information till
+            följa lagen.
           </p>
           <p>
-            The 0.7% Commitment will retain your personal information only for
-            as long as is necessary for the purposes set out in this Privacy
-            Policy. We will retain and use your information to the extent
-            necessary to comply with our legal obligations, resolve disputes,
-            and enforce our policies
+            Et Procent kommer att behålla din personliga information endast för
+            så länge som är nödvändigt för de syften som anges i denna integritet
+            Politik. Vi kommer att behålla och använda din information i den utsträckning
+            nödvändiga för att uppfylla våra juridiska skyldigheter, lösa tvister,
+            och upprätthålla vår policy.
           </p>
           <p>
-            If you are a resident of the European Economic Area (EEA), you have
-            certain dataprotection rights. If you wish to be informed what
-            Personal Information we hold about you or if you want it to be
-            removed from our systems, please contact us using the email address{" "}
-            <a href="mailto:contact@point7percent.org">
-              contact@point7percent.org
+            Om du är bosatt i Europeiska ekonomiska samarbetsområdet (EES) har du
+            vissa dataskyddsrättigheter. Om du vill bli informerad vad
+            Personuppgifter vi har om dig eller om du vill att det ska vara det
+            bort från våra system, kontakta oss med e-postadressen{" "}
+            <a href="mailto:info@etprocent.se">
+            info@etprocent.se
             </a>
           </p>
-          <h2> Third Parties and Data Transfer</h2>
+          <h2>Tredje part och dataöverföring</h2>
           <p>
-            We do not share your data with any party marketers. We only share
-            your data with specific third parties in order to provide the basic
-            functioning of the website, and for the purposes described above
-            when consent has been provided. We never share data unnecessarily,
-            and take care to choose partners who meet our standards.
+            Vi delar inte dina uppgifter med någon part marknadsförare. Vi delar bara
+            dina uppgifter med specifika tredje parter för att tillhandahålla grundläggande
+            webbplatsens funktion och för de ändamål som beskrivs ovan
+            när samtycke har lämnats. Vi delar aldrig data i onödan,
+            och var noga med att välja partners som uppfyller våra standarder.
           </p>
           <p>
-            The third parties we share personal data with and the purpose for
-            sharing it are listed below:
+            De tredje parter vi delar personuppgifter med och syftet med
+            att dela det är listade nedan:
           </p>
           <h3>Typeform</h3>
           <p>
-            We use Typeform to host and manage our survey content and your
-            response information. Typeform’s servers are{" "}
+            Vi använder Typeform för att vara värd för och hantera vårt enkätinnehåll och ditt
+            svarsinformation. Typeforms servrar är {" "}
             <a href="https://help.typeform.com/hc/en-us/articles/360029259552-Security-at-Typeform">
-              highly secure
+            mycket säker
             </a>
-            , and you can read more about their own privacy measures{" "}
-            <a href="https://admin.typeform.com/to/dwk6gt">here.</a>
+            , och du kan läsa mer om deras egna integritetsåtgärder{" "}
+            <a href="https://admin.typeform.com/to/dwk6gt">här.</a>
           </p>
           <h3>Google</h3>
           <p>
-            We use Google Analytics to analyse website traffic at an aggregated
-            level. We do not allow Google to process any of your personal data
-            outside the scope of The 0.7% Commitment’s own usage of the tool,
-            and we do not share any personally identifiable information from our
-            website (e.g. information provided in the survey) to Google. You can
-            read more about their privacy measures{" "}
-            <a href="https://policies.google.com/privacy?hl=en-US"> here.</a>
+            Vi använder Google Analytics för att analysera webbplatstrafik på en aggregerad
+            nivå. Vi tillåter inte Google att behandla någon av dina personuppgifter
+            utanför ramen för Et Procents egen användning av verktyget,
+            och vi delar ingen personligt identifierbar information från vår
+            webbplats (t.ex. information som tillhandahålls i undersökningen) till Google. Du kan
+            läs mer om deras integritetsåtgärder{" "}
+            <a href="https://policies.google.com/privacy?hl=en-US"> här.</a>
           </p>
           <h3>Mailchimp</h3>
           <p>
-            If you have consented to receive emails when completing our survey,
-            we share your information with Mailchimp for the purpose of sending
-            the emails to you and to manage your email subscription preferences.
-            Mailchimp undergo annual verification with a U.S. based third
-            party-outside compliance reviewer under the E.U.-U.S. Privacy Shield
-            verification program to ensure your data is secure. You can read
-            more about their privacy and security measures{" "}
-            <a href="https://mailchimp.com/about/security/">here</a>.
+            Om du har samtyckt till att ta emot e-postmeddelanden när du fyller i vår undersökning,
+            vi delar din information med Mailchimp i syfte att skicka
+            e-postmeddelandena till dig och för att hantera dina e-postprenumerationsinställningar.
+            Mailchimp genomgår årlig verifiering med en tredjedel i USA
+            part-extern efterlevnadsgranskare under E.U.-U.S. Privacy Shield
+            verifieringsprogram för att säkerställa att dina data är säkra. Du kan läsa
+            mer om deras integritets- och säkerhetsåtgärder{" "}
+            <a href="https://mailchimp.com/about/security/">här</a>.
           </p>
           <h3>Facebook</h3>
           <p>
-            We use Facebook to advertise our website and track “conversion”
-            events on their advertising platform to monitor and improve our
-            adverts. You can read more about their privacy and security measures{" "}
-            <a href="https://www.facebook.com/about/privacy/">here.</a>
+            Vi använder Facebook för att marknadsföra vår webbplats och spåra "konvertering"
+            evenemang på deras annonsplattform för att övervaka och förbättra vår
+            annonser. Du kan läsa mer om deras integritets- och säkerhetsåtgärder{" "}
+            <a href="https://www.facebook.com/about/privacy/">här.</a>
           </p>
-          <h2>Log Files</h2>
+          <h2>Loggfiler</h2>
           <p>
-            https://www.point7percent.org follows a standard procedure of using
-            log files. These files log visitors when they visit websites. All
-            hosting companies do this and a part of hosting services' analytics.
-            The information collected by log files include internet protocol
-            (IP) addresses, browser type, Internet Service Provider (ISP), date
-            and time stamp, referring/exit pages, and possibly the number of
-            clicks. These are not linked to any information that is personally
-            identifiable. The purpose of the information is for analysing
-            trends, administering the site, tracking users' movement on the
-            website, and gathering demographic information.
+            https://www.etprocent.se följer en standardprocedur för att använda
+            loggfiler. Dessa filer loggar besökare när de besöker webbplatser. Allt
+            värdföretag gör detta och en del av värdtjänsternas analys.
+            Informationen som samlas in av loggfiler inkluderar internetprotokoll
+            (IP)-adresser, webbläsartyp, Internetleverantör (ISP), datum
+            och tidsstämpel, referens-/utgångssidor och eventuellt antalet
+            klickar. Dessa är inte kopplade till någon information som är personlig
+            identifierbar. Syftet med informationen är att analysera
+            trender, administrera webbplatsen, spåra användarnas rörelser på
+            webbplats och samla in demografisk information.
           </p>
           <h2>Cookies</h2>
           <p>
-            CookiesLike any other website, https://www.point7percent.org uses
-            'cookies'. These cookies are used to store information about the
-            pages on the website that the visitor accesses or interacts with,
-            and to control basic functions of the website. You can accept or
-            reject the use of cookies on https://www.point7percent.org through
-            the OneTrust cookie consent window, which can be accessed by
-            selecting the icon in the bottom-right of the screen.
+            Precis som alla andra webbplatser använder https://www.etprocent.se
+            'småkakor'. Dessa cookies används för att lagra information om
+            sidor på webbplatsen som besökaren besöker eller interagerar med,
+            och för att kontrollera webbplatsens grundläggande funktioner. Du kan acceptera eller
+            avvisa användningen av cookies på https://www.etprocent.se genom
+            OneTrust-cookie-samtyckesfönstret, som kan nås av
+            genom att välja ikonen längst ned till höger på skärmen.
           </p>
-          <h2>Third Party Cookies</h2>
+          <h2>Tredjepartscookies</h2>
           <p>
-            When consent is provided by the user, https://www.point7percent.org
-            uses a Facebook tracking script and cookies to advertise our website
-            and track website usage for the purpose of improving the relevance
-            of our advert targeting. We advise you to consult the Facebook
-            Privacy Policy for more detailed information about how Facebook
-            processes this data.
+            När samtycke lämnas av användaren, https://www.etprocent.se
+            använder ett Facebook-spårningsskript och cookies för att marknadsföra vår webbplats
+            och spåra webbplatsanvändning i syfte att förbättra relevansen
+            av vår annonsinriktning. Vi rekommenderar dig att konsultera Facebook
+            Sekretesspolicy för mer detaljerad information om hur Facebook
+            behandlar dessa uppgifter.
           </p>
           <p>
-            When consent is provided by the user, https://www.point7percent.org
-            uses a Google Analytics tracking script and cookies to track website
-            usage for the purpose of improving the site and survey through
-            aggregated data analysis. This data is siloed and we do not share it
-            with Google.
+            När samtycke lämnas av användaren, https://www.etprocent.se
+            använder ett Google Analytics-spårningsskript och cookies för att spåra webbplatsen
+            användning i syfte att förbättra webbplatsen och undersökning genom
+            aggregerad dataanalys. Denna data är siled och vi delar den inte
+            med Google.
           </p>
-          <h2>Children's Information</h2>
+          <h2>Barninformation</h2>
           <p>
-            https://www.point7percent.org does not knowingly collect any
-            Personal Identifiable Information from children under the age of 13.
-            If you think that your child provided this kind of information on
-            our website, we strongly encourage you to contact us immediately
-            using the email address{" "}
-            <a href="mailto:contact@point7percent.org">
-              contact@point7percent.org
+            https://www.etprocent.se samlar inte medvetet in några
+            Personlig identifierbar information från barn under 13 år.
+            Om du tror att ditt barn lämnat denna typ av information om
+            vår webbplats rekommenderar vi starkt att du kontaktar oss omedelbart
+            med e-postadressen {" "}
+            <a href="mailto:info@etprocent.se">
+              info@etprocent.se
             </a>{" "}
-            and we will promptly remove any such personal data
+            och vi kommer omedelbart att ta bort sådana personuppgifter
           </p>
           <h2>Contact Us</h2>
           <p>
             For any other questions or comments about this policy please email
             our Data Protection Officer at{" "}
-            <a href="mailto:contact@point7percent.org">
-              contact@point7percent.org
+            <a href="mailto:info@etprocent.se">
+            info@etprocent.se
             </a>
             . <br />
             <br />
-            We are regulated by the Information Commissioner’s Office, who you
-            can also contact for advice and support:
-            <a href="https://ico.org.uk/make-a-complaint/">
-              {" "}
-              https://ico.org.uk/make-a-complaint/
-            </a>
           </p>
         </Col>
       </Row>
