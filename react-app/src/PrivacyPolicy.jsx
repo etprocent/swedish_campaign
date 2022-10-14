@@ -188,10 +188,10 @@ const PrivacyPolicy = () => (
             </a>{" "}
             och vi kommer omedelbart att ta bort sådana personuppgifter
           </p>
-          <h2>Contact Us</h2>
+          <h2>Kontakta oss</h2>
           <p>
-            For any other questions or comments about this policy please email
-            our Data Protection Officer at{" "}
+            För andra frågor eller kommentarer om denna policy vänligen maila
+            vårt dataskyddsombud på {" "}
             <a href="mailto:info@etprocent.se">
             info@etprocent.se
             </a>
