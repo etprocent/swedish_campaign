@@ -40,7 +40,8 @@ const TextBox = ({ emailBody, passDataUpstream }) => {
             passDataUpstream({ emailWithGreeting: val }); //if the user edits the text box, a new property called editedResponse is set in state
           }}
         />
-        <Popup
+
+        {/* <Popup
           trigger={() => (
             <div className="copy-button-container">
               <button className="btn btn-outline-primary copy-button">
@@ -53,7 +54,7 @@ const TextBox = ({ emailBody, passDataUpstream }) => {
           className="copy-popup"
         >
           <span> Copied to clipboard </span>
-        </Popup>
+        </Popup> */}
       </div>
     </div>
   );
