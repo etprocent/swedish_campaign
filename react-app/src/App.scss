@@ -34,13 +34,13 @@ html {
 }
 
 .footer {
-  background-color: #313147;
+  background-color: #d0d0ff;
   padding-top: 30px;
   padding-bottom: 30px;
   font-size: 16px;
   line-height: 26px;
   text-align: center;
-  color: white;
+  color: black;
   h3 {
     margin-bottom: 20px;
     color: white;
@@ -54,12 +54,12 @@ html {
     padding-bottom: 40px;
   }
   a {
-    color: white;
+    color: #581291;
     text-decoration: none;
     display: block;
     &:hover {
       text-decoration: none;
-      color: #e6e6e6;
+      color: #464646;
     }
   }
 }
@@ -484,8 +484,8 @@ textarea:disabled {
 .privacy-policy,
 .about {
   width: 100%;
-  background-color: #313147;
-  color: white;
+  background-color: #d0d0ff;
+  color: black;
   padding-bottom: 40px;
   @media only screen and (min-width: 768px) {
     padding-bottom: 80px;
@@ -501,11 +501,11 @@ textarea:disabled {
   p {
     text-align: left;
 
-    color: white;
+    color: black;
     font-size: 16px;
   }
   a {
-    color: #4eb9be;
+    color: #581291;
   }
 }
 
