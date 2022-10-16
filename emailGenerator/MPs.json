@@ -1,2096 +1,2244 @@
-[
-  {
-    "Member": "Mattias Karlsson i Luleå",
-    "Party": "Moderaterna",
-    "Constituency": "Norrbotten",
-    "Email": "mattias.j.karlsson@riksdagen.se"
-  },
-  {
-    "Member": "Susanne Nordström",
-    "Party": "Moderaterna",
-    "Constituency": "Östergötland",
-    "Email": "susanne.nordstrom@riksdagen.se"
-  },
-  {
-    "Member": "Elisabeth Svantesson",
-    "Party": "Moderaterna",
-    "Constituency": "Örebro",
-    "Email": "elisabeth.svantesson@riksdagen.se"
-  },
-  {
-    "Member": "Oskar Svärd",
-    "Party": "Moderaterna",
-    "Constituency": "Örebro",
-    "Email": "oskar.svard@riksdagen.se"
-  },
-  {
-    "Member": "John Weinerhall",
-    "Party": "Moderaterna",
-    "Constituency": "Östergötland",
-    "Email": "john.e.weinerhall@riksdagen.se"
-  },
-  {
-    "Member": "John Widegren",
-    "Party": "Moderaterna",
-    "Constituency": "Östergötland",
-    "Email": "john.widegren@riksdagen.se"
-  },
-  {
-    "Member": "Edward Riedl",
-    "Party": "Moderaterna",
-    "Constituency": "Västerbotten",
-    "Email": "edward.riedl@riksdagen.se"
-  },
-  {
-    "Member": "Jörgen Berglund",
-    "Party": "Moderaterna",
-    "Constituency": "Västernorrland",
-    "Email": "jorgen.berglund@riksdagen.se"
-  },
-  {
-    "Member": "Caroline Högström",
-    "Party": "Moderaterna",
-    "Constituency": "Västernorrland",
-    "Email": "caroline.hogstrom@riksdagen.se"
-  },
-  {
-    "Member": "Saila Quicklund",
-    "Party": "Moderaterna",
-    "Constituency": "Jämtland",
-    "Email": "saila.quicklund@riksdagen.se"
-  },
-  {
-    "Member": "Gustaf Göthberg",
-    "Party": "Moderaterna",
-    "Constituency": "Gothenburg",
-    "Email": "gustaf.gothberg@riksdagen.se"
-  },
-  {
-    "Member": "Marie-Louise Hänel Sandström",
-    "Party": "Moderaterna",
-    "Constituency": "Gothenburg",
-    "Email": "marie-louise.hanel.sandstrom@riksdagen.se"
-  },
-  {
-    "Member": "David Josefsson",
-    "Party": "Moderaterna",
-    "Constituency": "Gothenburg",
-    "Email": "david.josefsson@riksdagen.se"
-  },
-  {
-    "Member": "Jesper Skalberg Karlsson",
-    "Party": "Moderaterna",
-    "Constituency": "Gotland",
-    "Email": "jesper.skalberg.karlsson@riksdagen.se"
-  },
-  {
-    "Member": "Pål Jonson",
-    "Party": "Moderaterna",
-    "Constituency": "Värmland",
-    "Email": "pal.jonson@riksdagen.se"
-  },
-  {
-    "Member": "Marléne Lund Kopparklint",
-    "Party": "Moderaterna",
-    "Constituency": "Värmland",
-    "Email": "marlene.lund.kopparklint@riksdagen.se"
-  },
-  {
-    "Member": "Alexandra Anstrell",
-    "Party": "Moderaterna",
-    "Constituency": "Stockholm",
-    "Email": "alexandra.anstrell@riksdagen.se"
-  },
-  {
-    "Member": "Kristina Axén Olin",
-    "Party": "Moderaterna",
-    "Constituency": "Stockholm",
-    "Email": "kristina.axen.olin@riksdagen.se"
-  },
-  {
-    "Member": "Tobias Billström",
-    "Party": "Moderaterna",
-    "Constituency": "Stockholm",
-    "Email": "tobias.billstrom@riksdagen.se"
-  },
-  {
-    "Member": "Margareta Cederfelt",
-    "Party": "Moderaterna",
-    "Constituency": "Stockholm",
-    "Email": "margareta.cederfelt@riksdagen.se"
-  },
-  {
-    "Member": "Ida Drougge",
-    "Party": "Moderaterna",
-    "Constituency": "Stockholm",
-    "Email": "ida.drougge@riksdagen.se"
-  },
-  {
-    "Member": "Karin Enström",
-    "Party": "Moderaterna",
-    "Constituency": "Stockholm",
-    "Email": "karin.enstrom@riksdagen.se"
-  },
-  {
-    "Member": "Johan Forssell",
-    "Party": "Moderaterna",
-    "Constituency": "Stockholm",
-    "Email": "johan.forssell@riksdagen.se"
-  },
-  {
-    "Member": "Kjell Jansson",
-    "Party": "Moderaterna",
-    "Constituency": "Stockholm",
-    "Email": "kjell.jansson@riksdagen.se"
-  },
-  {
-    "Member": "Arin Karapet",
-    "Party": "Moderaterna",
-    "Constituency": "Stockholm",
-    "Email": "arin.karapet@riksdagen.se"
-  },
-  {
-    "Member": "Ulf Kristersson",
-    "Party": "Moderaterna",
-    "Constituency": "Södermanland",
-    "Email": "ulf.kristersson@riksdagen.se"
-  },
-  {
-    "Member": "Fredrik Kärrholm",
-    "Party": "Moderaterna",
-    "Constituency": "Stockholm",
-    "Email": "fredrik.karrholm@riksdagen.se"
-  },
-  {
-    "Member": "Ann-Sofie Lifvenhage",
-    "Party": "Moderaterna",
-    "Constituency": "Södermanland",
-    "Email": "ann-sofie.lifvenhage@riksdagen.se"
-  },
-  {
-    "Member": "Josefin Malmqvist",
-    "Party": "Moderaterna",
-    "Constituency": "Stockholm",
-    "Email": "josefin.malmqvist@riksdagen.se"
-  },
-  {
-    "Member": "Erik Ottoson",
-    "Party": "Moderaterna",
-    "Constituency": "Stockholm",
-    "Email": "erik.ottoson@riksdagen.se"
-  },
-  {
-    "Member": "Jessica Rosencrantz",
-    "Party": "Moderaterna",
-    "Constituency": "Stockholm",
-    "Email": "jessica.rosencrantz@riksdagen.se"
-  },
-  {
-    "Member": "Magdalena Schröder",
-    "Party": "Moderaterna",
-    "Constituency": "Stockholm",
-    "Email": "magdalena.schroder@riksdagen.se"
-  },
-  {
-    "Member": "Maria Stockhaus",
-    "Party": "Moderaterna",
-    "Constituency": "Stockholm",
-    "Email": "maria.stockhaus@riksdagen.se"
-  },
-  {
-    "Member": "Niklas Wykman",
-    "Party": "Moderaterna",
-    "Constituency": "Stockholm",
-    "Email": "niklas.wykman@riksdagen.se"
-  },
-  {
-    "Member": "Mikael Damsgaard",
-    "Party": "Moderaterna",
-    "Constituency": "Västmanland",
-    "Email": "mikael.damsgaard@riksdagen.se"
-  },
-  {
-    "Member": "Lars Beckman",
-    "Party": "Moderaterna",
-    "Constituency": "Gävleborg",
-    "Email": "lars.beckman@riksdagen.se"
-  },
-  {
-    "Member": "Carl-Oskar Bohlin",
-    "Party": "Moderaterna",
-    "Constituency": "Dalarna",
-    "Email": "carl-oskar.bohlin@riksdagen.se"
-  },
-  {
-    "Member": "Lars Engsund",
-    "Party": "Moderaterna",
-    "Constituency": "Kalmar",
-    "Email": "lars.engsund@riksdagen.se"
-  },
-  {
-    "Member": "Malin Höglund",
-    "Party": "Moderaterna",
-    "Constituency": "Dalarna",
-    "Email": "malin.hoglund@riksdagen.se"
-  },
-  {
-    "Member": "Marie Nicholson",
-    "Party": "Moderaterna",
-    "Constituency": "Kalmar",
-    "Email": "marie.nicholson@riksdagen.se"
-  },
-  {
-    "Member": "Viktor Wärnick",
-    "Party": "Moderaterna",
-    "Constituency": "Gävleborg",
-    "Email": "viktor.warnick@riksdagen.se"
-  },
-  {
-    "Member": "Sten Bergheden",
-    "Party": "Moderaterna",
-    "Constituency": "Västra Götaland E",
-    "Email": "sten.bergheden@riksdagen.se"
-  },
-  {
-    "Member": "Charlotte Nordström",
-    "Party": "Moderaterna",
-    "Constituency": "Västra Götaland E",
-    "Email": "charlotte.nordstrom@riksdagen.se"
-  },
-  {
-    "Member": "Ann-Sofie Alm",
-    "Party": "Moderaterna",
-    "Constituency": "Västra Götaland N",
-    "Email": "ann-sofie.alm@riksdagen.se"
-  },
-  {
-    "Member": "Johan Hultberg",
-    "Party": "Moderaterna",
-    "Constituency": "Västra Götaland N",
-    "Email": "johan.hultberg@riksdagen.se"
-  },
-  {
-    "Member": "Camilla Brunsberg",
-    "Party": "Moderaterna",
-    "Constituency": "Blekinge",
-    "Email": "camilla.brunsberg@riksdagen.se"
-  },
-  {
-    "Member": "Thomas Ragnarsson",
-    "Party": "Moderaterna",
-    "Constituency": "Kronoberg",
-    "Email": "thomas.ragnarsson@riksdagen.se"
-  },
-  {
-    "Member": "Oliver Rosengren",
-    "Party": "Moderaterna",
-    "Constituency": "Kronoberg",
-    "Email": "oliver.rosengren@riksdagen.se"
-  },
-  {
-    "Member": "Jan Ericson",
-    "Party": "Moderaterna",
-    "Constituency": "Västra Götaland S",
-    "Email": "jan.ericson@riksdagen.se"
-  },
-  {
-    "Member": "Ellen Juntti",
-    "Party": "Moderaterna",
-    "Constituency": "Västra Götaland W",
-    "Email": "ellen.juntti@riksdagen.se"
-  },
-  {
-    "Member": "Ulrik Nilsson",
-    "Party": "Moderaterna",
-    "Constituency": "Västra Götaland S",
-    "Email": "ulrik.nilsson@riksdagen.se"
-  },
-  {
-    "Member": "Johanna Rantsi",
-    "Party": "Moderaterna",
-    "Constituency": "Västra Götaland W",
-    "Email": "johanna.rantsi@riksdagen.se"
-  },
-  {
-    "Member": "Camilla Waltersson Grönvall",
-    "Party": "Moderaterna",
-    "Constituency": "Västra Götaland W",
-    "Email": "camilla.waltersson.gronvall@riksdagen.se"
-  },
-  {
-    "Member": "Noria Manouchi",
-    "Party": "Moderaterna",
-    "Constituency": "Malmö",
-    "Email": "noria.manouchi@riksdagen.se"
-  },
-  {
-    "Member": "Peter Ollén",
-    "Party": "Moderaterna",
-    "Constituency": "Malmö",
-    "Email": "peter.ollen@riksdagen.se"
-  },
-  {
-    "Member": "Helena Bouveng",
-    "Party": "Moderaterna",
-    "Constituency": "Jönköping",
-    "Email": "helena.bouveng@riksdagen.se"
-  },
-  {
-    "Member": "Mats Green",
-    "Party": "Moderaterna",
-    "Constituency": "Jönköping",
-    "Email": "mats.green@riksdagen.se"
-  },
-  {
-    "Member": "Stefan Olsson",
-    "Party": "Moderaterna",
-    "Constituency": "Uppsala",
-    "Email": "stefan.olsson@riksdagen.se"
-  },
-  {
-    "Member": "Jessika Roswall",
-    "Party": "Moderaterna",
-    "Constituency": "Uppsala",
-    "Email": "jessika.roswall@riksdagen.se"
-  },
-  {
-    "Member": "Lars Püss",
-    "Party": "Moderaterna",
-    "Constituency": "Halland",
-    "Email": "lars.puss@riksdagen.se"
-  },
-  {
-    "Member": "Helena Storckenfeldt",
-    "Party": "Moderaterna",
-    "Constituency": "Halland",
-    "Email": "helena.storckenfeldt@riksdagen.se"
-  },
-  {
-    "Member": "Ann-Charlotte Hammar Johnsson",
-    "Party": "Moderaterna",
-    "Constituency": "Skåne W",
-    "Email": "ann-charlotte.hammar.johnsson@riksdagen.se"
-  },
-  {
-    "Member": "Ulrika Heindorff",
-    "Party": "Moderaterna",
-    "Constituency": "Skåne W",
-    "Email": "ulrika.heindorff@riksdagen.se"
-  },
-  {
-    "Member": "Louise Meijer",
-    "Party": "Moderaterna",
-    "Constituency": "Skåne S",
-    "Email": "louise.meijer@riksdagen.se"
-  },
-  {
-    "Member": "Christian Sonesson",
-    "Party": "Moderaterna",
-    "Constituency": "Skåne S",
-    "Email": "christian.sonesson@riksdagen.se"
-  },
-  {
-    "Member": "Boriana Åberg",
-    "Party": "Moderaterna",
-    "Constituency": "Skåne S",
-    "Email": "boriana.aberg@riksdagen.se"
-  },
-  {
-    "Member": "Maria Malmer Stenergard",
-    "Party": "Moderaterna",
-    "Constituency": "Skåne NE",
-    "Email": "maria.malmer.stenergard@riksdagen.se"
-  },
-  {
-    "Member": "Hans Wallmark",
-    "Party": "Moderaterna",
-    "Constituency": "Skåne NE",
-    "Email": "hans.wallmark@riksdagen.se"
-  },
-  {
-    "Member": "Alireza Akhondi",
-    "Party": "Centerpartiet",
-    "Constituency": "Stockholm",
-    "Email": "alireza.akhondi@riksdagen.se"
-  },
-  {
-    "Member": "Christofer Bergenblock",
-    "Party": "Centerpartiet",
-    "Constituency": "Halland",
-    "Email": "christofer.bergenblock@riksdagen.se"
-  },
-  {
-    "Member": "Malin Björk",
-    "Party": "Centerpartiet",
-    "Constituency": "Stockholm",
-    "Email": "malin.bjork@riksdagen.se"
-  },
-  {
-    "Member": "Daniel Bäckström",
-    "Party": "Centerpartiet",
-    "Constituency": "Värmland",
-    "Email": "daniel.backstrom@riksdagen.se"
-  },
-  {
-    "Member": "Jonny Cato",
-    "Party": "Centerpartiet",
-    "Constituency": "Skåne W",
-    "Email": "jonny.cato@riksdagen.se"
-  },
-  {
-    "Member": "Muharrem Demirok",
-    "Party": "Centerpartiet",
-    "Constituency": "Östergötland",
-    "Email": "muharrem.demirok@riksdagen.se"
-  },
-  {
-    "Member": "Catarina Deremar",
-    "Party": "Centerpartiet",
-    "Constituency": "Uppsala",
-    "Email": "catarina.deremar@riksdagen.se"
-  },
-  {
-    "Member": "Ulrika Heie",
-    "Party": "Centerpartiet",
-    "Constituency": "Västra Götaland E",
-    "Email": "ulrika.heie@riksdagen.se"
-  },
-  {
-    "Member": "Martina Johansson",
-    "Party": "Centerpartiet",
-    "Constituency": "Södermanland",
-    "Email": "martina.johansson@riksdagen.se"
-  },
-  {
-    "Member": "Anders W. Jonsson",
-    "Party": "Centerpartiet",
-    "Constituency": "Gävleborg",
-    "Email": "anders.w.jonsson@riksdagen.se"
-  },
-  {
-    "Member": "Mikael Larsson",
-    "Party": "Centerpartiet",
-    "Constituency": "Västra Götaland S",
-    "Email": "mikael.larsson@riksdagen.se"
-  },
-  {
-    "Member": "Stina Larsson",
-    "Party": "Centerpartiet",
-    "Constituency": "Skåne S",
-    "Email": "stina.larsson@riksdagen.se"
-  },
-  {
-    "Member": "Anna Lasses",
-    "Party": "Centerpartiet",
-    "Constituency": "Stockholm",
-    "Email": "anna.lasses@riksdagen.se"
-  },
-  {
-    "Member": "Ulrika Liljeberg",
-    "Party": "Centerpartiet",
-    "Constituency": "Dalarna",
-    "Email": "ulrika.liljeberg@riksdagen.se"
-  },
-  {
-    "Member": "Helena Lindahl",
-    "Party": "Centerpartiet",
-    "Constituency": "Västerbotten",
-    "Email": "helena.lindahl@riksdagen.se"
-  },
-  {
-    "Member": "Kerstin Lundgren",
-    "Party": "Centerpartiet",
-    "Constituency": "Stockholm",
-    "Email": "kerstin.lundgren@riksdagen.se"
-  },
-  {
-    "Member": "Annie Lööf",
-    "Party": "Centerpartiet",
-    "Constituency": "Jönköping",
-    "Email": "annie.loof@riksdagen.se"
-  },
-  {
-    "Member": "Rickard Nordin",
-    "Party": "Centerpartiet",
-    "Constituency": "Gothenburg",
-    "Email": "rickard.nordin@riksdagen.se"
-  },
-  {
-    "Member": "Niels Paarup-Petersen",
-    "Party": "Centerpartiet",
-    "Constituency": "Malmö",
-    "Email": "niels.paarup-petersen@riksdagen.se"
-  },
-  {
-    "Member": "Anne-Li Sjölund",
-    "Party": "Centerpartiet",
-    "Constituency": "Västernorrland",
-    "Email": "anne-li.sjolund@riksdagen.se"
-  },
-  {
-    "Member": "Elisabeth Thand Ringqvist",
-    "Party": "Centerpartiet",
-    "Constituency": "Stockholm",
-    "Email": "elisabeth.thand.ringqvist@riksdagen.se"
-  },
-  {
-    "Member": "Helena Vilhelmsson",
-    "Party": "Centerpartiet",
-    "Constituency": "Örebro",
-    "Email": "helena.vilhelmsson@riksdagen.se"
-  },
-  {
-    "Member": "Anders Ådahl",
-    "Party": "Centerpartiet",
-    "Constituency": "Västra Götaland W",
-    "Email": "anders.adahl@riksdagen.se"
-  },
-  {
-    "Member": "Martin Ådahl",
-    "Party": "Centerpartiet",
-    "Constituency": "Stockholm",
-    "Email": "martin.adahl@riksdagen.se"
-  },
-  {
-    "Member": "Gulan Avci",
-    "Party": "Liberalerna",
-    "Constituency": "Stockholm",
-    "Email": "gulan.avci@riksdagen.se"
-  },
-  {
-    "Member": "Juno Blom",
-    "Party": "Liberalerna",
-    "Constituency": "Östergötland",
-    "Email": "juno.blom@riksdagen.se"
-  },
-  {
-    "Member": "Malin Danielsson",
-    "Party": "Liberalerna",
-    "Constituency": "Stockholm",
-    "Email": "malin.danielsson@riksdagen.se"
-  },
-  {
-    "Member": "Louise Eklund",
-    "Party": "Liberalerna",
-    "Constituency": "Malmö",
-    "Email": "louise.eklund@riksdagen.se"
-  },
-  {
-    "Member": "Joar Forssell",
-    "Party": "Liberalerna",
-    "Constituency": "Stockholm",
-    "Email": "joar.forssell@riksdagen.se"
-  },
-  {
-    "Member": "Helena Gellerman",
-    "Party": "Liberalerna",
-    "Constituency": "Västra Götaland W",
-    "Email": "helena.gellerman@riksdagen.se"
-  },
-  {
-    "Member": "Robert Hannah",
-    "Party": "Liberalerna",
-    "Constituency": "Gothenburg",
-    "Email": "robert.hannah@riksdagen.se"
-  },
-  {
-    "Member": "Fredrik Malm",
-    "Party": "Liberalerna",
-    "Constituency": "Stockholm",
-    "Email": "fredrik.malm@riksdagen.se"
-  },
-  {
-    "Member": "Lina Nordquist",
-    "Party": "Liberalerna",
-    "Constituency": "Uppsala",
-    "Email": "lina.nordquist@riksdagen.se"
-  },
-  {
-    "Member": "Jakob Olofsgård",
-    "Party": "Liberalerna",
-    "Constituency": "Jönköping",
-    "Email": "jakob.olofsgard@riksdagen.se"
-  },
-  {
-    "Member": "Johan Pehrson",
-    "Party": "Liberalerna",
-    "Constituency": "Örebro",
-    "Email": "johan.pehrson@riksdagen.se"
-  },
-  {
-    "Member": "Mats Persson",
-    "Party": "Liberalerna",
-    "Constituency": "Skåne S",
-    "Email": "mats.persson@riksdagen.se"
-  },
-  {
-    "Member": "Romina Pourmokhtari",
-    "Party": "Liberalerna",
-    "Constituency": "Stockholm",
-    "Email": "romina.pourmokhtari@riksdagen.se"
-  },
-  {
-    "Member": "Mauricio Rojas",
-    "Party": "Liberalerna",
-    "Constituency": "Skåne W",
-    "Email": "mauricio.rojas@riksdagen.se"
-  },
-  {
-    "Member": "Cecilia Rönn",
-    "Party": "Liberalerna",
-    "Constituency": "Halland",
-    "Email": "cecilia.ronn@riksdagen.se"
-  },
-  {
-    "Member": "Anna Starbrink",
-    "Party": "Liberalerna",
-    "Constituency": "Stockholm",
-    "Email": "anna.starbrink@riksdagen.se"
-  },
-  {
-    "Member": "Acko Ankarberg Johansson",
-    "Party": "Kristdemokraterna",
-    "Constituency": "Jönköping",
-    "Email": "acko.ankarberg.johansson@riksdagen.se"
-  },
-  {
-    "Member": "Lili André",
-    "Party": "Kristdemokraterna",
-    "Constituency": "Gävleborg",
-    "Email": "lili.andre@riksdagen.se"
-  },
-  {
-    "Member": "Mathias Bengtsson",
-    "Party": "Kristdemokraterna",
-    "Constituency": "Dalarna",
-    "Email": "mathias.bengtsson@riksdagen.se"
-  },
-  {
-    "Member": "Magnus Berntsson",
-    "Party": "Kristdemokraterna",
-    "Constituency": "Gothenburg",
-    "Email": "magnus.berntsson@riksdagen.se"
-  },
-  {
-    "Member": "Camilla Brodin",
-    "Party": "Kristdemokraterna",
-    "Constituency": "Stockholm",
-    "Email": "camilla.brodin@riksdagen.se"
-  },
-  {
-    "Member": "Gudrun Brunegård",
-    "Party": "Kristdemokraterna",
-    "Constituency": "Kalmar",
-    "Email": "gudrun.brunegard@riksdagen.se"
-  },
-  {
-    "Member": "Ebba Busch",
-    "Party": "Kristdemokraterna",
-    "Constituency": "Västra Götaland E",
-    "Email": "ebba.busch@riksdagen.se"
-  },
-  {
-    "Member": "Christian Carlsson",
-    "Party": "Kristdemokraterna",
-    "Constituency": "Stockholm",
-    "Email": "christian.carlsson@riksdagen.se"
-  },
-  {
-    "Member": "Hans Eklind",
-    "Party": "Kristdemokraterna",
-    "Constituency": "Örebro",
-    "Email": "hans.eklind@riksdagen.se"
-  },
-  {
-    "Member": "Torsten Elofsson",
-    "Party": "Kristdemokraterna",
-    "Constituency": "Skåne NE",
-    "Email": "torsten.elofsson@riksdagen.se"
-  },
-  {
-    "Member": "Cecilia Engström",
-    "Party": "Kristdemokraterna",
-    "Constituency": "Skåne S",
-    "Email": "cecilia.engstrom@riksdagen.se"
-  },
-  {
-    "Member": "Jakob Forssmed",
-    "Party": "Kristdemokraterna",
-    "Constituency": "Stockholm",
-    "Email": "jakob.forssmed@riksdagen.se"
-  },
-  {
-    "Member": "Magnus Jacobsson",
-    "Party": "Kristdemokraterna",
-    "Constituency": "Västra Götaland N",
-    "Email": "magnus.jacobsson@riksdagen.se"
-  },
-  {
-    "Member": "Ingemar Kihlström",
-    "Party": "Kristdemokraterna",
-    "Constituency": "Västra Götaland S",
-    "Email": "ingemar.kihlstrom@riksdagen.se"
-  },
-  {
-    "Member": "Magnus Oscarsson",
-    "Party": "Kristdemokraterna",
-    "Constituency": "Östergötland",
-    "Email": "magnus.oscarsson@riksdagen.se"
-  },
-  {
-    "Member": "Mikael Oscarsson",
-    "Party": "Kristdemokraterna",
-    "Constituency": "Uppsala",
-    "Email": "mikael.oscarsson@riksdagen.se"
-  },
-  {
-    "Member": "Kjell-Arne Ottosson",
-    "Party": "Kristdemokraterna",
-    "Constituency": "Värmland",
-    "Email": "kjell-arne.ottosson@riksdagen.se"
-  },
-  {
-    "Member": "Larry Söder",
-    "Party": "Kristdemokraterna",
-    "Constituency": "Halland",
-    "Email": "larry.soder@riksdagen.se"
-  },
-  {
-    "Member": "Roland Utbult",
-    "Party": "Kristdemokraterna",
-    "Constituency": "Västra Götaland W",
-    "Email": "roland.utbult@riksdagen.se"
-  },
-  {
-    "Member": "Sofia Amloh",
-    "Party": "Socialdemokraterna",
-    "Constituency": "Södermanland",
-    "Email": "sofia.amloh@riksdagen.se"
-  },
-  {
-    "Member": "Johan Andersson",
-    "Party": "Socialdemokraterna",
-    "Constituency": "Östergötland",
-    "Email": "johan.andersson@riksdagen.se"
-  },
-  {
-    "Member": "Christopher Lindvall",
-    "Party": "Socialdemokraterna",
-    "Constituency": "Stockholm",
-    "Email": "christopher.lindvall@riksdagen.se"
-  },
-  {
-    "Member": "Sanna Backeskog",
-    "Party": "Socialdemokraterna",
-    "Constituency": "Gävleborg",
-    "Email": "sanna.backeskog@riksdagen.se"
-  },
-  {
-    "Member": "Denis Begic",
-    "Party": "Socialdemokraterna",
-    "Constituency": "Örebro",
-    "Email": "denis.begic@riksdagen.se"
-  },
-  {
-    "Member": "Aida Birinxhiku",
-    "Party": "Socialdemokraterna",
-    "Constituency": "Halland",
-    "Email": "aida.birinxhiku@riksdagen.se"
-  },
-  {
-    "Member": "Patrik Björck",
-    "Party": "Socialdemokraterna",
-    "Constituency": "Västra Götaland E",
-    "Email": "patrik.bjorck@riksdagen.se"
-  },
-  {
-    "Member": "Peder Björk",
-    "Party": "Socialdemokraterna",
-    "Constituency": "Västernorrland",
-    "Email": "peder.bjork@riksdagen.se"
-  },
-  {
-    "Member": "Heléne Björklund",
-    "Party": "Socialdemokraterna",
-    "Constituency": "Blekinge",
-    "Email": "helene.bjorklund@riksdagen.se"
-  },
-  {
-    "Member": "Yasmine Bladelius",
-    "Party": "Socialdemokraterna",
-    "Constituency": "Skåne W",
-    "Email": "yasmine.bladelius@riksdagen.se"
-  },
-  {
-    "Member": "Johan Büser",
-    "Party": "Socialdemokraterna",
-    "Constituency": "Gothenburg",
-    "Email": "johan.buser@riksdagen.se"
-  },
-  {
-    "Member": "Gunilla Carlsson",
-    "Party": "Socialdemokraterna",
-    "Constituency": "Gothenburg",
-    "Email": "gunilla.c.carlsson@riksdagen.se"
-  },
-  {
-    "Member": "Rose-Marie Carlsson",
-    "Party": "Socialdemokraterna",
-    "Constituency": "Malmö",
-    "Email": "rose-marie.carlsson@riksdagen.se"
-  },
-  {
-    "Member": "Teresa Carvalho",
-    "Party": "Socialdemokraterna",
-    "Constituency": "Östergötland",
-    "Email": "teresa.carvalho@riksdagen.se"
-  },
-  {
-    "Member": "Dzenan Cisija",
-    "Party": "Socialdemokraterna",
-    "Constituency": "Gothenburg",
-    "Email": "dzenan.cisija@riksdagen.se"
-  },
-  {
-    "Member": "Mikael Dahlqvist",
-    "Party": "Socialdemokraterna",
-    "Constituency": "Värmland",
-    "Email": "mikael.dahlqvist@riksdagen.se"
-  },
-  {
-    "Member": "Solange Olame Bayibsa",
-    "Party": "Socialdemokraterna",
-    "Constituency": "Stockholm",
-    "Email": "solange.olame.bayibsa@riksdagen.se"
-  },
-  {
-    "Member": "Azra Muranovic",
-    "Party": "Socialdemokraterna",
-    "Constituency": "Jönköping",
-    "Email": "azra.muranovic@riksdagen.se"
-  },
-  {
-    "Member": "Adnan Dibrani",
-    "Party": "Socialdemokraterna",
-    "Constituency": "Halland",
-    "Email": "adnan.dibrani@riksdagen.se"
-  },
-  {
-    "Member": "Hans Ekström",
-    "Party": "Socialdemokraterna",
-    "Constituency": "Södermanland",
-    "Email": "hans.ekstrom@riksdagen.se"
-  },
-  {
-    "Member": "Jamal El-Haj",
-    "Party": "Socialdemokraterna",
-    "Constituency": "Malmö",
-    "Email": "jamal.el-haj@riksdagen.se"
-  },
-  {
-    "Member": "Robert Olesen",
-    "Party": "Socialdemokraterna",
-    "Constituency": "Kronoberg",
-    "Email": "robert.olesen@riksdagen.se"
-  },
-  {
-    "Member": "Sofie Eriksson",
-    "Party": "Socialdemokraterna",
-    "Constituency": "Dalarna",
-    "Email": "sofie.b.eriksson@riksdagen.se"
-  },
-  {
-    "Member": "Åsa Eriksson",
-    "Party": "Socialdemokraterna",
-    "Constituency": "Västmanland",
-    "Email": "asa.eriksson@riksdagen.se"
-  },
-  {
-    "Member": "Daniel Andersson",
-    "Party": "Socialdemokraterna",
-    "Constituency": "Örebro",
-    "Email": "daniel.andersson@riksdagen.se"
-  },
-  {
-    "Member": "Erik Ezelius",
-    "Party": "Socialdemokraterna",
-    "Constituency": "Västra Götaland E",
-    "Email": "erik.ezelius@riksdagen.se"
-  },
-  {
-    "Member": "Aylin Fazelian",
-    "Party": "Socialdemokraterna",
-    "Constituency": "Västra Götaland W",
-    "Email": "aylin.fazelian@riksdagen.se"
-  },
-  {
-    "Member": "Kenneth G. Forslund",
-    "Party": "Socialdemokraterna",
-    "Constituency": "Västra Götaland W",
-    "Email": "kenneth.g.forslund@riksdagen.se"
-  },
-  {
-    "Member": "Isak From",
-    "Party": "Socialdemokraterna",
-    "Constituency": "Västerbotten",
-    "Email": "isak.from@riksdagen.se"
-  },
-  {
-    "Member": "Marianne Fundahn",
-    "Party": "Socialdemokraterna",
-    "Constituency": "Skåne S",
-    "Email": "marianne.fundahn@riksdagen.se"
-  },
-  {
-    "Member": "Jytte Guteland",
-    "Party": "Socialdemokraterna",
-    "Constituency": "Stockholm",
-    "Email": "jytte.guteland@riksdagen.se"
-  },
-  {
-    "Member": "Monica Haider",
-    "Party": "Socialdemokraterna",
-    "Constituency": "Kronoberg",
-    "Email": "monica.haider@riksdagen.se"
-  },
-  {
-    "Member": "Björn Petersson",
-    "Party": "Socialdemokraterna",
-    "Constituency": "Kalmar",
-    "Email": "bjorn.petersson@riksdagen.se"
-  },
-  {
-    "Member": "Johanna Haraldsson",
-    "Party": "Socialdemokraterna",
-    "Constituency": "Jönköping",
-    "Email": "johanna.haraldsson@riksdagen.se"
-  },
-  {
-    "Member": "Peter Hedberg",
-    "Party": "Socialdemokraterna",
-    "Constituency": "Västernorrland",
-    "Email": "peter.hedberg@riksdagen.se"
-  },
-  {
-    "Member": "Caroline Helmersson Olsson",
-    "Party": "Socialdemokraterna",
-    "Constituency": "Södermanland",
-    "Email": "caroline.helmersson.olsson@riksdagen.se"
-  },
-  {
-    "Member": "Paula Holmqvist",
-    "Party": "Socialdemokraterna",
-    "Constituency": "Västra Götaland N",
-    "Email": "paula.holmqvist@riksdagen.se"
-  },
-  {
-    "Member": "Roza Güclü Hedin",
-    "Party": "Socialdemokraterna",
-    "Constituency": "Dalarna",
-    "Email": "roza.guclu.hedin@riksdagen.se"
-  },
-  {
-    "Member": "Per-Arne Håkansson",
-    "Party": "Socialdemokraterna",
-    "Constituency": "Skåne NE",
-    "Email": "per-arne.hakansson@riksdagen.se"
-  },
-  {
-    "Member": "Lars Isaksson",
-    "Party": "Socialdemokraterna",
-    "Constituency": "Dalarna",
-    "Email": "lars.isacsson@riksdagen.se"
-  },
-  {
-    "Member": "Lena Johansson",
-    "Party": "Socialdemokraterna",
-    "Constituency": "Västmanland",
-    "Email": "lena.johansson@riksdagen.se"
-  },
-  {
-    "Member": "Elin Gustafsson",
-    "Party": "Socialdemokraterna",
-    "Constituency": "Skåne S",
-    "Email": "elin.a.gustafsson@riksdagen.se"
-  },
-  {
-    "Member": "Mattias Jonsson",
-    "Party": "Socialdemokraterna",
-    "Constituency": "Gothenburg",
-    "Email": "mattias.jonsson@riksdagen.se"
-  },
-  {
-    "Member": "Joakim Järrebring",
-    "Party": "Socialdemokraterna",
-    "Constituency": "Västra Götaland W",
-    "Email": "joakim.jarrebring@riksdagen.se"
-  },
-  {
-    "Member": "Markus Kallifatides",
-    "Party": "Socialdemokraterna",
-    "Constituency": "Stockholm",
-    "Email": "markus.kallifatides@riksdagen.se"
-  },
-  {
-    "Member": "Louise Mörk",
-    "Party": "Socialdemokraterna",
-    "Constituency": "Norrbotten",
-    "Email": "louise.mork@riksdagen.se"
-  },
-  {
-    "Member": "Niklas Karlsson",
-    "Party": "Socialdemokraterna",
-    "Constituency": "Skåne W",
-    "Email": "niklas.karlsson@riksdagen.se"
-  },
-  {
-    "Member": "Åsa Karlsson",
-    "Party": "Socialdemokraterna",
-    "Constituency": "Västerbotten",
-    "Email": "asa.karlsson@riksdagen.se"
-  },
-  {
-    "Member": "Kadir Kasirga",
-    "Party": "Socialdemokraterna",
-    "Constituency": "Stockholm",
-    "Email": "kadir.kasirga@riksdagen.se"
-  },
-  {
-    "Member": "Tomas Kronståhl",
-    "Party": "Socialdemokraterna",
-    "Constituency": "Kalmar",
-    "Email": "tomas.kronstahl@riksdagen.se"
-  },
-  {
-    "Member": "Serkan Köse",
-    "Party": "Socialdemokraterna",
-    "Constituency": "Stockholm",
-    "Email": "serkan.kose@riksdagen.se"
-  },
-  {
-    "Member": "Gustaf Lantz",
-    "Party": "Socialdemokraterna",
-    "Constituency": "Uppsala",
-    "Email": "gustaf.lantz@riksdagen.se"
-  },
-  {
-    "Member": "Lars Mejern Larsson",
-    "Party": "Socialdemokraterna",
-    "Constituency": "Värmland",
-    "Email": "lars.mejern.larsson@riksdagen.se"
-  },
-  {
-    "Member": "Malin Larsson",
-    "Party": "Socialdemokraterna",
-    "Constituency": "Västernorrland",
-    "Email": "malin.larsson@riksdagen.se"
-  },
-  {
-    "Member": "Zara Leghissa",
-    "Party": "Socialdemokraterna",
-    "Constituency": "Norrbotten",
-    "Email": "zara.leghissa@riksdagen.se"
-  },
-  {
-    "Member": "Sanne Lennström",
-    "Party": "Socialdemokraterna",
-    "Constituency": "Uppsala",
-    "Email": "sanne.lennstrom@riksdagen.se"
-  },
-  {
-    "Member": "Kristoffer Lindberg",
-    "Party": "Socialdemokraterna",
-    "Constituency": "Gävleborg",
-    "Email": "kristoffer.lindberg@riksdagen.se"
-  },
-  {
-    "Member": "Eva Lindh",
-    "Party": "Socialdemokraterna",
-    "Constituency": "Östergötland",
-    "Email": "eva.lindh@riksdagen.se"
-  },
-  {
-    "Member": "Fredrik Lundh Sammeli",
-    "Party": "Socialdemokraterna",
-    "Constituency": "Norrbotten",
-    "Email": "fredrik.lundh.sammeli@riksdagen.se"
-  },
-  {
-    "Member": "Patrik Lundqvist",
-    "Party": "Socialdemokraterna",
-    "Constituency": "Gävleborg",
-    "Email": "patrik.lundqvist@riksdagen.se"
-  },
-  {
-    "Member": "Petter Löberg",
-    "Party": "Socialdemokraterna",
-    "Constituency": "Västra Götaland S",
-    "Email": "petter.loberg@riksdagen.se"
-  },
-  {
-    "Member": "Johan Löfstrand",
-    "Party": "Socialdemokraterna",
-    "Constituency": "Östergötland",
-    "Email": "johan.lofstrand@riksdagen.se"
-  },
-  {
-    "Member": "Adrian Magnusson",
-    "Party": "Socialdemokraterna",
-    "Constituency": "Skåne S",
-    "Email": "adrian.magnusson@riksdagen.se"
-  },
-  {
-    "Member": "Magnus Manhammar",
-    "Party": "Socialdemokraterna",
-    "Constituency": "Blekinge",
-    "Email": "magnus.manhammar@riksdagen.se"
-  },
-  {
-    "Member": "Ola Möller",
-    "Party": "Socialdemokraterna",
-    "Constituency": "Skåne W",
-    "Email": "ola.moller@riksdagen.se"
-  },
-  {
-    "Member": "Laila Naraghi",
-    "Party": "Socialdemokraterna",
-    "Constituency": "Kalmar",
-    "Email": "laila.naraghi@riksdagen.se"
-  },
-  {
-    "Member": "Jennie Nilsson",
-    "Party": "Socialdemokraterna",
-    "Constituency": "Halland",
-    "Email": "jennie.nilsson@riksdagen.se"
-  },
-  {
-    "Member": "Ingela Nylund Watz",
-    "Party": "Socialdemokraterna",
-    "Constituency": "Stockholm",
-    "Email": "ingela.nylund.watz@riksdagen.se"
-  },
-  {
-    "Member": "Leif Nysmed",
-    "Party": "Socialdemokraterna",
-    "Constituency": "Stockholm",
-    "Email": "leif.nysmed@riksdagen.se"
-  },
-  {
-    "Member": "Ida Ekeroth Clausson",
-    "Party": "Socialdemokraterna",
-    "Constituency": "Västra Götaland E",
-    "Email": "ida.ekeroth.clausson@riksdagen.se"
-  },
-  {
-    "Member": "Alexander Wasberg",
-    "Party": "Socialdemokraterna",
-    "Constituency": "Södermanland",
-    "Email": "alexander.wasberg@riksdagen.se"
-  },
-  {
-    "Member": "Kalle Olsson",
-    "Party": "Socialdemokraterna",
-    "Constituency": "Jämtland",
-    "Email": "kalle.olsson@riksdagen.se"
-  },
-  {
-    "Member": "Mattias Ottosson",
-    "Party": "Socialdemokraterna",
-    "Constituency": "Östergötland",
-    "Email": "mattias.ottosson@riksdagen.se"
-  },
-  {
-    "Member": "Amalia Pedersen",
-    "Party": "Socialdemokraterna",
-    "Constituency": "Gothenburg",
-    "Email": "amalia.rud.pedersen@riksdagen.se"
-  },
-  {
-    "Member": "Helén Pettersson",
-    "Party": "Socialdemokraterna",
-    "Constituency": "Västerbotten",
-    "Email": "helen.pettersson@riksdagen.se"
-  },
-  {
-    "Member": "Ewa Pihl Krabbe",
-    "Party": "Socialdemokraterna",
-    "Constituency": "Skåne NE",
-    "Email": "ewa.pihl.krabbe@riksdagen.se"
-  },
-  {
-    "Member": "Lawen Redar",
-    "Party": "Socialdemokraterna",
-    "Constituency": "Stockholm",
-    "Email": "lawen.redar@riksdagen.se"
-  },
-  {
-    "Member": "Jessica Rodén",
-    "Party": "Socialdemokraterna",
-    "Constituency": "Västra Götaland S",
-    "Email": "jessica.roden@riksdagen.se"
-  },
-  {
-    "Member": "Azadeh Rojhan Gustafsson",
-    "Party": "Socialdemokraterna",
-    "Constituency": "Stockholm",
-    "Email": "azadeh.rojhan@riksdagen.se"
-  },
-  {
-    "Member": "Mirja Räihä",
-    "Party": "Socialdemokraterna",
-    "Constituency": "Stockholm",
-    "Email": "mirja.raiha@riksdagen.se"
-  },
-  {
-    "Member": "Joakim Sandell",
-    "Party": "Socialdemokraterna",
-    "Constituency": "Malmö",
-    "Email": "joakim.sandell@riksdagen.se"
-  },
-  {
-    "Member": "Markus Selin",
-    "Party": "Socialdemokraterna",
-    "Constituency": "Stockholm",
-    "Email": "markus.selin@riksdagen.se"
-  },
-  {
-    "Member": "Marcus Wennerström",
-    "Party": "Socialdemokraterna",
-    "Constituency": "Uppsala",
-    "Email": "marcus.wennerstrom@riksdagen.se"
-  },
-  {
-    "Member": "Niklas Sigvardsson",
-    "Party": "Socialdemokraterna",
-    "Constituency": "Jönköping",
-    "Email": "niklas.sigvardsson@riksdagen.se"
-  },
-  {
-    "Member": "Inga-Lill Sjöblom",
-    "Party": "Socialdemokraterna",
-    "Constituency": "Uppsala",
-    "Email": "inga-lill.sjoblom@riksdagen.se"
-  },
-  {
-    "Member": "Linus Sköld",
-    "Party": "Socialdemokraterna",
-    "Constituency": "Norrbotten",
-    "Email": "linus.skold@riksdagen.se"
-  },
-  {
-    "Member": "Sofia Skönnbrink",
-    "Party": "Socialdemokraterna",
-    "Constituency": "Värmland",
-    "Email": "sofia.skonnbrink@riksdagen.se"
-  },
-  {
-    "Member": "Sultan Kayhan",
-    "Party": "Socialdemokraterna",
-    "Constituency": "Stockholm",
-    "Email": "sultan.kayhan@riksdagen.se"
-  },
-  {
-    "Member": "Anna-Belle Strömberg",
-    "Party": "Socialdemokraterna",
-    "Constituency": "Västernorrland",
-    "Email": "anna-belle.stromberg@riksdagen.se"
-  },
-  {
-    "Member": "Karin Sundin",
-    "Party": "Socialdemokraterna",
-    "Constituency": "Örebro",
-    "Email": "karin.sundin@riksdagen.se"
-  },
-  {
-    "Member": "Gunilla Svantorp",
-    "Party": "Socialdemokraterna",
-    "Constituency": "Värmland",
-    "Email": "gunilla.svantorp@riksdagen.se"
-  },
-  {
-    "Member": "Lena Bäckelin",
-    "Party": "Socialdemokraterna",
-    "Constituency": "Jämtland",
-    "Email": "lena.backelin@riksdagen.se"
-  },
-  {
-    "Member": "Mathias Tegnér",
-    "Party": "Socialdemokraterna",
-    "Constituency": "Stockholm",
-    "Email": "mathias.tegner@riksdagen.se"
-  },
-  {
-    "Member": "Olle Thorell",
-    "Party": "Socialdemokraterna",
-    "Constituency": "Västmanland",
-    "Email": "olle.thorell@riksdagen.se"
-  },
-  {
-    "Member": "Louise Thunström",
-    "Party": "Socialdemokraterna",
-    "Constituency": "Skåne NE",
-    "Email": "louise.thunstrom@riksdagen.se"
-  },
-  {
-    "Member": "Daniel Vencu Velasquez Castro",
-    "Party": "Socialdemokraterna",
-    "Constituency": "Stockholm",
-    "Email": "daniel.vencu.velasquez.castro@riksdagen.se"
-  },
-  {
-    "Member": "Mattias Vepsä",
-    "Party": "Socialdemokraterna",
-    "Constituency": "Stockholm",
-    "Email": "mattias.vepsa@riksdagen.se"
-  },
-  {
-    "Member": "Anna Vikström",
-    "Party": "Socialdemokraterna",
-    "Constituency": "Stockholm",
-    "Email": "anna.vikstrom@riksdagen.se"
-  },
-  {
-    "Member": "Alexandra Völker",
-    "Party": "Socialdemokraterna",
-    "Constituency": "Stockholm",
-    "Email": "alexandra.volker@riksdagen.se"
-  },
-  {
-    "Member": "Anna Wallentheim",
-    "Party": "Socialdemokraterna",
-    "Constituency": "Skåne NE",
-    "Email": "anna.wallentheim@riksdagen.se"
-  },
-  {
-    "Member": "Hanna Westerén",
-    "Party": "Socialdemokraterna",
-    "Constituency": "Gotland",
-    "Email": "hanna.westeren@riksdagen.se"
-  },
-  {
-    "Member": "Åsa Westlund",
-    "Party": "Socialdemokraterna",
-    "Constituency": "Stockholm",
-    "Email": "asa.westlund@riksdagen.se"
-  },
-  {
-    "Member": "Linnéa Wickman",
-    "Party": "Socialdemokraterna",
-    "Constituency": "Gävleborg",
-    "Email": "linnea.wickman@riksdagen.se"
-  },
-  {
-    "Member": "Björn Wiechel",
-    "Party": "Socialdemokraterna",
-    "Constituency": "Västerbotten",
-    "Email": "bjorn.wiechel@riksdagen.se"
-  },
-  {
-    "Member": "Mats Wiking",
-    "Party": "Socialdemokraterna",
-    "Constituency": "Västra Götaland N",
-    "Email": "mats.wiking@riksdagen.se"
-  },
-  {
-    "Member": "Elsemarie Bjellqvist",
-    "Party": "Socialdemokraterna",
-    "Constituency": "Stockholm",
-    "Email": "elsemarie.bjellqvist@riksdagen.se"
-  },
-  {
-    "Member": "Carina Ödebrink",
-    "Party": "Socialdemokraterna",
-    "Constituency": "Jönköping",
-    "Email": "carina.odebrink@riksdagen.se"
-  },
-  {
-    "Member": "Andrea Andersson-Tay",
-    "Party": "Vänsterpartiet",
-    "Constituency": "Stockholm",
-    "Email": "andrea.andersson-tay@riksdagen.se"
-  },
-  {
-    "Member": "Nadja Awad",
-    "Party": "Vänsterpartiet",
-    "Constituency": "Örebro",
-    "Email": "nadja.awad@riksdagen.se"
-  },
-  {
-    "Member": "Nooshi Dadgostar",
-    "Party": "Vänsterpartiet",
-    "Constituency": "Stockholm",
-    "Email": "nooshi.dadgostar@riksdagen.se"
-  },
-  {
-    "Member": "Lorena Delgado Varas",
-    "Party": "Vänsterpartiet",
-    "Constituency": "Stockholm",
-    "Email": "lorena.delgado@riksdagen.se"
-  },
-  {
-    "Member": "Ali Esbati",
-    "Party": "Vänsterpartiet",
-    "Constituency": "Stockholm",
-    "Email": "ali.esbati@riksdagen.se"
-  },
-  {
-    "Member": "Kajsa Fredholm",
-    "Party": "Vänsterpartiet",
-    "Constituency": "Dalarna",
-    "Email": "kajsa.fredholm@riksdagen.se"
-  },
-  {
-    "Member": "Ida Gabrielsson",
-    "Party": "Vänsterpartiet",
-    "Constituency": "Stockholm",
-    "Email": "ida.gabrielsson@riksdagen.se"
-  },
-  {
-    "Member": "Samuel Gonzalez Westling",
-    "Party": "Vänsterpartiet",
-    "Constituency": "Gävleborg",
-    "Email": "samuel.gonzalez.westling@riksdagen.se"
-  },
-  {
-    "Member": "Hanna Gunnarsson",
-    "Party": "Vänsterpartiet",
-    "Constituency": "Skåne S",
-    "Email": "hanna.gunnarsson@riksdagen.se"
-  },
-  {
-    "Member": "Tony Haddou",
-    "Party": "Vänsterpartiet",
-    "Constituency": "Gothenburg",
-    "Email": "tony.haddou@riksdagen.se"
-  },
-  {
-    "Member": "Momodou Malcolm Jallow",
-    "Party": "Vänsterpartiet",
-    "Constituency": "Malmö",
-    "Email": "momodou-malcolm.jallow@riksdagen.se"
-  },
-  {
-    "Member": "Lotta Johnsson Fornarve",
-    "Party": "Vänsterpartiet",
-    "Constituency": "Södermanland",
-    "Email": "lotta.johnsson.fornarve@riksdagen.se"
-  },
-  {
-    "Member": "Maj Karlsson",
-    "Party": "Vänsterpartiet",
-    "Constituency": "Gothenburg",
-    "Email": "maj.karlsson@riksdagen.se"
-  },
-  {
-    "Member": "Birger Lahti",
-    "Party": "Vänsterpartiet",
-    "Constituency": "Norrbotten",
-    "Email": "birger.lahti@riksdagen.se"
-  },
-  {
-    "Member": "Isabell Mixter",
-    "Party": "Vänsterpartiet",
-    "Constituency": "Västernorrland",
-    "Email": "isabell.mixter@riksdagen.se"
-  },
-  {
-    "Member": "Gudrun Nordborg",
-    "Party": "Vänsterpartiet",
-    "Constituency": "Västerbotten",
-    "Email": "gudrun.nordborg@riksdagen.se"
-  },
-  {
-    "Member": "Daniel Riazat",
-    "Party": "Vänsterpartiet",
-    "Constituency": "Stockholm",
-    "Email": "daniel.riazat@riksdagen.se"
-  },
-  {
-    "Member": "Karin Rågsjö",
-    "Party": "Vänsterpartiet",
-    "Constituency": "Stockholm",
-    "Email": "karin.ragsjo@riksdagen.se"
-  },
-  {
-    "Member": "Håkan Svenneling",
-    "Party": "Vänsterpartiet",
-    "Constituency": "Värmland",
-    "Email": "hakan.svenneling@riksdagen.se"
-  },
-  {
-    "Member": "Ilona Szatmári Waldau",
-    "Party": "Vänsterpartiet",
-    "Constituency": "Uppsala",
-    "Email": "ilona.waldau@riksdagen.se"
-  },
-  {
-    "Member": "Vasiliki Tsouplaki",
-    "Party": "Vänsterpartiet",
-    "Constituency": "Västmanland",
-    "Email": "vasiliki.tsouplaki@riksdagen.se"
-  },
-  {
-    "Member": "Ciczie Weidby",
-    "Party": "Vänsterpartiet",
-    "Constituency": "Jönköping",
-    "Email": "ciczie.weidby@riksdagen.se"
-  },
-  {
-    "Member": "Linda Westerlund Snecker",
-    "Party": "Vänsterpartiet",
-    "Constituency": "Östergötland",
-    "Email": "linda.snecker@riksdagen.se"
-  },
-  {
-    "Member": "Jessica Wetterling",
-    "Party": "Vänsterpartiet",
-    "Constituency": "Västra Götaland W",
-    "Email": "jessica.wetterling@riksdagen.se"
-  },
-  {
-    "Member": "Leila Ali Elmi",
-    "Party": "Miljöpartiet",
-    "Constituency": "Gothenburg",
-    "Email": "leila.ali.elmi@riksdagen.se"
-  },
-  {
-    "Member": "Janine Alm Ericson",
-    "Party": "Miljöpartiet",
-    "Constituency": "Västra Götaland W",
-    "Email": "janine.alm.ericson@riksdagen.se"
-  },
-  {
-    "Member": "Emma Berginger",
-    "Party": "Miljöpartiet",
-    "Constituency": "Skåne S",
-    "Email": "emma.berginger@riksdagen.se"
-  },
-  {
-    "Member": "Per Bolund",
-    "Party": "Miljöpartiet",
-    "Constituency": "Stockholm",
-    "Email": "per.bolund@riksdagen.se"
-  },
-  {
-    "Member": "Camilla Hansén",
-    "Party": "Miljöpartiet",
-    "Constituency": "Örebro",
-    "Email": "camilla.hansen@riksdagen.se"
-  },
-  {
-    "Member": "Daniel Helldén",
-    "Party": "Miljöpartiet",
-    "Constituency": "Stockholm",
-    "Email": "daniel.hellden@riksdagen.se"
-  },
-  {
-    "Member": "Annika Hirvonen",
-    "Party": "Miljöpartiet",
-    "Constituency": "Stockholm",
-    "Email": "annika.hirvonen@riksdagen.se"
-  },
-  {
-    "Member": "Linus Lakso",
-    "Party": "Miljöpartiet",
-    "Constituency": "Södermanland",
-    "Email": "linus.lakso@riksdagen.se"
-  },
-  {
-    "Member": "Rebecka Le Moine",
-    "Party": "Miljöpartiet",
-    "Constituency": "Östergötland",
-    "Email": "rebecka.le.moine@riksdagen.se"
-  },
-  {
-    "Member": "Amanda Lind",
-    "Party": "Miljöpartiet",
-    "Constituency": "Stockholm",
-    "Email": "amanda.lind@riksdagen.se"
-  },
-  {
-    "Member": "Åsa Lindhagen",
-    "Party": "Miljöpartiet",
-    "Constituency": "Stockholm",
-    "Email": "asa.lindhagen@riksdagen.se"
-  },
-  {
-    "Member": "Rasmus Ling",
-    "Party": "Miljöpartiet",
-    "Constituency": "Malmö",
-    "Email": "rasmus.ling@riksdagen.se"
-  },
-  {
-    "Member": "Emma Nohrén",
-    "Party": "Miljöpartiet",
-    "Constituency": "Gothenburg",
-    "Email": "emma.nohren@riksdagen.se"
-  },
-  {
-    "Member": "Jan Riise",
-    "Party": "Miljöpartiet",
-    "Constituency": "Halland",
-    "Email": "jan.riise@riksdagen.se"
-  },
-  {
-    "Member": "Jacob Risberg",
-    "Party": "Miljöpartiet",
-    "Constituency": "Uppsala",
-    "Email": "jacob.risberg@riksdagen.se"
-  },
-  {
-    "Member": "Märta Stenevi",
-    "Party": "Miljöpartiet",
-    "Constituency": "Stockholm",
-    "Email": "marta.stenevi@riksdagen.se"
-  },
-  {
-    "Member": "Elin Söderberg",
-    "Party": "Miljöpartiet",
-    "Constituency": "Västerbotten",
-    "Email": "elin.soderberg@riksdagen.se"
-  },
-  {
-    "Member": "Ulrika Westerlund",
-    "Party": "Miljöpartiet",
-    "Constituency": "Stockholm",
-    "Email": "ulrika.westerlund@riksdagen.se"
-  },
-  {
-    "Member": "Jimmie Åkesson",
-    "Party": "Sverigedemokraterna",
-    "Constituency": "Jönköping",
-    "Email": "jimmie.akesson@riksdagen.se"
-  },
-  {
-    "Member": "Anders Alftberg",
-    "Party": "Sverigedemokraterna",
-    "Constituency": "Västra Götaland S",
-    "Email": "anders.alftberg@riksdagen.se"
-  },
-  {
-    "Member": "Jonas Andersson",
-    "Party": "Sverigedemokraterna",
-    "Constituency": "Östergötland",
-    "Email": "jonas.p.andersson@riksdagen.se"
-  },
-  {
-    "Member": "Lars Andersson",
-    "Party": "Sverigedemokraterna",
-    "Constituency": "Skåne S",
-    "Email": "lars.andersson@riksdagen.se"
-  },
-  {
-    "Member": "Pontus Andersson",
-    "Party": "Sverigedemokraterna",
-    "Constituency": "Västerbotten",
-    "Email": "pontus.andersson@riksdagen.se"
-  },
-  {
-    "Member": "Tobias Andersson",
-    "Party": "Sverigedemokraterna",
-    "Constituency": "Västra Götaland E",
-    "Email": "tobias.andersson@riksdagen.se"
-  },
-  {
-    "Member": "Clara Aranda",
-    "Party": "Sverigedemokraterna",
-    "Constituency": "Östergötland",
-    "Email": "clara.aranda@riksdagen.se"
-  },
-  {
-    "Member": "Mats Arkhem",
-    "Party": "Sverigedemokraterna",
-    "Constituency": "Stockholm",
-    "Email": "mats.arkhem@riksdagen.se"
-  },
-  {
-    "Member": "Ludvig Aspling",
-    "Party": "Sverigedemokraterna",
-    "Constituency": "Stockholm",
-    "Email": "ludvig.aspling@riksdagen.se"
-  },
-  {
-    "Member": "Angelika Bengtsson",
-    "Party": "Sverigedemokraterna",
-    "Constituency": "Stockholm",
-    "Email": "angelika.bengtsson@riksdagen.se"
-  },
-  {
-    "Member": "Sara-Lena Bjälkö",
-    "Party": "Sverigedemokraterna",
-    "Constituency": "Halland",
-    "Email": "sara-lena.bjalko@riksdagen.se"
-  },
-  {
-    "Member": "Anna-Lena Blomkvist",
-    "Party": "Sverigedemokraterna",
-    "Constituency": "Dalarna",
-    "Email": "anna-lena.blomkvist@riksdagen.se"
-  },
-  {
-    "Member": "Carita Boulwén",
-    "Party": "Sverigedemokraterna",
-    "Constituency": "Halland",
-    "Email": "carita.boulwen@riksdagen.se"
-  },
-  {
-    "Member": "Bo Broman",
-    "Party": "Sverigedemokraterna",
-    "Constituency": "Skåne W",
-    "Email": "bo.broman@riksdagen.se"
-  },
-  {
-    "Member": "Mattias Bäckström Johansson",
-    "Party": "Sverigedemokraterna",
-    "Constituency": "Kalmar",
-    "Email": "mattias.backstrom.johansson@riksdagen.se"
-  },
-  {
-    "Member": "Alexander Christiansson",
-    "Party": "Sverigedemokraterna",
-    "Constituency": "Västra Götaland W",
-    "Email": "alexander.christiansson@riksdagen.se"
-  },
-  {
-    "Member": "Dennis Dioukarev",
-    "Party": "Sverigedemokraterna",
-    "Constituency": "Gothenburg",
-    "Email": "dennis.dioukarev@riksdagen.se"
-  },
-  {
-    "Member": "Staffan Eklöf",
-    "Party": "Sverigedemokraterna",
-    "Constituency": "Jönköping",
-    "Email": "staffan.eklof@riksdagen.se"
-  },
-  {
-    "Member": "Aron Emilsson",
-    "Party": "Sverigedemokraterna",
-    "Constituency": "Östergötland",
-    "Email": "aron.emilsson@riksdagen.se"
-  },
-  {
-    "Member": "Matheus Enholm",
-    "Party": "Sverigedemokraterna",
-    "Constituency": "Västra Götaland N",
-    "Email": "matheus.enholm@riksdagen.se"
-  },
-  {
-    "Member": "Yasmine Eriksson",
-    "Party": "Sverigedemokraterna",
-    "Constituency": "Västra Götaland W",
-    "Email": "yasmine.eriksson@riksdagen.se"
-  },
-  {
-    "Member": "Mattias Eriksson Falk",
-    "Party": "Sverigedemokraterna",
-    "Constituency": "Södermanland",
-    "Email": "mattias.eriksson.falk@riksdagen.se"
-  },
-  {
-    "Member": "Mikael Eskilandersson",
-    "Party": "Sverigedemokraterna",
-    "Constituency": "Skåne NE",
-    "Email": "mikael.eskilandersson@riksdagen.se"
-  },
-  {
-    "Member": "Rashid Farivar",
-    "Party": "Sverigedemokraterna",
-    "Constituency": "Västra Götaland W",
-    "Email": "rashid.farivar@riksdagen.se"
-  },
-  {
-    "Member": "Runar Filper",
-    "Party": "Sverigedemokraterna",
-    "Constituency": "Värmland",
-    "Email": "runar.filper@riksdagen.se"
-  },
-  {
-    "Member": "Josef Fransson",
-    "Party": "Sverigedemokraterna",
-    "Constituency": "Blekinge",
-    "Email": "josef.fransson@riksdagen.se"
-  },
-  {
-    "Member": "Ann-Christine From Utterstedt",
-    "Party": "Sverigedemokraterna",
-    "Constituency": "Jämtland",
-    "Email": "ann-christine.utterstedt@riksdagen.se"
-  },
-  {
-    "Member": "Nima Gholam Ali Pour",
-    "Party": "Sverigedemokraterna",
-    "Constituency": "Malmö",
-    "Email": "nima.gholam.ali.pour@riksdagen.se"
-  },
-  {
-    "Member": "Rasmus Giertz",
-    "Party": "Sverigedemokraterna",
-    "Constituency": "Dalarna",
-    "Email": "rasmus.giertz@riksdagen.se"
-  },
-  {
-    "Member": "Jörgen Grubb",
-    "Party": "Sverigedemokraterna",
-    "Constituency": "Västra Götaland E",
-    "Email": "jorgen.grubb@riksdagen.se"
-  },
-  {
-    "Member": "Roger Hedlund",
-    "Party": "Sverigedemokraterna",
-    "Constituency": "Gävleborg",
-    "Email": "roger.hedlund@riksdagen.se"
-  },
-  {
-    "Member": "Erik Hellsborn",
-    "Party": "Sverigedemokraterna",
-    "Constituency": "Halland",
-    "Email": "erik.hellsborn@riksdagen.se"
-  },
-  {
-    "Member": "Richard Jomshof",
-    "Party": "Sverigedemokraterna",
-    "Constituency": "Blekinge",
-    "Email": "richard.jomshof@riksdagen.se"
-  },
-  {
-    "Member": "Patrik Jönsson",
-    "Party": "Sverigedemokraterna",
-    "Constituency": "Västra Götaland S",
-    "Email": "patrik.jonsson@riksdagen.se"
-  },
-  {
-    "Member": "Mattias Karlsson i Norrhult",
-    "Party": "Sverigedemokraterna",
-    "Constituency": "Kronoberg",
-    "Email": "mattias.karlsson@riksdagen.se"
-  },
-  {
-    "Member": "Martin Kinnunen",
-    "Party": "Sverigedemokraterna",
-    "Constituency": "Stockholm",
-    "Email": "martin.kinnunen@riksdagen.se"
-  },
-  {
-    "Member": "Julia Kronlid",
-    "Party": "Sverigedemokraterna",
-    "Constituency": "Stockholm",
-    "Email": "julia.kronlid@riksdagen.se"
-  },
-  {
-    "Member": "Gabriel Kroon",
-    "Party": "Sverigedemokraterna",
-    "Constituency": "Stockholm",
-    "Email": "gabriel.kroon@riksdagen.se"
-  },
-  {
-    "Member": "Fredrik Lindahl",
-    "Party": "Sverigedemokraterna",
-    "Constituency": "Stockholm",
-    "Email": "fredrik.lindahl@riksdagen.se"
-  },
-  {
-    "Member": "Linda Lindberg",
-    "Party": "Sverigedemokraterna",
-    "Constituency": "Skåne W",
-    "Email": "linda.lindberg@riksdagen.se"
-  },
-  {
-    "Member": "Ulf Lindholm",
-    "Party": "Sverigedemokraterna",
-    "Constituency": "Västernorrland",
-    "Email": "ulf.lindholm@riksdagen.se"
-  },
-  {
-    "Member": "Angelica Lundberg",
-    "Party": "Sverigedemokraterna",
-    "Constituency": "Västmanland",
-    "Email": "angelica.lundberg@riksdagen.se"
-  },
-  {
-    "Member": "David Lång",
-    "Party": "Sverigedemokraterna",
-    "Constituency": "Västernorrland",
-    "Email": "david.lang@riksdagen.se"
-  },
-  {
-    "Member": "Adam Marttinen",
-    "Party": "Sverigedemokraterna",
-    "Constituency": "Södermanland",
-    "Email": "adam.marttinen@riksdagen.se"
-  },
-  {
-    "Member": "Thomas Morell",
-    "Party": "Sverigedemokraterna",
-    "Constituency": "Skåne NE",
-    "Email": "thomas.morell@riksdagen.se"
-  },
-  {
-    "Member": "Mats Nordberg",
-    "Party": "Sverigedemokraterna",
-    "Constituency": "Dalarna",
-    "Email": "mats.nordberg@riksdagen.se"
-  },
-  {
-    "Member": "Katja Nyberg",
-    "Party": "Sverigedemokraterna",
-    "Constituency": "Kronoberg",
-    "Email": "katja.nyberg@riksdagen.se"
-  },
-  {
-    "Member": "Mona Olin",
-    "Party": "Sverigedemokraterna",
-    "Constituency": "Kalmar",
-    "Email": "mona.olin@riksdagen.se"
-  },
-  {
-    "Member": "Eric Palmqvist",
-    "Party": "Sverigedemokraterna",
-    "Constituency": "Norrbotten",
-    "Email": "eric.palmqvist@riksdagen.se"
-  },
-  {
-    "Member": "David Perez",
-    "Party": "Sverigedemokraterna",
-    "Constituency": "Uppsala",
-    "Email": "david.perez@riksdagen.se"
-  },
-  {
-    "Member": "Daniel Persson",
-    "Party": "Sverigedemokraterna",
-    "Constituency": "Gävleborg",
-    "Email": "daniel.persson@riksdagen.se"
-  },
-  {
-    "Member": "Magnus Persson",
-    "Party": "Sverigedemokraterna",
-    "Constituency": "Skåne NE",
-    "Email": "magnus.persson@riksdagen.se"
-  },
-  {
-    "Member": "Charlotte Quensel",
-    "Party": "Sverigedemokraterna",
-    "Constituency": "Värmland",
-    "Email": "charlotte.quensel@riksdagen.se"
-  },
-  {
-    "Member": "Patrick Reslow",
-    "Party": "Sverigedemokraterna",
-    "Constituency": "Malmö",
-    "Email": "patrick.reslow@riksdagen.se"
-  },
-  {
-    "Member": "Michael Rubbestad",
-    "Party": "Sverigedemokraterna",
-    "Constituency": "Örebro",
-    "Email": "michael.rubbestad@riksdagen.se"
-  },
-  {
-    "Member": "Oscar Sjöstedt",
-    "Party": "Sverigedemokraterna",
-    "Constituency": "Västmanland",
-    "Email": "oscar.sjostedt@riksdagen.se"
-  },
-  {
-    "Member": "Jessica Stegrud",
-    "Party": "Sverigedemokraterna",
-    "Constituency": "Skåne S",
-    "Email": "jessica.stegrud@riksdagen.se"
-  },
-  {
-    "Member": "Robert Stenkvist",
-    "Party": "Sverigedemokraterna",
-    "Constituency": "Stockholm",
-    "Email": "robert.stenkvist@riksdagen.se"
-  },
-  {
-    "Member": "Jimmy Ståhl",
-    "Party": "Sverigedemokraterna",
-    "Constituency": "Gothenburg",
-    "Email": "jimmy.stahl@riksdagen.se"
-  },
-  {
-    "Member": "Carina Ståhl Herrstedt",
-    "Party": "Sverigedemokraterna",
-    "Constituency": "Skåne W",
-    "Email": "carina.stahl@riksdagen.se"
-  },
-  {
-    "Member": "Johnny Svedin",
-    "Party": "Sverigedemokraterna",
-    "Constituency": "Norrbotten",
-    "Email": "johnny.svedin@riksdagen.se"
-  },
-  {
-    "Member": "Sven-Olof Sällström",
-    "Party": "Sverigedemokraterna",
-    "Constituency": "Östergötland",
-    "Email": "sven-olof.sallstrom@riksdagen.se"
-  },
-  {
-    "Member": "Björn Söder",
-    "Party": "Sverigedemokraterna",
-    "Constituency": "Skåne NE",
-    "Email": "bjorn.soder@riksdagen.se"
-  },
-  {
-    "Member": "Per Söderlund",
-    "Party": "Sverigedemokraterna",
-    "Constituency": "Örebro",
-    "Email": "per.soderlund@riksdagen.se"
-  },
-  {
-    "Member": "Victoria Tiblom",
-    "Party": "Sverigedemokraterna",
-    "Constituency": "Skåne S",
-    "Email": "victoria.tiblom@riksdagen.se"
-  },
-  {
-    "Member": "Björn Tidland",
-    "Party": "Sverigedemokraterna",
-    "Constituency": "Gothenburg",
-    "Email": "bjorn.tidland@riksdagen.se"
-  },
-  {
-    "Member": "Beatrice Timgren",
-    "Party": "Sverigedemokraterna",
-    "Constituency": "Stockholm",
-    "Email": "beatrice.timgren@riksdagen.se"
-  },
-  {
-    "Member": "Henrik Vinge",
-    "Party": "Sverigedemokraterna",
-    "Constituency": "Stockholm",
-    "Email": "henrik.vinge@riksdagen.se"
-  },
-  {
-    "Member": "Eric Westroth",
-    "Party": "Sverigedemokraterna",
-    "Constituency": "Jönköping",
-    "Email": "eric.westroth@riksdagen.se"
-  },
-  {
-    "Member": "Elsa Widding",
-    "Party": "Sverigedemokraterna",
-    "Constituency": "Stockholm",
-    "Email": "elsa.widding@riksdagen.se"
-  },
-  {
-    "Member": "Markus Wiechel",
-    "Party": "Sverigedemokraterna",
-    "Constituency": "Västra Götaland N",
-    "Email": "markus.wiechel@riksdagen.se"
-  },
-  {
-    "Member": "Lars Wistedt",
-    "Party": "Sverigedemokraterna",
-    "Constituency": "Uppsala",
-    "Email": "lars.wistedt@riksdagen.se"
-  },
-  {
-    "Member": "Leonid Yurkovskiy",
-    "Party": "Sverigedemokraterna",
-    "Constituency": "Stockholm",
-    "Email": "leonid.yurkovskiy@riksdagen.se"
-  }
-]
+{
+   "Kristdemokraterna": {
+      "Östergötland": {
+         "members": [
+            {
+               "name": "Magnus Oscarsson",
+               "email": "magnus.oscarsson@riksdagen.se"
+            }
+         ]
+      },
+      "Dalarna": {
+         "members": [
+            {
+               "name": "Mathias Bengtsson",
+               "email": "mathias.bengtsson@riksdagen.se"
+            }
+         ]
+      },
+      "Västmanland": {
+         "members": []
+      },
+      "Västra Götaland N": {
+         "members": [
+            {
+               "name": "Magnus Jacobsson",
+               "email": "magnus.jacobsson@riksdagen.se"
+            }
+         ]
+      },
+      "Västernorrland": {
+         "members": []
+      },
+      "Jönköping": {
+         "members": [
+            {
+               "name": "Acko Ankarberg Johansson",
+               "email": "acko.ankarberg.johansson@riksdagen.se"
+            }
+         ]
+      },
+      "Norrbotten": {
+         "members": []
+      },
+      "Värmland": {
+         "members": [
+            {
+               "name": "Kjell-Arne Ottosson",
+               "email": "kjell-arne.ottosson@riksdagen.se"
+            }
+         ]
+      },
+      "Skåne W": {
+         "members": []
+      },
+      "Gothenburg": {
+         "members": [
+            {
+               "name": "Magnus Berntsson",
+               "email": "magnus.berntsson@riksdagen.se"
+            }
+         ]
+      },
+      "Västerbotten": {
+         "members": []
+      },
+      "Västra Götaland E": {
+         "members": [
+            {
+               "name": "Ebba Busch",
+               "email": "ebba.busch@riksdagen.se"
+            }
+         ]
+      },
+      "Uppsala": {
+         "members": [
+            {
+               "name": "Mikael Oscarsson",
+               "email": "mikael.oscarsson@riksdagen.se"
+            }
+         ]
+      },
+      "Kronoberg": {
+         "members": []
+      },
+      "Gävleborg": {
+         "members": [
+            {
+               "name": "Lili André",
+               "email": "lili.andre@riksdagen.se"
+            }
+         ]
+      },
+      "Blekinge": {
+         "members": []
+      },
+      "Malmö": {
+         "members": []
+      },
+      "Skåne S": {
+         "members": [
+            {
+               "name": "Cecilia Engström",
+               "email": "cecilia.engstrom@riksdagen.se"
+            }
+         ]
+      },
+      "Kalmar": {
+         "members": [
+            {
+               "name": "Gudrun Brunegård",
+               "email": "gudrun.brunegard@riksdagen.se"
+            }
+         ]
+      },
+      "Västra Götaland S": {
+         "members": [
+            {
+               "name": "Ingemar Kihlström",
+               "email": "ingemar.kihlstrom@riksdagen.se"
+            }
+         ]
+      },
+      "Örebro": {
+         "members": [
+            {
+               "name": "Hans Eklind",
+               "email": "hans.eklind@riksdagen.se"
+            }
+         ]
+      },
+      "Stockholm": {
+         "members": [
+            {
+               "name": "Camilla Brodin",
+               "email": "camilla.brodin@riksdagen.se"
+            },
+            {
+               "name": "Christian Carlsson",
+               "email": "christian.carlsson@riksdagen.se"
+            },
+            {
+               "name": "Jakob Forssmed",
+               "email": "jakob.forssmed@riksdagen.se"
+            }
+         ]
+      },
+      "Gotland": {
+         "members": []
+      },
+      "Västra Götaland W": {
+         "members": [
+            {
+               "name": "Roland Utbult",
+               "email": "roland.utbult@riksdagen.se"
+            }
+         ]
+      },
+      "Halland": {
+         "members": [
+            {
+               "name": "Larry Söder",
+               "email": "larry.soder@riksdagen.se"
+            }
+         ]
+      },
+      "Jämtland": {
+         "members": []
+      },
+      "Skåne NE": {
+         "members": [
+            {
+               "name": "Torsten Elofsson",
+               "email": "torsten.elofsson@riksdagen.se"
+            }
+         ]
+      },
+      "Södermanland": {
+         "members": []
+      }
+   },
+   "Miljöpartiet": {
+      "Östergötland": {
+         "members": [
+            {
+               "name": "Rebecka Le Moine",
+               "email": "rebecka.le.moine@riksdagen.se"
+            }
+         ]
+      },
+      "Dalarna": {
+         "members": []
+      },
+      "Västmanland": {
+         "members": []
+      },
+      "Västra Götaland N": {
+         "members": []
+      },
+      "Västernorrland": {
+         "members": []
+      },
+      "Jönköping": {
+         "members": []
+      },
+      "Norrbotten": {
+         "members": []
+      },
+      "Värmland": {
+         "members": []
+      },
+      "Skåne W": {
+         "members": []
+      },
+      "Gothenburg": {
+         "members": [
+            {
+               "name": "Leila Ali Elmi",
+               "email": "leila.ali.elmi@riksdagen.se"
+            },
+            {
+               "name": "Emma Nohrén",
+               "email": "emma.nohren@riksdagen.se"
+            }
+         ]
+      },
+      "Västerbotten": {
+         "members": [
+            {
+               "name": "Elin Söderberg",
+               "email": "elin.soderberg@riksdagen.se"
+            }
+         ]
+      },
+      "Västra Götaland E": {
+         "members": []
+      },
+      "Uppsala": {
+         "members": [
+            {
+               "name": "Jacob Risberg",
+               "email": "jacob.risberg@riksdagen.se"
+            }
+         ]
+      },
+      "Kronoberg": {
+         "members": []
+      },
+      "Gävleborg": {
+         "members": []
+      },
+      "Blekinge": {
+         "members": []
+      },
+      "Malmö": {
+         "members": [
+            {
+               "name": "Rasmus Ling",
+               "email": "rasmus.ling@riksdagen.se"
+            }
+         ]
+      },
+      "Skåne S": {
+         "members": [
+            {
+               "name": "Emma Berginger",
+               "email": "emma.berginger@riksdagen.se"
+            }
+         ]
+      },
+      "Kalmar": {
+         "members": []
+      },
+      "Västra Götaland S": {
+         "members": []
+      },
+      "Örebro": {
+         "members": [
+            {
+               "name": "Camilla Hansén",
+               "email": "camilla.hansen@riksdagen.se"
+            }
+         ]
+      },
+      "Stockholm": {
+         "members": [
+            {
+               "name": "Per Bolund",
+               "email": "per.bolund@riksdagen.se"
+            },
+            {
+               "name": "Daniel Helldén",
+               "email": "daniel.hellden@riksdagen.se"
+            },
+            {
+               "name": "Annika Hirvonen",
+               "email": "annika.hirvonen@riksdagen.se"
+            },
+            {
+               "name": "Amanda Lind",
+               "email": "amanda.lind@riksdagen.se"
+            },
+            {
+               "name": "Åsa Lindhagen",
+               "email": "asa.lindhagen@riksdagen.se"
+            },
+            {
+               "name": "Märta Stenevi",
+               "email": "marta.stenevi@riksdagen.se"
+            },
+            {
+               "name": "Ulrika Westerlund",
+               "email": "ulrika.westerlund@riksdagen.se"
+            }
+         ]
+      },
+      "Gotland": {
+         "members": []
+      },
+      "Västra Götaland W": {
+         "members": [
+            {
+               "name": "Janine Alm Ericson",
+               "email": "janine.alm.ericson@riksdagen.se"
+            }
+         ]
+      },
+      "Halland": {
+         "members": [
+            {
+               "name": "Jan Riise",
+               "email": "jan.riise@riksdagen.se"
+            }
+         ]
+      },
+      "Jämtland": {
+         "members": []
+      },
+      "Skåne NE": {
+         "members": []
+      },
+      "Södermanland": {
+         "members": [
+            {
+               "name": "Linus Lakso",
+               "email": "linus.lakso@riksdagen.se"
+            }
+         ]
+      }
+   },
+   "Liberalerna": {
+      "Östergötland": {
+         "members": [
+            {
+               "name": "Juno Blom",
+               "email": "juno.blom@riksdagen.se"
+            }
+         ]
+      },
+      "Dalarna": {
+         "members": []
+      },
+      "Västmanland": {
+         "members": []
+      },
+      "Västra Götaland N": {
+         "members": []
+      },
+      "Västernorrland": {
+         "members": []
+      },
+      "Jönköping": {
+         "members": [
+            {
+               "name": "Jakob Olofsgård",
+               "email": "jakob.olofsgard@riksdagen.se"
+            }
+         ]
+      },
+      "Norrbotten": {
+         "members": []
+      },
+      "Värmland": {
+         "members": []
+      },
+      "Skåne W": {
+         "members": [
+            {
+               "name": "Mauricio Rojas",
+               "email": "mauricio.rojas@riksdagen.se"
+            }
+         ]
+      },
+      "Gothenburg": {
+         "members": [
+            {
+               "name": "Robert Hannah",
+               "email": "robert.hannah@riksdagen.se"
+            }
+         ]
+      },
+      "Västerbotten": {
+         "members": []
+      },
+      "Västra Götaland E": {
+         "members": []
+      },
+      "Uppsala": {
+         "members": [
+            {
+               "name": "Lina Nordquist",
+               "email": "lina.nordquist@riksdagen.se"
+            }
+         ]
+      },
+      "Kronoberg": {
+         "members": []
+      },
+      "Gävleborg": {
+         "members": []
+      },
+      "Blekinge": {
+         "members": []
+      },
+      "Malmö": {
+         "members": [
+            {
+               "name": "Louise Eklund",
+               "email": "louise.eklund@riksdagen.se"
+            }
+         ]
+      },
+      "Skåne S": {
+         "members": [
+            {
+               "name": "Mats Persson",
+               "email": "mats.persson@riksdagen.se"
+            }
+         ]
+      },
+      "Kalmar": {
+         "members": []
+      },
+      "Västra Götaland S": {
+         "members": []
+      },
+      "Örebro": {
+         "members": [
+            {
+               "name": "Johan Pehrson",
+               "email": "johan.pehrson@riksdagen.se"
+            }
+         ]
+      },
+      "Stockholm": {
+         "members": [
+            {
+               "name": "Gulan Avci",
+               "email": "gulan.avci@riksdagen.se"
+            },
+            {
+               "name": "Malin Danielsson",
+               "email": "malin.danielsson@riksdagen.se"
+            },
+            {
+               "name": "Joar Forssell",
+               "email": "joar.forssell@riksdagen.se"
+            },
+            {
+               "name": "Fredrik Malm",
+               "email": "fredrik.malm@riksdagen.se"
+            },
+            {
+               "name": "Romina Pourmokhtari",
+               "email": "romina.pourmokhtari@riksdagen.se"
+            },
+            {
+               "name": "Anna Starbrink",
+               "email": "anna.starbrink@riksdagen.se"
+            }
+         ]
+      },
+      "Gotland": {
+         "members": []
+      },
+      "Västra Götaland W": {
+         "members": [
+            {
+               "name": "Helena Gellerman",
+               "email": "helena.gellerman@riksdagen.se"
+            }
+         ]
+      },
+      "Halland": {
+         "members": [
+            {
+               "name": "Cecilia Rönn",
+               "email": "cecilia.ronn@riksdagen.se"
+            }
+         ]
+      },
+      "Jämtland": {
+         "members": []
+      },
+      "Skåne NE": {
+         "members": []
+      },
+      "Södermanland": {
+         "members": []
+      }
+   },
+   "Vänsterpartiet": {
+      "Östergötland": {
+         "members": [
+            {
+               "name": "Linda Westerlund Snecker",
+               "email": "linda.snecker@riksdagen.se"
+            }
+         ]
+      },
+      "Dalarna": {
+         "members": [
+            {
+               "name": "Kajsa Fredholm",
+               "email": "kajsa.fredholm@riksdagen.se"
+            }
+         ]
+      },
+      "Västmanland": {
+         "members": [
+            {
+               "name": "Vasiliki Tsouplaki",
+               "email": "vasiliki.tsouplaki@riksdagen.se"
+            }
+         ]
+      },
+      "Västra Götaland N": {
+         "members": []
+      },
+      "Västernorrland": {
+         "members": [
+            {
+               "name": "Isabell Mixter",
+               "email": "isabell.mixter@riksdagen.se"
+            }
+         ]
+      },
+      "Jönköping": {
+         "members": [
+            {
+               "name": "Ciczie Weidby",
+               "email": "ciczie.weidby@riksdagen.se"
+            }
+         ]
+      },
+      "Norrbotten": {
+         "members": [
+            {
+               "name": "Birger Lahti",
+               "email": "birger.lahti@riksdagen.se"
+            }
+         ]
+      },
+      "Värmland": {
+         "members": [
+            {
+               "name": "Håkan Svenneling",
+               "email": "hakan.svenneling@riksdagen.se"
+            }
+         ]
+      },
+      "Skåne W": {
+         "members": []
+      },
+      "Gothenburg": {
+         "members": [
+            {
+               "name": "Tony Haddou",
+               "email": "tony.haddou@riksdagen.se"
+            },
+            {
+               "name": "Maj Karlsson",
+               "email": "maj.karlsson@riksdagen.se"
+            }
+         ]
+      },
+      "Västerbotten": {
+         "members": [
+            {
+               "name": "Gudrun Nordborg",
+               "email": "gudrun.nordborg@riksdagen.se"
+            }
+         ]
+      },
+      "Västra Götaland E": {
+         "members": []
+      },
+      "Uppsala": {
+         "members": [
+            {
+               "name": "Ilona Szatmári Waldau",
+               "email": "ilona.waldau@riksdagen.se"
+            }
+         ]
+      },
+      "Kronoberg": {
+         "members": []
+      },
+      "Gävleborg": {
+         "members": [
+            {
+               "name": "Samuel Gonzalez Westling",
+               "email": "samuel.gonzalez.westling@riksdagen.se"
+            }
+         ]
+      },
+      "Blekinge": {
+         "members": []
+      },
+      "Malmö": {
+         "members": [
+            {
+               "name": "Momodou Malcolm Jallow",
+               "email": "momodou-malcolm.jallow@riksdagen.se"
+            }
+         ]
+      },
+      "Skåne S": {
+         "members": [
+            {
+               "name": "Hanna Gunnarsson",
+               "email": "hanna.gunnarsson@riksdagen.se"
+            }
+         ]
+      },
+      "Kalmar": {
+         "members": []
+      },
+      "Västra Götaland S": {
+         "members": []
+      },
+      "Örebro": {
+         "members": [
+            {
+               "name": "Nadja Awad",
+               "email": "nadja.awad@riksdagen.se"
+            }
+         ]
+      },
+      "Stockholm": {
+         "members": [
+            {
+               "name": "Andrea Andersson-Tay",
+               "email": "andrea.andersson-tay@riksdagen.se"
+            },
+            {
+               "name": "Nooshi Dadgostar",
+               "email": "nooshi.dadgostar@riksdagen.se"
+            },
+            {
+               "name": "Lorena Delgado Varas",
+               "email": "lorena.delgado@riksdagen.se"
+            },
+            {
+               "name": "Ali Esbati",
+               "email": "ali.esbati@riksdagen.se"
+            },
+            {
+               "name": "Ida Gabrielsson",
+               "email": "ida.gabrielsson@riksdagen.se"
+            },
+            {
+               "name": "Daniel Riazat",
+               "email": "daniel.riazat@riksdagen.se"
+            },
+            {
+               "name": "Karin Rågsjö",
+               "email": "karin.ragsjo@riksdagen.se"
+            }
+         ]
+      },
+      "Gotland": {
+         "members": []
+      },
+      "Västra Götaland W": {
+         "members": [
+            {
+               "name": "Jessica Wetterling",
+               "email": "jessica.wetterling@riksdagen.se"
+            }
+         ]
+      },
+      "Halland": {
+         "members": []
+      },
+      "Jämtland": {
+         "members": []
+      },
+      "Skåne NE": {
+         "members": []
+      },
+      "Södermanland": {
+         "members": [
+            {
+               "name": "Lotta Johnsson Fornarve",
+               "email": "lotta.johnsson.fornarve@riksdagen.se"
+            }
+         ]
+      }
+   },
+   "Moderaterna": {
+      "Östergötland": {
+         "members": [
+            {
+               "name": "Susanne Nordström",
+               "email": "susanne.nordstrom@riksdagen.se"
+            },
+            {
+               "name": "John Weinerhall",
+               "email": "john.e.weinerhall@riksdagen.se"
+            },
+            {
+               "name": "John Widegren",
+               "email": "john.widegren@riksdagen.se"
+            }
+         ]
+      },
+      "Dalarna": {
+         "members": [
+            {
+               "name": "Carl-Oskar Bohlin",
+               "email": "carl-oskar.bohlin@riksdagen.se"
+            },
+            {
+               "name": "Malin Höglund",
+               "email": "malin.hoglund@riksdagen.se"
+            }
+         ]
+      },
+      "Västmanland": {
+         "members": [
+            {
+               "name": "Mikael Damsgaard",
+               "email": "mikael.damsgaard@riksdagen.se"
+            }
+         ]
+      },
+      "Västra Götaland N": {
+         "members": [
+            {
+               "name": "Ann-Sofie Alm",
+               "email": "ann-sofie.alm@riksdagen.se"
+            },
+            {
+               "name": "Johan Hultberg",
+               "email": "johan.hultberg@riksdagen.se"
+            }
+         ]
+      },
+      "Västernorrland": {
+         "members": [
+            {
+               "name": "Jörgen Berglund",
+               "email": "jorgen.berglund@riksdagen.se"
+            },
+            {
+               "name": "Caroline Högström",
+               "email": "caroline.hogstrom@riksdagen.se"
+            }
+         ]
+      },
+      "Jönköping": {
+         "members": [
+            {
+               "name": "Helena Bouveng",
+               "email": "helena.bouveng@riksdagen.se"
+            },
+            {
+               "name": "Mats Green",
+               "email": "mats.green@riksdagen.se"
+            }
+         ]
+      },
+      "Norrbotten": {
+         "members": [
+            {
+               "name": "Mattias Karlsson i Luleå",
+               "email": "mattias.j.karlsson@riksdagen.se"
+            }
+         ]
+      },
+      "Värmland": {
+         "members": [
+            {
+               "name": "Pål Jonson",
+               "email": "pal.jonson@riksdagen.se"
+            },
+            {
+               "name": "Marléne Lund Kopparklint",
+               "email": "marlene.lund.kopparklint@riksdagen.se"
+            }
+         ]
+      },
+      "Skåne W": {
+         "members": [
+            {
+               "name": "Ann-Charlotte Hammar Johnsson",
+               "email": "ann-charlotte.hammar.johnsson@riksdagen.se"
+            },
+            {
+               "name": "Ulrika Heindorff",
+               "email": "ulrika.heindorff@riksdagen.se"
+            }
+         ]
+      },
+      "Gothenburg": {
+         "members": [
+            {
+               "name": "Gustaf Göthberg",
+               "email": "gustaf.gothberg@riksdagen.se"
+            },
+            {
+               "name": "Marie-Louise Hänel Sandström",
+               "email": "marie-louise.hanel.sandstrom@riksdagen.se"
+            },
+            {
+               "name": "David Josefsson",
+               "email": "david.josefsson@riksdagen.se"
+            }
+         ]
+      },
+      "Västerbotten": {
+         "members": [
+            {
+               "name": "Edward Riedl",
+               "email": "edward.riedl@riksdagen.se"
+            }
+         ]
+      },
+      "Västra Götaland E": {
+         "members": [
+            {
+               "name": "Sten Bergheden",
+               "email": "sten.bergheden@riksdagen.se"
+            },
+            {
+               "name": "Charlotte Nordström",
+               "email": "charlotte.nordstrom@riksdagen.se"
+            }
+         ]
+      },
+      "Uppsala": {
+         "members": [
+            {
+               "name": "Stefan Olsson",
+               "email": "stefan.olsson@riksdagen.se"
+            },
+            {
+               "name": "Jessika Roswall",
+               "email": "jessika.roswall@riksdagen.se"
+            }
+         ]
+      },
+      "Kronoberg": {
+         "members": [
+            {
+               "name": "Thomas Ragnarsson",
+               "email": "thomas.ragnarsson@riksdagen.se"
+            },
+            {
+               "name": "Oliver Rosengren",
+               "email": "oliver.rosengren@riksdagen.se"
+            }
+         ]
+      },
+      "Gävleborg": {
+         "members": [
+            {
+               "name": "Lars Beckman",
+               "email": "lars.beckman@riksdagen.se"
+            },
+            {
+               "name": "Viktor Wärnick",
+               "email": "viktor.warnick@riksdagen.se"
+            }
+         ]
+      },
+      "Blekinge": {
+         "members": [
+            {
+               "name": "Camilla Brunsberg",
+               "email": "camilla.brunsberg@riksdagen.se"
+            }
+         ]
+      },
+      "Malmö": {
+         "members": [
+            {
+               "name": "Noria Manouchi",
+               "email": "noria.manouchi@riksdagen.se"
+            },
+            {
+               "name": "Peter Ollén",
+               "email": "peter.ollen@riksdagen.se"
+            }
+         ]
+      },
+      "Skåne S": {
+         "members": [
+            {
+               "name": "Louise Meijer",
+               "email": "louise.meijer@riksdagen.se"
+            },
+            {
+               "name": "Christian Sonesson",
+               "email": "christian.sonesson@riksdagen.se"
+            },
+            {
+               "name": "Boriana Åberg",
+               "email": "boriana.aberg@riksdagen.se"
+            }
+         ]
+      },
+      "Kalmar": {
+         "members": [
+            {
+               "name": "Lars Engsund",
+               "email": "lars.engsund@riksdagen.se"
+            },
+            {
+               "name": "Marie Nicholson",
+               "email": "marie.nicholson@riksdagen.se"
+            }
+         ]
+      },
+      "Västra Götaland S": {
+         "members": [
+            {
+               "name": "Jan Ericson",
+               "email": "jan.ericson@riksdagen.se"
+            },
+            {
+               "name": "Ulrik Nilsson",
+               "email": "ulrik.nilsson@riksdagen.se"
+            }
+         ]
+      },
+      "Örebro": {
+         "members": [
+            {
+               "name": "Elisabeth Svantesson",
+               "email": "elisabeth.svantesson@riksdagen.se"
+            },
+            {
+               "name": "Oskar Svärd",
+               "email": "oskar.svard@riksdagen.se"
+            }
+         ]
+      },
+      "Stockholm": {
+         "members": [
+            {
+               "name": "Alexandra Anstrell",
+               "email": "alexandra.anstrell@riksdagen.se"
+            },
+            {
+               "name": "Kristina Axén Olin",
+               "email": "kristina.axen.olin@riksdagen.se"
+            },
+            {
+               "name": "Tobias Billström",
+               "email": "tobias.billstrom@riksdagen.se"
+            },
+            {
+               "name": "Margareta Cederfelt",
+               "email": "margareta.cederfelt@riksdagen.se"
+            },
+            {
+               "name": "Ida Drougge",
+               "email": "ida.drougge@riksdagen.se"
+            },
+            {
+               "name": "Karin Enström",
+               "email": "karin.enstrom@riksdagen.se"
+            },
+            {
+               "name": "Johan Forssell",
+               "email": "johan.forssell@riksdagen.se"
+            },
+            {
+               "name": "Kjell Jansson",
+               "email": "kjell.jansson@riksdagen.se"
+            },
+            {
+               "name": "Arin Karapet",
+               "email": "arin.karapet@riksdagen.se"
+            },
+            {
+               "name": "Fredrik Kärrholm",
+               "email": "fredrik.karrholm@riksdagen.se"
+            },
+            {
+               "name": "Josefin Malmqvist",
+               "email": "josefin.malmqvist@riksdagen.se"
+            },
+            {
+               "name": "Erik Ottoson",
+               "email": "erik.ottoson@riksdagen.se"
+            },
+            {
+               "name": "Jessica Rosencrantz",
+               "email": "jessica.rosencrantz@riksdagen.se"
+            },
+            {
+               "name": "Magdalena Schröder",
+               "email": "magdalena.schroder@riksdagen.se"
+            },
+            {
+               "name": "Maria Stockhaus",
+               "email": "maria.stockhaus@riksdagen.se"
+            },
+            {
+               "name": "Niklas Wykman",
+               "email": "niklas.wykman@riksdagen.se"
+            }
+         ]
+      },
+      "Gotland": {
+         "members": [
+            {
+               "name": "Jesper Skalberg Karlsson",
+               "email": "jesper.skalberg.karlsson@riksdagen.se"
+            }
+         ]
+      },
+      "Västra Götaland W": {
+         "members": [
+            {
+               "name": "Ellen Juntti",
+               "email": "ellen.juntti@riksdagen.se"
+            },
+            {
+               "name": "Johanna Rantsi",
+               "email": "johanna.rantsi@riksdagen.se"
+            },
+            {
+               "name": "Camilla Waltersson Grönvall",
+               "email": "camilla.waltersson.gronvall@riksdagen.se"
+            }
+         ]
+      },
+      "Halland": {
+         "members": [
+            {
+               "name": "Lars Püss",
+               "email": "lars.puss@riksdagen.se"
+            },
+            {
+               "name": "Helena Storckenfeldt",
+               "email": "helena.storckenfeldt@riksdagen.se"
+            }
+         ]
+      },
+      "Jämtland": {
+         "members": [
+            {
+               "name": "Saila Quicklund",
+               "email": "saila.quicklund@riksdagen.se"
+            }
+         ]
+      },
+      "Skåne NE": {
+         "members": [
+            {
+               "name": "Maria Malmer Stenergard",
+               "email": "maria.malmer.stenergard@riksdagen.se"
+            },
+            {
+               "name": "Hans Wallmark",
+               "email": "hans.wallmark@riksdagen.se"
+            }
+         ]
+      },
+      "Södermanland": {
+         "members": [
+            {
+               "name": "Ulf Kristersson",
+               "email": "ulf.kristersson@riksdagen.se"
+            },
+            {
+               "name": "Ann-Sofie Lifvenhage",
+               "email": "ann-sofie.lifvenhage@riksdagen.se"
+            }
+         ]
+      }
+   },
+   "Centerpartiet": {
+      "Östergötland": {
+         "members": [
+            {
+               "name": "Muharrem Demirok",
+               "email": "muharrem.demirok@riksdagen.se"
+            }
+         ]
+      },
+      "Dalarna": {
+         "members": [
+            {
+               "name": "Ulrika Liljeberg",
+               "email": "ulrika.liljeberg@riksdagen.se"
+            }
+         ]
+      },
+      "Västmanland": {
+         "members": []
+      },
+      "Västra Götaland N": {
+         "members": []
+      },
+      "Västernorrland": {
+         "members": [
+            {
+               "name": "Anne-Li Sjölund",
+               "email": "anne-li.sjolund@riksdagen.se"
+            }
+         ]
+      },
+      "Jönköping": {
+         "members": [
+            {
+               "name": "Annie Lööf",
+               "email": "annie.loof@riksdagen.se"
+            }
+         ]
+      },
+      "Norrbotten": {
+         "members": []
+      },
+      "Värmland": {
+         "members": [
+            {
+               "name": "Daniel Bäckström",
+               "email": "daniel.backstrom@riksdagen.se"
+            }
+         ]
+      },
+      "Skåne W": {
+         "members": [
+            {
+               "name": "Jonny Cato",
+               "email": "jonny.cato@riksdagen.se"
+            }
+         ]
+      },
+      "Gothenburg": {
+         "members": [
+            {
+               "name": "Rickard Nordin",
+               "email": "rickard.nordin@riksdagen.se"
+            }
+         ]
+      },
+      "Västerbotten": {
+         "members": [
+            {
+               "name": "Helena Lindahl",
+               "email": "helena.lindahl@riksdagen.se"
+            }
+         ]
+      },
+      "Västra Götaland E": {
+         "members": [
+            {
+               "name": "Ulrika Heie",
+               "email": "ulrika.heie@riksdagen.se"
+            }
+         ]
+      },
+      "Uppsala": {
+         "members": [
+            {
+               "name": "Catarina Deremar",
+               "email": "catarina.deremar@riksdagen.se"
+            }
+         ]
+      },
+      "Kronoberg": {
+         "members": []
+      },
+      "Gävleborg": {
+         "members": [
+            {
+               "name": "Anders W. Jonsson",
+               "email": "anders.w.jonsson@riksdagen.se"
+            }
+         ]
+      },
+      "Blekinge": {
+         "members": []
+      },
+      "Malmö": {
+         "members": [
+            {
+               "name": "Niels Paarup-Petersen",
+               "email": "niels.paarup-petersen@riksdagen.se"
+            }
+         ]
+      },
+      "Skåne S": {
+         "members": [
+            {
+               "name": "Stina Larsson",
+               "email": "stina.larsson@riksdagen.se"
+            }
+         ]
+      },
+      "Kalmar": {
+         "members": []
+      },
+      "Västra Götaland S": {
+         "members": [
+            {
+               "name": "Mikael Larsson",
+               "email": "mikael.larsson@riksdagen.se"
+            }
+         ]
+      },
+      "Örebro": {
+         "members": [
+            {
+               "name": "Helena Vilhelmsson",
+               "email": "helena.vilhelmsson@riksdagen.se"
+            }
+         ]
+      },
+      "Stockholm": {
+         "members": [
+            {
+               "name": "Alireza Akhondi",
+               "email": "alireza.akhondi@riksdagen.se"
+            },
+            {
+               "name": "Malin Björk",
+               "email": "malin.bjork@riksdagen.se"
+            },
+            {
+               "name": "Anna Lasses",
+               "email": "anna.lasses@riksdagen.se"
+            },
+            {
+               "name": "Kerstin Lundgren",
+               "email": "kerstin.lundgren@riksdagen.se"
+            },
+            {
+               "name": "Elisabeth Thand Ringqvist",
+               "email": "elisabeth.thand.ringqvist@riksdagen.se"
+            },
+            {
+               "name": "Martin Ådahl",
+               "email": "martin.adahl@riksdagen.se"
+            }
+         ]
+      },
+      "Gotland": {
+         "members": []
+      },
+      "Västra Götaland W": {
+         "members": [
+            {
+               "name": "Anders Ådahl",
+               "email": "anders.adahl@riksdagen.se"
+            }
+         ]
+      },
+      "Halland": {
+         "members": [
+            {
+               "name": "Christofer Bergenblock",
+               "email": "christofer.bergenblock@riksdagen.se"
+            }
+         ]
+      },
+      "Jämtland": {
+         "members": []
+      },
+      "Skåne NE": {
+         "members": []
+      },
+      "Södermanland": {
+         "members": [
+            {
+               "name": "Martina Johansson",
+               "email": "martina.johansson@riksdagen.se"
+            }
+         ]
+      }
+   },
+   "Socialdemokraterna": {
+      "Östergötland": {
+         "members": [
+            {
+               "name": "Johan Andersson",
+               "email": "johan.andersson@riksdagen.se"
+            },
+            {
+               "name": "Teresa Carvalho",
+               "email": "teresa.carvalho@riksdagen.se"
+            },
+            {
+               "name": "Eva Lindh",
+               "email": "eva.lindh@riksdagen.se"
+            },
+            {
+               "name": "Johan Löfstrand",
+               "email": "johan.lofstrand@riksdagen.se"
+            },
+            {
+               "name": "Mattias Ottosson",
+               "email": "mattias.ottosson@riksdagen.se"
+            }
+         ]
+      },
+      "Dalarna": {
+         "members": [
+            {
+               "name": "Sofie Eriksson",
+               "email": "sofie.b.eriksson@riksdagen.se"
+            },
+            {
+               "name": "Roza Güclü Hedin",
+               "email": "roza.guclu.hedin@riksdagen.se"
+            },
+            {
+               "name": "Lars Isaksson",
+               "email": "lars.isacsson@riksdagen.se"
+            }
+         ]
+      },
+      "Västmanland": {
+         "members": [
+            {
+               "name": "Åsa Eriksson",
+               "email": "asa.eriksson@riksdagen.se"
+            },
+            {
+               "name": "Lena Johansson",
+               "email": "lena.johansson@riksdagen.se"
+            },
+            {
+               "name": "Olle Thorell",
+               "email": "olle.thorell@riksdagen.se"
+            }
+         ]
+      },
+      "Västra Götaland N": {
+         "members": [
+            {
+               "name": "Paula Holmqvist",
+               "email": "paula.holmqvist@riksdagen.se"
+            },
+            {
+               "name": "Mats Wiking",
+               "email": "mats.wiking@riksdagen.se"
+            }
+         ]
+      },
+      "Västernorrland": {
+         "members": [
+            {
+               "name": "Peder Björk",
+               "email": "peder.bjork@riksdagen.se"
+            },
+            {
+               "name": "Peter Hedberg",
+               "email": "peter.hedberg@riksdagen.se"
+            },
+            {
+               "name": "Malin Larsson",
+               "email": "malin.larsson@riksdagen.se"
+            },
+            {
+               "name": "Anna-Belle Strömberg",
+               "email": "anna-belle.stromberg@riksdagen.se"
+            }
+         ]
+      },
+      "Jönköping": {
+         "members": [
+            {
+               "name": "Azra Muranovic",
+               "email": "azra.muranovic@riksdagen.se"
+            },
+            {
+               "name": "Johanna Haraldsson",
+               "email": "johanna.haraldsson@riksdagen.se"
+            },
+            {
+               "name": "Niklas Sigvardsson",
+               "email": "niklas.sigvardsson@riksdagen.se"
+            },
+            {
+               "name": "Carina Ödebrink",
+               "email": "carina.odebrink@riksdagen.se"
+            }
+         ]
+      },
+      "Norrbotten": {
+         "members": [
+            {
+               "name": "Louise Mörk",
+               "email": "louise.mork@riksdagen.se"
+            },
+            {
+               "name": "Zara Leghissa",
+               "email": "zara.leghissa@riksdagen.se"
+            },
+            {
+               "name": "Fredrik Lundh Sammeli",
+               "email": "fredrik.lundh.sammeli@riksdagen.se"
+            },
+            {
+               "name": "Linus Sköld",
+               "email": "linus.skold@riksdagen.se"
+            }
+         ]
+      },
+      "Värmland": {
+         "members": [
+            {
+               "name": "Mikael Dahlqvist",
+               "email": "mikael.dahlqvist@riksdagen.se"
+            },
+            {
+               "name": "Lars Mejern Larsson",
+               "email": "lars.mejern.larsson@riksdagen.se"
+            },
+            {
+               "name": "Sofia Skönnbrink",
+               "email": "sofia.skonnbrink@riksdagen.se"
+            },
+            {
+               "name": "Gunilla Svantorp",
+               "email": "gunilla.svantorp@riksdagen.se"
+            }
+         ]
+      },
+      "Skåne W": {
+         "members": [
+            {
+               "name": "Yasmine Bladelius",
+               "email": "yasmine.bladelius@riksdagen.se"
+            },
+            {
+               "name": "Niklas Karlsson",
+               "email": "niklas.karlsson@riksdagen.se"
+            },
+            {
+               "name": "Ola Möller",
+               "email": "ola.moller@riksdagen.se"
+            }
+         ]
+      },
+      "Gothenburg": {
+         "members": [
+            {
+               "name": "Johan Büser",
+               "email": "johan.buser@riksdagen.se"
+            },
+            {
+               "name": "Gunilla Carlsson",
+               "email": "gunilla.c.carlsson@riksdagen.se"
+            },
+            {
+               "name": "Dzenan Cisija",
+               "email": "dzenan.cisija@riksdagen.se"
+            },
+            {
+               "name": "Mattias Jonsson",
+               "email": "mattias.jonsson@riksdagen.se"
+            },
+            {
+               "name": "Amalia Pedersen",
+               "email": "amalia.rud.pedersen@riksdagen.se"
+            }
+         ]
+      },
+      "Västerbotten": {
+         "members": [
+            {
+               "name": "Isak From",
+               "email": "isak.from@riksdagen.se"
+            },
+            {
+               "name": "Åsa Karlsson",
+               "email": "asa.karlsson@riksdagen.se"
+            },
+            {
+               "name": "Helén Pettersson",
+               "email": "helen.pettersson@riksdagen.se"
+            },
+            {
+               "name": "Björn Wiechel",
+               "email": "bjorn.wiechel@riksdagen.se"
+            }
+         ]
+      },
+      "Västra Götaland E": {
+         "members": [
+            {
+               "name": "Patrik Björck",
+               "email": "patrik.bjorck@riksdagen.se"
+            },
+            {
+               "name": "Erik Ezelius",
+               "email": "erik.ezelius@riksdagen.se"
+            },
+            {
+               "name": "Ida Ekeroth Clausson",
+               "email": "ida.ekeroth.clausson@riksdagen.se"
+            }
+         ]
+      },
+      "Uppsala": {
+         "members": [
+            {
+               "name": "Gustaf Lantz",
+               "email": "gustaf.lantz@riksdagen.se"
+            },
+            {
+               "name": "Sanne Lennström",
+               "email": "sanne.lennstrom@riksdagen.se"
+            },
+            {
+               "name": "Marcus Wennerström",
+               "email": "marcus.wennerstrom@riksdagen.se"
+            },
+            {
+               "name": "Inga-Lill Sjöblom",
+               "email": "inga-lill.sjoblom@riksdagen.se"
+            }
+         ]
+      },
+      "Kronoberg": {
+         "members": [
+            {
+               "name": "Robert Olesen",
+               "email": "robert.olesen@riksdagen.se"
+            },
+            {
+               "name": "Monica Haider",
+               "email": "monica.haider@riksdagen.se"
+            }
+         ]
+      },
+      "Gävleborg": {
+         "members": [
+            {
+               "name": "Sanna Backeskog",
+               "email": "sanna.backeskog@riksdagen.se"
+            },
+            {
+               "name": "Kristoffer Lindberg",
+               "email": "kristoffer.lindberg@riksdagen.se"
+            },
+            {
+               "name": "Patrik Lundqvist",
+               "email": "patrik.lundqvist@riksdagen.se"
+            },
+            {
+               "name": "Linnéa Wickman",
+               "email": "linnea.wickman@riksdagen.se"
+            }
+         ]
+      },
+      "Blekinge": {
+         "members": [
+            {
+               "name": "Heléne Björklund",
+               "email": "helene.bjorklund@riksdagen.se"
+            },
+            {
+               "name": "Magnus Manhammar",
+               "email": "magnus.manhammar@riksdagen.se"
+            }
+         ]
+      },
+      "Malmö": {
+         "members": [
+            {
+               "name": "Rose-Marie Carlsson",
+               "email": "rose-marie.carlsson@riksdagen.se"
+            },
+            {
+               "name": "Jamal El-Haj",
+               "email": "jamal.el-haj@riksdagen.se"
+            },
+            {
+               "name": "Joakim Sandell",
+               "email": "joakim.sandell@riksdagen.se"
+            }
+         ]
+      },
+      "Skåne S": {
+         "members": [
+            {
+               "name": "Marianne Fundahn",
+               "email": "marianne.fundahn@riksdagen.se"
+            },
+            {
+               "name": "Elin Gustafsson",
+               "email": "elin.a.gustafsson@riksdagen.se"
+            },
+            {
+               "name": "Adrian Magnusson",
+               "email": "adrian.magnusson@riksdagen.se"
+            }
+         ]
+      },
+      "Kalmar": {
+         "members": [
+            {
+               "name": "Björn Petersson",
+               "email": "bjorn.petersson@riksdagen.se"
+            },
+            {
+               "name": "Tomas Kronståhl",
+               "email": "tomas.kronstahl@riksdagen.se"
+            },
+            {
+               "name": "Laila Naraghi",
+               "email": "laila.naraghi@riksdagen.se"
+            }
+         ]
+      },
+      "Västra Götaland S": {
+         "members": [
+            {
+               "name": "Petter Löberg",
+               "email": "petter.loberg@riksdagen.se"
+            },
+            {
+               "name": "Jessica Rodén",
+               "email": "jessica.roden@riksdagen.se"
+            }
+         ]
+      },
+      "Örebro": {
+         "members": [
+            {
+               "name": "Denis Begic",
+               "email": "denis.begic@riksdagen.se"
+            },
+            {
+               "name": "Daniel Andersson",
+               "email": "daniel.andersson@riksdagen.se"
+            },
+            {
+               "name": "Karin Sundin",
+               "email": "karin.sundin@riksdagen.se"
+            }
+         ]
+      },
+      "Stockholm": {
+         "members": [
+            {
+               "name": "Christopher Lindvall",
+               "email": "christopher.lindvall@riksdagen.se"
+            },
+            {
+               "name": "Solange Olame Bayibsa",
+               "email": "solange.olame.bayibsa@riksdagen.se"
+            },
+            {
+               "name": "Jytte Guteland",
+               "email": "jytte.guteland@riksdagen.se"
+            },
+            {
+               "name": "Markus Kallifatides",
+               "email": "markus.kallifatides@riksdagen.se"
+            },
+            {
+               "name": "Kadir Kasirga",
+               "email": "kadir.kasirga@riksdagen.se"
+            },
+            {
+               "name": "Serkan Köse",
+               "email": "serkan.kose@riksdagen.se"
+            },
+            {
+               "name": "Ingela Nylund Watz",
+               "email": "ingela.nylund.watz@riksdagen.se"
+            },
+            {
+               "name": "Leif Nysmed",
+               "email": "leif.nysmed@riksdagen.se"
+            },
+            {
+               "name": "Lawen Redar",
+               "email": "lawen.redar@riksdagen.se"
+            },
+            {
+               "name": "Azadeh Rojhan Gustafsson",
+               "email": "azadeh.rojhan@riksdagen.se"
+            },
+            {
+               "name": "Mirja Räihä",
+               "email": "mirja.raiha@riksdagen.se"
+            },
+            {
+               "name": "Markus Selin",
+               "email": "markus.selin@riksdagen.se"
+            },
+            {
+               "name": "Sultan Kayhan",
+               "email": "sultan.kayhan@riksdagen.se"
+            },
+            {
+               "name": "Mathias Tegnér",
+               "email": "mathias.tegner@riksdagen.se"
+            },
+            {
+               "name": "Daniel Vencu Velasquez Castro",
+               "email": "daniel.vencu.velasquez.castro@riksdagen.se"
+            },
+            {
+               "name": "Mattias Vepsä",
+               "email": "mattias.vepsa@riksdagen.se"
+            },
+            {
+               "name": "Anna Vikström",
+               "email": "anna.vikstrom@riksdagen.se"
+            },
+            {
+               "name": "Alexandra Völker",
+               "email": "alexandra.volker@riksdagen.se"
+            },
+            {
+               "name": "Åsa Westlund",
+               "email": "asa.westlund@riksdagen.se"
+            },
+            {
+               "name": "Elsemarie Bjellqvist",
+               "email": "elsemarie.bjellqvist@riksdagen.se"
+            }
+         ]
+      },
+      "Gotland": {
+         "members": [
+            {
+               "name": "Hanna Westerén",
+               "email": "hanna.westeren@riksdagen.se"
+            }
+         ]
+      },
+      "Västra Götaland W": {
+         "members": [
+            {
+               "name": "Aylin Fazelian",
+               "email": "aylin.fazelian@riksdagen.se"
+            },
+            {
+               "name": "Kenneth G. Forslund",
+               "email": "kenneth.g.forslund@riksdagen.se"
+            },
+            {
+               "name": "Joakim Järrebring",
+               "email": "joakim.jarrebring@riksdagen.se"
+            }
+         ]
+      },
+      "Halland": {
+         "members": [
+            {
+               "name": "Aida Birinxhiku",
+               "email": "aida.birinxhiku@riksdagen.se"
+            },
+            {
+               "name": "Adnan Dibrani",
+               "email": "adnan.dibrani@riksdagen.se"
+            },
+            {
+               "name": "Jennie Nilsson",
+               "email": "jennie.nilsson@riksdagen.se"
+            }
+         ]
+      },
+      "Jämtland": {
+         "members": [
+            {
+               "name": "Kalle Olsson",
+               "email": "kalle.olsson@riksdagen.se"
+            },
+            {
+               "name": "Lena Bäckelin",
+               "email": "lena.backelin@riksdagen.se"
+            }
+         ]
+      },
+      "Skåne NE": {
+         "members": [
+            {
+               "name": "Per-Arne Håkansson",
+               "email": "per-arne.hakansson@riksdagen.se"
+            },
+            {
+               "name": "Ewa Pihl Krabbe",
+               "email": "ewa.pihl.krabbe@riksdagen.se"
+            },
+            {
+               "name": "Louise Thunström",
+               "email": "louise.thunstrom@riksdagen.se"
+            },
+            {
+               "name": "Anna Wallentheim",
+               "email": "anna.wallentheim@riksdagen.se"
+            }
+         ]
+      },
+      "Södermanland": {
+         "members": [
+            {
+               "name": "Sofia Amloh",
+               "email": "sofia.amloh@riksdagen.se"
+            },
+            {
+               "name": "Hans Ekström",
+               "email": "hans.ekstrom@riksdagen.se"
+            },
+            {
+               "name": "Caroline Helmersson Olsson",
+               "email": "caroline.helmersson.olsson@riksdagen.se"
+            },
+            {
+               "name": "Alexander Wasberg",
+               "email": "alexander.wasberg@riksdagen.se"
+            }
+         ]
+      }
+   },
+   "Sverigedemokraterna": {
+      "Östergötland": {
+         "members": [
+            {
+               "name": "Jonas Andersson",
+               "email": "jonas.p.andersson@riksdagen.se"
+            },
+            {
+               "name": "Clara Aranda",
+               "email": "clara.aranda@riksdagen.se"
+            },
+            {
+               "name": "Aron Emilsson",
+               "email": "aron.emilsson@riksdagen.se"
+            },
+            {
+               "name": "Sven-Olof Sällström",
+               "email": "sven-olof.sallstrom@riksdagen.se"
+            }
+         ]
+      },
+      "Dalarna": {
+         "members": [
+            {
+               "name": "Anna-Lena Blomkvist",
+               "email": "anna-lena.blomkvist@riksdagen.se"
+            },
+            {
+               "name": "Rasmus Giertz",
+               "email": "rasmus.giertz@riksdagen.se"
+            },
+            {
+               "name": "Mats Nordberg",
+               "email": "mats.nordberg@riksdagen.se"
+            }
+         ]
+      },
+      "Västmanland": {
+         "members": [
+            {
+               "name": "Angelica Lundberg",
+               "email": "angelica.lundberg@riksdagen.se"
+            },
+            {
+               "name": "Oscar Sjöstedt",
+               "email": "oscar.sjostedt@riksdagen.se"
+            }
+         ]
+      },
+      "Västra Götaland N": {
+         "members": [
+            {
+               "name": "Matheus Enholm",
+               "email": "matheus.enholm@riksdagen.se"
+            },
+            {
+               "name": "Markus Wiechel",
+               "email": "markus.wiechel@riksdagen.se"
+            }
+         ]
+      },
+      "Västernorrland": {
+         "members": [
+            {
+               "name": "Ulf Lindholm",
+               "email": "ulf.lindholm@riksdagen.se"
+            },
+            {
+               "name": "David Lång",
+               "email": "david.lang@riksdagen.se"
+            }
+         ]
+      },
+      "Jönköping": {
+         "members": [
+            {
+               "name": "Jimmie Åkesson",
+               "email": "jimmie.akesson@riksdagen.se"
+            },
+            {
+               "name": "Staffan Eklöf",
+               "email": "staffan.eklof@riksdagen.se"
+            },
+            {
+               "name": "Eric Westroth",
+               "email": "eric.westroth@riksdagen.se"
+            }
+         ]
+      },
+      "Norrbotten": {
+         "members": [
+            {
+               "name": "Eric Palmqvist",
+               "email": "eric.palmqvist@riksdagen.se"
+            },
+            {
+               "name": "Johnny Svedin",
+               "email": "johnny.svedin@riksdagen.se"
+            }
+         ]
+      },
+      "Värmland": {
+         "members": [
+            {
+               "name": "Runar Filper",
+               "email": "runar.filper@riksdagen.se"
+            },
+            {
+               "name": "Charlotte Quensel",
+               "email": "charlotte.quensel@riksdagen.se"
+            }
+         ]
+      },
+      "Skåne W": {
+         "members": [
+            {
+               "name": "Bo Broman",
+               "email": "bo.broman@riksdagen.se"
+            },
+            {
+               "name": "Linda Lindberg",
+               "email": "linda.lindberg@riksdagen.se"
+            },
+            {
+               "name": "Carina Ståhl Herrstedt",
+               "email": "carina.stahl@riksdagen.se"
+            }
+         ]
+      },
+      "Gothenburg": {
+         "members": [
+            {
+               "name": "Dennis Dioukarev",
+               "email": "dennis.dioukarev@riksdagen.se"
+            },
+            {
+               "name": "Jimmy Ståhl",
+               "email": "jimmy.stahl@riksdagen.se"
+            },
+            {
+               "name": "Björn Tidland",
+               "email": "bjorn.tidland@riksdagen.se"
+            }
+         ]
+      },
+      "Västerbotten": {
+         "members": [
+            {
+               "name": "Pontus Andersson",
+               "email": "pontus.andersson@riksdagen.se"
+            }
+         ]
+      },
+      "Västra Götaland E": {
+         "members": [
+            {
+               "name": "Tobias Andersson",
+               "email": "tobias.andersson@riksdagen.se"
+            },
+            {
+               "name": "Jörgen Grubb",
+               "email": "jorgen.grubb@riksdagen.se"
+            }
+         ]
+      },
+      "Uppsala": {
+         "members": [
+            {
+               "name": "David Perez",
+               "email": "david.perez@riksdagen.se"
+            },
+            {
+               "name": "Lars Wistedt",
+               "email": "lars.wistedt@riksdagen.se"
+            }
+         ]
+      },
+      "Kronoberg": {
+         "members": [
+            {
+               "name": "Mattias Karlsson i Norrhult",
+               "email": "mattias.karlsson@riksdagen.se"
+            },
+            {
+               "name": "Katja Nyberg",
+               "email": "katja.nyberg@riksdagen.se"
+            }
+         ]
+      },
+      "Gävleborg": {
+         "members": [
+            {
+               "name": "Roger Hedlund",
+               "email": "roger.hedlund@riksdagen.se"
+            },
+            {
+               "name": "Daniel Persson",
+               "email": "daniel.persson@riksdagen.se"
+            }
+         ]
+      },
+      "Blekinge": {
+         "members": [
+            {
+               "name": "Josef Fransson",
+               "email": "josef.fransson@riksdagen.se"
+            },
+            {
+               "name": "Richard Jomshof",
+               "email": "richard.jomshof@riksdagen.se"
+            }
+         ]
+      },
+      "Malmö": {
+         "members": [
+            {
+               "name": "Nima Gholam Ali Pour",
+               "email": "nima.gholam.ali.pour@riksdagen.se"
+            },
+            {
+               "name": "Patrick Reslow",
+               "email": "patrick.reslow@riksdagen.se"
+            }
+         ]
+      },
+      "Skåne S": {
+         "members": [
+            {
+               "name": "Lars Andersson",
+               "email": "lars.andersson@riksdagen.se"
+            },
+            {
+               "name": "Jessica Stegrud",
+               "email": "jessica.stegrud@riksdagen.se"
+            },
+            {
+               "name": "Victoria Tiblom",
+               "email": "victoria.tiblom@riksdagen.se"
+            }
+         ]
+      },
+      "Kalmar": {
+         "members": [
+            {
+               "name": "Mattias Bäckström Johansson",
+               "email": "mattias.backstrom.johansson@riksdagen.se"
+            },
+            {
+               "name": "Mona Olin",
+               "email": "mona.olin@riksdagen.se"
+            }
+         ]
+      },
+      "Västra Götaland S": {
+         "members": [
+            {
+               "name": "Anders Alftberg",
+               "email": "anders.alftberg@riksdagen.se"
+            },
+            {
+               "name": "Patrik Jönsson",
+               "email": "patrik.jonsson@riksdagen.se"
+            }
+         ]
+      },
+      "Örebro": {
+         "members": [
+            {
+               "name": "Michael Rubbestad",
+               "email": "michael.rubbestad@riksdagen.se"
+            },
+            {
+               "name": "Per Söderlund",
+               "email": "per.soderlund@riksdagen.se"
+            }
+         ]
+      },
+      "Stockholm": {
+         "members": [
+            {
+               "name": "Mats Arkhem",
+               "email": "mats.arkhem@riksdagen.se"
+            },
+            {
+               "name": "Ludvig Aspling",
+               "email": "ludvig.aspling@riksdagen.se"
+            },
+            {
+               "name": "Angelika Bengtsson",
+               "email": "angelika.bengtsson@riksdagen.se"
+            },
+            {
+               "name": "Martin Kinnunen",
+               "email": "martin.kinnunen@riksdagen.se"
+            },
+            {
+               "name": "Julia Kronlid",
+               "email": "julia.kronlid@riksdagen.se"
+            },
+            {
+               "name": "Gabriel Kroon",
+               "email": "gabriel.kroon@riksdagen.se"
+            },
+            {
+               "name": "Fredrik Lindahl",
+               "email": "fredrik.lindahl@riksdagen.se"
+            },
+            {
+               "name": "Robert Stenkvist",
+               "email": "robert.stenkvist@riksdagen.se"
+            },
+            {
+               "name": "Beatrice Timgren",
+               "email": "beatrice.timgren@riksdagen.se"
+            },
+            {
+               "name": "Henrik Vinge",
+               "email": "henrik.vinge@riksdagen.se"
+            },
+            {
+               "name": "Elsa Widding",
+               "email": "elsa.widding@riksdagen.se"
+            },
+            {
+               "name": "Leonid Yurkovskiy",
+               "email": "leonid.yurkovskiy@riksdagen.se"
+            }
+         ]
+      },
+      "Gotland": {
+         "members": []
+      },
+      "Västra Götaland W": {
+         "members": [
+            {
+               "name": "Alexander Christiansson",
+               "email": "alexander.christiansson@riksdagen.se"
+            },
+            {
+               "name": "Yasmine Eriksson",
+               "email": "yasmine.eriksson@riksdagen.se"
+            },
+            {
+               "name": "Rashid Farivar",
+               "email": "rashid.farivar@riksdagen.se"
+            }
+         ]
+      },
+      "Halland": {
+         "members": [
+            {
+               "name": "Sara-Lena Bjälkö",
+               "email": "sara-lena.bjalko@riksdagen.se"
+            },
+            {
+               "name": "Carita Boulwén",
+               "email": "carita.boulwen@riksdagen.se"
+            },
+            {
+               "name": "Erik Hellsborn",
+               "email": "erik.hellsborn@riksdagen.se"
+            }
+         ]
+      },
+      "Jämtland": {
+         "members": [
+            {
+               "name": "Ann-Christine From Utterstedt",
+               "email": "ann-christine.utterstedt@riksdagen.se"
+            }
+         ]
+      },
+      "Skåne NE": {
+         "members": [
+            {
+               "name": "Mikael Eskilandersson",
+               "email": "mikael.eskilandersson@riksdagen.se"
+            },
+            {
+               "name": "Thomas Morell",
+               "email": "thomas.morell@riksdagen.se"
+            },
+            {
+               "name": "Magnus Persson",
+               "email": "magnus.persson@riksdagen.se"
+            },
+            {
+               "name": "Björn Söder",
+               "email": "bjorn.soder@riksdagen.se"
+            }
+         ]
+      },
+      "Södermanland": {
+         "members": [
+            {
+               "name": "Mattias Eriksson Falk",
+               "email": "mattias.eriksson.falk@riksdagen.se"
+            },
+            {
+               "name": "Adam Marttinen",
+               "email": "adam.marttinen@riksdagen.se"
+            }
+         ]
+      }
+   }
+}
