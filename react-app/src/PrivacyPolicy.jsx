@@ -10,7 +10,7 @@ const PrivacyPolicy = () => (
           <p>
             Vår integritetspolicy gäller endast våra onlineaktiviteter och är
             gäller för besökare på vår webbplats med avseende på informationen
-            som de delat och/eller samlar på https://www.etprocent.se.
+            som de delat och/eller samlar på https://www.1procent.nu.
             Denna policy är inte tillämplig på information som samlas in offline
             eller via andra kanaler än denna webbplats.
           </p>
@@ -83,8 +83,8 @@ const PrivacyPolicy = () => (
             vissa dataskyddsrättigheter. Om du vill bli informerad vad
             Personuppgifter vi har om dig eller om du vill att det ska vara det
             bort från våra system, kontakta oss med e-postadressen{" "}
-            <a href="mailto:info@etprocent.se">
-            info@etprocent.se
+            <a href="mailto:info@1procent.nu">
+            info@1procent.nu
             </a>
           </p>
           <h2>Tredje part och dataöverföring</h2>
@@ -139,7 +139,7 @@ const PrivacyPolicy = () => (
           </p>
           <h2>Loggfiler</h2>
           <p>
-            https://www.etprocent.se följer en standardprocedur för att använda
+            https://www.1procent.nu följer en standardprocedur för att använda
             loggfiler. Dessa filer loggar besökare när de besöker webbplatser. Allt
             värdföretag gör detta och en del av värdtjänsternas analys.
             Informationen som samlas in av loggfiler inkluderar internetprotokoll
@@ -152,17 +152,17 @@ const PrivacyPolicy = () => (
           </p>
           <h2>Cookies</h2>
           <p>
-            Precis som alla andra webbplatser använder https://www.etprocent.se
+            Precis som alla andra webbplatser använder https://www.1procent.nu
             'småkakor'. Dessa cookies används för att lagra information om
             sidor på webbplatsen som besökaren besöker eller interagerar med,
             och för att kontrollera webbplatsens grundläggande funktioner. Du kan acceptera eller
-            avvisa användningen av cookies på https://www.etprocent.se genom
+            avvisa användningen av cookies på https://www.1procent.nu genom
             OneTrust-cookie-samtyckesfönstret, som kan nås av
             genom att välja ikonen längst ned till höger på skärmen.
           </p>
           <h2>Tredjepartscookies</h2>
           <p>
-            När samtycke lämnas av användaren, https://www.etprocent.se
+            När samtycke lämnas av användaren, https://www.1procent.nu
             använder ett Facebook-spårningsskript och cookies för att marknadsföra vår webbplats
             och spåra webbplatsanvändning i syfte att förbättra relevansen
             av vår annonsinriktning. Vi rekommenderar dig att konsultera Facebook
@@ -170,7 +170,7 @@ const PrivacyPolicy = () => (
             behandlar dessa uppgifter.
           </p>
           <p>
-            När samtycke lämnas av användaren, https://www.etprocent.se
+            När samtycke lämnas av användaren, https://www.1procent.nu
             använder ett Google Analytics-spårningsskript och cookies för att spåra webbplatsen
             användning i syfte att förbättra webbplatsen och undersökning genom
             aggregerad dataanalys. Denna data är siled och vi delar den inte
@@ -178,13 +178,13 @@ const PrivacyPolicy = () => (
           </p>
           <h2>Barninformation</h2>
           <p>
-            https://www.etprocent.se samlar inte medvetet in några
+            https://www.1procent.nu samlar inte medvetet in några
             Personlig identifierbar information från barn under 13 år.
             Om du tror att ditt barn lämnat denna typ av information om
             vår webbplats rekommenderar vi starkt att du kontaktar oss omedelbart
             med e-postadressen {" "}
-            <a href="mailto:info@etprocent.se">
-              info@etprocent.se
+            <a href="mailto:info@1procent.nu">
+              info@1procent.nu
             </a>{" "}
             och vi kommer omedelbart att ta bort sådana personuppgifter
           </p>
@@ -192,8 +192,8 @@ const PrivacyPolicy = () => (
           <p>
             För andra frågor eller kommentarer om denna policy vänligen maila
             vårt dataskyddsombud på {" "}
-            <a href="mailto:info@etprocent.se">
-            info@etprocent.se
+            <a href="mailto:info@1procent.nu">
+            info@1procent.nu
             </a>
             . <br />
             <br />

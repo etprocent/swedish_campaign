@@ -8,7 +8,7 @@ module.exports = {
     submitted_at: "2022-10-13T14:08:21Z",
     definition: {
       id: "N8DmwqC6",
-      title: "etprocent questions",
+      title: "1procent questions",
       fields: [
         {
           id: "aw0eDbnYFM6e",

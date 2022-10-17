@@ -43,7 +43,7 @@ const About = () => {
               address to help support you with your meeting.
             </p>
             <p>
-              Vi kommer inte att dela din personliga information med tredjepartsmarknadsförare/annonsörer, vi lovar att vi inte kommer att skicka dig spam eller insamlingsmeddelanden, och du kontrollerar hur vi använder dina personuppgifter. Vår undersökning, webbplats och e-postplattform använder kryptering när vi samlar in data och är mycket säkra, så din data är säker. Du kan läsa mer om datasekretess i vår policy <a href="https://www.etprocent.se/integritetspolicy"> här</a>.
+              Vi kommer inte att dela din personliga information med tredjepartsmarknadsförare/annonsörer, vi lovar att vi inte kommer att skicka dig spam eller insamlingsmeddelanden, och du kontrollerar hur vi använder dina personuppgifter. Vår undersökning, webbplats och e-postplattform använder kryptering när vi samlar in data och är mycket säkra, så din data är säker. Du kan läsa mer om datasekretess i vår policy <a href="https://www.1procent.nu/integritetspolicy"> här</a>.
             </p>
           </Col>
         </Row>

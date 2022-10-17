@@ -9,7 +9,7 @@ const ShareLinks = () => {
       <p className="explanation">Dela gärna denna kampanj!</p>
       <div
         className="a2a_kit a2a_kit_size_50 a2a_default_style"
-        data-a2a-url="https://www.etprocent.se/"
+        data-a2a-url="https://www.1procent.nu/"
         data-a2a-title="Et Procent"
       >
         <a className="a2a_dd" href="https://www.addtoany.com/share"></a>
