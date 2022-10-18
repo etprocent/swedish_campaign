@@ -6,12 +6,18 @@ const app = express();
 var http = require("http").createServer(app);
 const crypto = require("crypto");
 const fs = require("fs");
-const mps = require("./emailGenerator/MPs.json");
+const mpsjson = require("./emailGenerator/MPs.json");
+const emailStrings = require("./emailGenerator/emailStrings.json");
 
 const io = require("socket.io")(http);
 
 const { getMpByPostcode } = require("./api-calls");
+const { generateEmailBody } = require("./generateEmailBody");
 
+function rand(items) {
+  // "|" for a kinda "int div"
+  return items[(items.length * Math.random()) | 0];
+}
 const getAnswersFromTypeform = (typeform) => {
   function getObjKey(obj, value) {
     return Object.keys(obj).find((key) => obj[key] === value);
@@ -105,29 +111,87 @@ io.on("connection", (socket) => {
       if (client2) {
         const answers = getAnswersFromTypeform(data);
 
-        let mp = mps.find((mp) => {
-          return (
-            mp.Party === answers.party && mp.Constituency === answers.region
-          );
-        });
+        const getMp = (db, party, region) => {
+          const regions = db[party];
+          let mps = regions[region];
 
-        // Fallback
-        if (!mp) {
-          console.log("Did not find an mp for", {
-            ...answers,
-            name: "XXX",
-            email: "XXX",
-          });
-          mp = mps.find((mp) => mp.Constituency === answers.region);
-        }
+          function getRandomProperty(obj) {
+            const keys = Object.keys(obj);
 
-        // Naive way of doing that, I will later change it. It will index the MPs based on the constituency
+            return keys[Math.floor(Math.random() * keys.length)];
+          }
+          while (mps.members.length === 0) {
+            region = getRandomProperty(regions);
+            mps = regions[region];
+          }
+          const mp = mps.members[0];
+          return {
+            Member: mp.name,
+            Constituency: region,
+            Email: mp.email,
+            party,
+          };
+        };
+
+        const mp = getMp(mpsjson, answers.party, answers.region);
+
+        const getMPs = (db, party, region) => {
+          const regions = db[party];
+          let mps = regions[region].members;
+
+          function getRandomProperty(obj) {
+            const keys = Object.keys(obj);
+
+            return keys[Math.floor(Math.random() * keys.length)];
+          }
+          // Return MPs right away if there are any. If there are no MPSs pick random MPs from a different region
+          if (mps.length !== 0) {
+            return mps.map((mp) => ({
+              Member: mp.name,
+              Constituency: region,
+              party,
+              Email: mp.email,
+            }));
+          }
+          // Select a random different region where there are MPs
+          while (mps.length === 0) {
+            region = getRandomProperty(regions);
+            mps = regions[region].members;
+          }
+          function getMultipleRandom(arr, num) {
+            const shuffled = [...arr].sort(() => 0.5 - Math.random());
+
+            return shuffled.slice(0, num);
+          }
+
+          const itms = 3 > mps.length ? mps.length : 3;
+
+          return getMultipleRandom(mps, itms).map((mp) => ({
+            Member: mp.name,
+            Constituency: region,
+            party,
+            Email: mp.email,
+          }));
+        };
+
+        const mps = getMPs(mpsjson, answers.party, answers.region);
+        console.log(answers);
 
         client2.emit("typeform-incoming", {
           formToken: data.form_response.token,
           generatedEmail: {
-            body: "body",
-            subject: "subject",
+            body: generateEmailBody(
+              answers.party,
+              answers.why,
+              answers.doYouWantMeetingWithMP === "Ja" ? true : false,
+              answers.name
+            ),
+
+            // Testing: how to handle illegal character in user input? I should remove everything that can be used to hack us
+            // handle weird behaviour in general... do some testing... Ehh...
+            // yeah, this whole app is pretty random and it could be helpful to establish some bounduaries
+            // email greeting should be generated on clicking continue with this MPs
+            subject: rand(emailStrings.subject),
             mpData: mp
               ? {
                   full_name: mp.Member,
@@ -138,8 +202,12 @@ io.on("connection", (socket) => {
                   mpEmailAddress: mp.Email,
                 }
               : { error: "mp not fund!" },
-            greeting: "greeting",
-            supportsAid: "aid",
+            mps,
+            greeting: "",
+            // Generate greeting on the client side because
+            // The list of MPs we are targeting can change
+
+            supportsAid: "aid", //TODO
           },
         });
       } else {

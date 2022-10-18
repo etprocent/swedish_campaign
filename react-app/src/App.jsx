@@ -7,7 +7,7 @@ import { Container, Row, Col } from "react-bootstrap";
 import TypeForm from "./TypeForm";
 import TextBox from "./TextBox";
 import MpForm from "./MpForm";
-import DisplayMp from "./DisplayMp";
+import DisplayMps from "./DisplayMps";
 import SendEmail from "./SendEmail";
 import IntroContent from "./IntroContent";
 import ShareLinks from "./ShareLinks";
@@ -52,38 +52,23 @@ const App = () => {
     if (responseId) {
       socket.emit("register", responseId);
     }
+  }, [responseId]);
 
+  useEffect(() => {
     socket.on("typeform-incoming", ({ generatedEmail }) => {
+      console.log(generatedEmail);
       setState({
         ...state,
         generatedEmailBody: generatedEmail.body,
         emailSubject: generatedEmail.subject,
+        mps: generatedEmail.mps,
         mpData: generatedEmail.mpData,
         greeting: generatedEmail.greeting,
         emailWithGreeting: generatedEmail.greeting + generatedEmail.body,
         positiveTypeFormResponseReturned: generatedEmail.supportsAid,
       });
     });
-  }, [responseId]);
-
-  useEffect(() => {
-    if (mpData) {
-      const { full_name } = mpData;
-      if (full_name) {
-        setState({
-          ...state,
-          greeting: `Dear ${full_name},\n`,
-        });
-      }
-    }
-  }, [mpData.name, mpData.full_name]);
-
-  useEffect(() => {
-    setState({
-      ...state,
-      emailWithGreeting: greeting + generatedEmailBody,
-    });
-  }, [generatedEmailBody, greeting]);
+  }, []);
 
   useEffect(() => {
     const script = document.createElement("script");
@@ -109,6 +94,8 @@ const App = () => {
       }
     }, 3000);
   }, [displayMpRef, positiveTypeFormResponseReturned]);
+
+  console.log(state);
 
   //once the emailBox postcode is rendered on click of 'Continue with this MP', this scrolls the page down to it
   useEffect(() => {
@@ -149,14 +136,19 @@ const App = () => {
             <Row>
               <Col>
                 <div ref={displayMpRef}>
-                  <DisplayMp mpData={mpData} />
+                  <DisplayMps mps={state.mps} setState={setState} />
                 </div>
               </Col>
             </Row>
             <Row>
               <Col>
                 <div id="mpForm" className="">
-                  <MpForm passDataUpstream={passDataUpstream} />
+                  <MpForm
+                    passDataUpstream={passDataUpstream}
+                    mp={state.mpData}
+                    setUpstreamState={setState}
+                    upstreamState={state}
+                  />
                 </div>
               </Col>
             </Row>
