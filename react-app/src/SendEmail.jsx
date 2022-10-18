@@ -7,7 +7,7 @@ const sendEmail = ({ subject, body, mpEmailAddress, passDataUpstream }) => {
     encodeURIComponent(subject) +
     "&Body=" +
     encodeURIComponent(body) +
-    "&bcc=campaign@point7percent.org";
+    "&bcc=emails@etprocent.se";
 
   return (
     <div className="send-email">
