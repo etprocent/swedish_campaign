@@ -92,7 +92,7 @@ const MpForm = ({ passDataUpstream, mp, setUpstreamState, upstreamState }) => {
           type="submit"
           onClick={(e) => {
             if (upstreamState.mps.length < 1) {
-              alert("välj minst en!"); //TODO
+              alert("Välj minst en!");
               return;
             }
             e.preventDefault();
@@ -105,25 +105,26 @@ const MpForm = ({ passDataUpstream, mp, setUpstreamState, upstreamState }) => {
               return items[(items.length * Math.random()) | 0];
             }
 
-            const generatedGreeting =
-              upstreamState.mps.length === 2
-                ? upstreamState.mps[0].Member +
-                  " and " + //TODO
-                  upstreamState.mps[1].Member +
-                  ","
-                : upstreamState.mps.reduce((acc, el, i) => {
-                    // Skip coma in first MP
-                    if (i === 0) {
-                      return acc + " " + el.Member;
-                    }
+            const generatedGreeting = upstreamState.mps.reduce((acc, el, i) => {
+              // Skip coma in first MP
 
-                    // Add and to the last MP
-                    if (i === upstreamState.mps.length - 1) {
-                      return acc + " and " + el.Member;
-                    } //TODO
+              const memberArray = el.Member.split(" ");
 
-                    return acc + ", " + el.Member;
-                  }, rand(greetings));
+              const lastName = memberArray[memberArray.length - 1];
+              // Check if last name exists
+              const firstAndLastName =
+                memberArray[0] + " " + (lastName ? lastName : "");
+              if (i === 0) {
+                return acc + " " + firstAndLastName;
+              }
+
+              // Add and to the last MP
+              if (i === upstreamState.mps.length - 1) {
+                return acc + " och " + firstAndLastName;
+              }
+
+              return acc + ", " + firstAndLastName;
+            }, rand(greetings));
 
             setUpstreamState((state) => {
               return {
@@ -165,7 +166,7 @@ const MpForm = ({ passDataUpstream, mp, setUpstreamState, upstreamState }) => {
               autoComplete="off"
             />
             {submitted && (
-              <div>
+              <div style={{ marginTop: "10px" }}>
                 <button
                   onClick={() => {
                     setUpstreamState((state) => {
@@ -193,7 +194,7 @@ const MpForm = ({ passDataUpstream, mp, setUpstreamState, upstreamState }) => {
                     });
                   }}
                 >
-                  Add MP
+                  lägg till mp
                 </button>
               </div>
             )}
