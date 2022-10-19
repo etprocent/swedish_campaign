@@ -4,7 +4,7 @@ import React from "react";
 
 const IntroContent = () => (
   <div className="intro-content">
-    <h1 className="title">Et Procent</h1>
+    <h1 className="title">En Procent</h1>
     <p className="intro-para">
       Sverige är ett imponerande exempel på världsscenen genom att anslå 1 % av sina inkomster till att hjälpa behövande. 
       {" "}<strong>Svenska folket vill ha det så.</strong>

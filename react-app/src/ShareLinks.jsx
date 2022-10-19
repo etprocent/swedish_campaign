@@ -10,7 +10,7 @@ const ShareLinks = () => {
       <div
         className="a2a_kit a2a_kit_size_50 a2a_default_style"
         data-a2a-url="https://www.1procent.nu/"
-        data-a2a-title="Et Procent"
+        data-a2a-title="En Procent"
       >
         <a className="a2a_dd" href="https://www.addtoany.com/share"></a>
         <a className="a2a_button_facebook"></a>

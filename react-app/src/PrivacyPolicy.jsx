@@ -16,7 +16,7 @@ const PrivacyPolicy = () => (
           </p>
           <h2>Vilka vi är och din integritet i korthet</h2>
           <p>
-            Et Procent är en gräsrotskampanj som syftar till att förändra regeringens avsikt att avbryta sitt utländska bistånd åtaganden. Till
+            En Procent är en gräsrotskampanj som syftar till att förändra regeringens avsikt att avbryta sitt utländska bistånd åtaganden. Till
             läs mer om oss och även för en sammanfattning av vår integritetspolicy och
             hur vi skyddar dina uppgifter <a href="/om"> besök här</a>.
           </p>
@@ -54,7 +54,7 @@ const PrivacyPolicy = () => (
                 </ul>
               </li>
               <li>
-                Behandla dina personuppgifter enligt Et Procents legitima intressen, där vi har
+                Behandla dina personuppgifter enligt En Procents legitima intressen, där vi har
                 säkerställt att dina intressen och rättigheter inte har kränkts.
               </li>
               <li>
@@ -64,7 +64,7 @@ const PrivacyPolicy = () => (
             </ul>
           </p>
           <p>
-          Vi kan komma att behandla dina personuppgifter enligt Et Procents legitima intressen, där vi har säkerställt
+          Vi kan komma att behandla dina personuppgifter enligt En Procents legitima intressen, där vi har säkerställt
             att dina intressen och rättigheter inte har kränkts.
           </p>
           <p>
@@ -72,7 +72,7 @@ const PrivacyPolicy = () => (
             följa lagen.
           </p>
           <p>
-            Et Procent kommer att behålla din personliga information endast för
+            En Procent kommer att behålla din personliga information endast för
             så länge som är nödvändigt för de syften som anges i denna integritet
             Politik. Vi kommer att behålla och använda din information i den utsträckning
             nödvändiga för att uppfylla våra juridiska skyldigheter, lösa tvister,
@@ -113,7 +113,7 @@ const PrivacyPolicy = () => (
           <p>
             Vi använder Google Analytics för att analysera webbplatstrafik på en aggregerad
             nivå. Vi tillåter inte Google att behandla någon av dina personuppgifter
-            utanför ramen för Et Procents egen användning av verktyget,
+            utanför ramen för En Procents egen användning av verktyget,
             och vi delar ingen personligt identifierbar information från vår
             webbplats (t.ex. information som tillhandahålls i undersökningen) till Google. Du kan
             läs mer om deras integritetsåtgärder{" "}

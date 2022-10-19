@@ -10,7 +10,7 @@ const About = () => {
             <h1 className="title">Om oss</h1>
             <h2>Vilka är vi?</h2>
             <p>
-              Et Procent är en gräsrotskampanj som syftar till att förändra regeringens avsikt att avbryta sitt utländska bistånd åtaganden. 
+              En Procent är en gräsrotskampanj som syftar till att förändra regeringens avsikt att avbryta sitt utländska bistånd åtaganden. 
             </p>
 
             <h2>Varför gör vi detta?</h2>
