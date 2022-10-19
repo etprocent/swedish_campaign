@@ -14,11 +14,9 @@ const TypeForm = ({ passDataUpstream, isMobile }) => {
       mode: "popup",
       autoClose: 3,
       onSubmit: (data) => {
-        console.log(data);
         passDataUpstream({ responseId: data.response_id });
       },
       onClose: (data) => {
-        console.log(data);
         passDataUpstream({ responseId: data.response_id });
       },
     }
@@ -34,7 +32,6 @@ const TypeForm = ({ passDataUpstream, isMobile }) => {
           hideHeaders: true,
           opacity: 0,
           onSubmit: (data) => {
-            console.log(data);
             passDataUpstream({ responseId: data.response_id });
             setTimeout(() => {
               setTypeformWidgetOpen(false);
@@ -63,7 +60,12 @@ const TypeForm = ({ passDataUpstream, isMobile }) => {
           Fyll i enkäten för att mejla din riksdagsledamot{" "}
         </button>
         <p className="explanation">
-          <strong>Vi kommer att skriva ett e-postmeddelande</strong> baserat på din undersökning.{" "} <strong>Skrivet för att ha maximal effekt på din riksdagsledamot.</strong> Med din hjälp kan vi säkra det stöd som så många behöver.
+          <strong>Vi kommer att skriva ett e-postmeddelande</strong> baserat på
+          din undersökning.{" "}
+          <strong>
+            Skrivet för att ha maximal effekt på din riksdagsledamot.
+          </strong>{" "}
+          Med din hjälp kan vi säkra det stöd som så många behöver.
         </p>
       </div>
       <div

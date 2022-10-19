@@ -2,9 +2,14 @@ import React, { useState, useEffect, useRef } from "react";
 import mpsList from "./MPsList.json";
 import DisplayMp from "./DisplayMp";
 
-const MpForm = ({ passDataUpstream, mp, setUpstreamState, upstreamState }) => {
+const MpForm = ({
+  passDataUpstream,
+  mp,
+  setUpstreamState,
+  upstreamState,
+  generateGreetingDisplayEmail,
+}) => {
   const [state, setState] = useState({
-    dropDownOpen: false,
     postcodeError: "",
     postcode: "",
     bots: "",
@@ -12,7 +17,8 @@ const MpForm = ({ passDataUpstream, mp, setUpstreamState, upstreamState }) => {
   });
 
   const [submitted, setSubmitted] = useState(false);
-  const { dropDownOpen, postcodeError, isLoading } = state;
+  const { postcodeError, isLoading } = state;
+  const { dropDownOpen } = upstreamState;
 
   const dropdownRef = useRef();
 
@@ -53,9 +59,7 @@ const MpForm = ({ passDataUpstream, mp, setUpstreamState, upstreamState }) => {
       // Replace everything coming from outside the set to empty string. This will protect us from users
       // crashing our website when entering bad regex
       value = value.replace(/[^a-zA-ZäöåÄÖÅ \n\.-]+/, "");
-      console.log("search value: ", value);
       const mp = mpsList.find((mp) => mp.Member.match(value));
-      console.log(mp);
       setSubmitted(true);
 
       if (mp) {
@@ -66,7 +70,9 @@ const MpForm = ({ passDataUpstream, mp, setUpstreamState, upstreamState }) => {
             constituency: mp.Constituency,
             party: mp.party,
             error: "",
-            mpEmailAddress: mp.Email,
+            //mpEmailAddress: mp.Email,
+            // Email address should be added on greeting generation.
+            // otherwise there will be a mismatch between email and greeting
           },
         });
       }
@@ -81,13 +87,13 @@ const MpForm = ({ passDataUpstream, mp, setUpstreamState, upstreamState }) => {
           type="submit"
           onClick={(e) => {
             e.preventDefault();
-            setState({ ...state, dropDownOpen: true });
+            passDataUpstream({ dropDownOpen: true });
           }}
         >
           Ser du inte din riksdagsledamot?
         </button>
 
-        <button
+        {/* <button
           className="btn btn-lg cta btn-primary right-button "
           type="submit"
           onClick={(e) => {
@@ -137,7 +143,7 @@ const MpForm = ({ passDataUpstream, mp, setUpstreamState, upstreamState }) => {
           }}
         >
           Ja, fortsätt med denna riksdagsledamot
-        </button>
+        </button> */}
       </div>
 
       {dropDownOpen && (
@@ -169,32 +175,15 @@ const MpForm = ({ passDataUpstream, mp, setUpstreamState, upstreamState }) => {
               <div style={{ marginTop: "10px" }}>
                 <button
                   onClick={() => {
-                    setUpstreamState((state) => {
-                      if (
-                        state.mps.find(
-                          (mp) => mp.Member === state.mpData.full_name
-                        )
-                      ) {
-                        return state;
-                      }
-
-                      return {
-                        ...state,
-                        mps: [
-                          ...state.mps,
-
-                          {
-                            Member: state.mpData.full_name,
-                            Constituency: state.mpData.constituency,
-                            party: state.mpData.party,
-                            email: state.mpData.mpEmailAddress,
-                          },
-                        ],
-                      };
+                    generateGreetingDisplayEmail({
+                      Member: upstreamState.mpData.full_name,
+                      Constituency: upstreamState.mpData.constituency,
+                      party: upstreamState.mpData.party,
+                      email: upstreamState.mpData.mpEmailAddress,
                     });
                   }}
                 >
-                  lägg till mp
+                  Lägg till mp
                 </button>
               </div>
             )}

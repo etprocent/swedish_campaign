@@ -29,6 +29,7 @@ const App = () => {
     emailWithGreeting: "",
     emailVisible: false,
     emailSent: false,
+    dropDownOpen: false,
   });
 
   const {
@@ -53,9 +54,31 @@ const App = () => {
     }
   }, [responseId]);
 
+  const generateGreetingDisplayEmail = (mp) => {
+    const greetings = ["Kära", "Till", "Hej"];
+    function rand(items) {
+      // "|" for a kinda "int div"
+      return items[(items.length * Math.random()) | 0];
+    }
+    const memberArray = mp.Member.split(" ");
+    const lastName = memberArray[memberArray.length - 1];
+    // Check if last name exists
+    const firstAndLastName = memberArray[0] + " " + (lastName ? lastName : "");
+    const greeting = rand(greetings) + " " + firstAndLastName + ",";
+
+    console.log(mp.email);
+    setState((state) => ({
+      ...state,
+      emailVisible: true,
+      greeting,
+      emailWithGreeting: greeting + "\n\n" + state.generatedEmailBody,
+      mpData: { ...state.mpData, mpEmailAddress: mp.Email },
+      // dropDownOpen: false, //Dropdown can not be closed from this point
+    }));
+  };
+
   useEffect(() => {
     socket.on("typeform-incoming", ({ generatedEmail }) => {
-      console.log(generatedEmail);
       setState({
         ...state,
         generatedEmailBody: generatedEmail.body,
@@ -84,7 +107,6 @@ const App = () => {
       if (current) {
         if (isMobile) {
           if (positiveTypeFormResponseReturned) {
-            console.log("S");
             current.scrollIntoView({
               behavior: "smooth",
               block: "start",
@@ -98,7 +120,6 @@ const App = () => {
   //once the emailBox postcode is rendered on click of 'Continue with this MP', this scrolls the page down to it
   useEffect(() => {
     const { current } = emailBoxRef;
-    console.log("S", current);
     current &&
       current.scrollIntoView({
         behavior: "smooth",
@@ -147,7 +168,11 @@ const App = () => {
             <Row>
               <Col>
                 <div ref={displayMpRef}>
-                  <DisplayMps mps={state.mps} setState={setState} />
+                  <DisplayMps
+                    mps={state.mps}
+                    setState={setState}
+                    generateGreetingDisplayEmail={generateGreetingDisplayEmail}
+                  />
                 </div>
               </Col>
             </Row>
@@ -159,6 +184,7 @@ const App = () => {
                     mp={state.mpData}
                     setUpstreamState={setState}
                     upstreamState={state}
+                    generateGreetingDisplayEmail={generateGreetingDisplayEmail}
                   />
                 </div>
               </Col>
