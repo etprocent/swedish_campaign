@@ -19,7 +19,7 @@ const TextBox = ({ emailBody, passDataUpstream }) => {
   return (
     <div className="edit-email">
       <div>
-        <h2 className="secondary-header send-email-header">Edit your email</h2>
+        <h2 className="secondary-header send-email-header">Redigera din e-post</h2>
         <p className="explanation">
           Att anpassa din e-post kommer att skilja den från andra och är mycket
           mer sannolikt att fånga din riksdagsledamot uppmärksamhet.
