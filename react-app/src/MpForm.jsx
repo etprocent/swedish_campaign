@@ -84,7 +84,7 @@ const MpForm = ({ passDataUpstream, mp, setUpstreamState, upstreamState }) => {
             setState({ ...state, dropDownOpen: true });
           }}
         >
-          Don't see your MP?
+          Ser du inte din riksdagsledamot?
         </button>
 
         <button
@@ -135,7 +135,7 @@ const MpForm = ({ passDataUpstream, mp, setUpstreamState, upstreamState }) => {
             });
           }}
         >
-          Yes, continue with this MP
+          Ja, fortsätt med denna riksdagsledamot
         </button>
       </div>
 

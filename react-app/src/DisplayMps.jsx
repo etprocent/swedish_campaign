@@ -4,7 +4,7 @@ const DisplayMps = ({ mps, setState }) => {
   console.log(mps);
   return (
     <div className="displayMP" id="displayMP">
-      <h2 className="secondary-header">Find Your MPs</h2>
+      <h2 className="secondary-header">Hitta dina riksdagsledamöter</h2>
       <div
         className="mpCard text-center"
         style={{ display: "flex", gap: "15px", flexWrap: "wrap" }}
