@@ -21,19 +21,19 @@ const TextBox = ({ emailBody, passDataUpstream }) => {
       <div>
         <h2 className="secondary-header send-email-header">Edit your email</h2>
         <p className="explanation">
-          Personalising your email will distinguish it from others and is much
-          more likely to grab your MP’s attention.
+          Att anpassa din e-post kommer att skilja den från andra och är mycket
+          mer sannolikt att fånga din riksdagsledamot uppmärksamhet.
         </p>
         <EdiText
           viewContainerClassName="emailBox"
           type="textarea"
           inputProps={{
-            placeholder: "Your email will appear here",
+            placeholder: "Din e-post kommer att visas här",
             rows: 15,
           }}
           saveButtonContent="Apply"
           cancelButtonContent={<strong>Cancel</strong>}
-          editButtonContent="Edit Your Email"
+          editButtonContent="Redigera din e-post"
           editOnViewClick={true}
           value={emailBody} // validates the webhook response token against the response id from the embedded tyeform widget
           onSave={(val) => {
