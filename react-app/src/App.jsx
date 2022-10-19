@@ -1,5 +1,4 @@
-/* eslint react-hooks/exhaustive-deps: 0 */ // --> turns eslint warning message off
-
+import CookieConsent from "react-cookie-consent";
 import React, { useEffect, useState, useRef } from "react";
 import socketIOClient from "socket.io-client";
 import { Container, Row, Col } from "react-bootstrap";
@@ -85,6 +84,7 @@ const App = () => {
       if (current) {
         if (isMobile) {
           if (positiveTypeFormResponseReturned) {
+            console.log("S");
             current.scrollIntoView({
               behavior: "smooth",
               block: "start",
@@ -95,11 +95,10 @@ const App = () => {
     }, 3000);
   }, [displayMpRef, positiveTypeFormResponseReturned]);
 
-  console.log(state);
-
   //once the emailBox postcode is rendered on click of 'Continue with this MP', this scrolls the page down to it
   useEffect(() => {
     const { current } = emailBoxRef;
+    console.log("S", current);
     current &&
       current.scrollIntoView({
         behavior: "smooth",
@@ -115,6 +114,18 @@ const App = () => {
 
   return (
     <div className="main">
+      <CookieConsent
+        location="bottom"
+        acceptOnScroll={true}
+        buttonText="OK"
+        cookieName="cookieConsent"
+        style={{ background: "#2B373B" }}
+        buttonStyle={{ color: "#4e503b", fontSize: "13px" }}
+        expires={150}
+      >
+        Denna webbplats använder cookies och liknande tekniker för att förbättra
+        användaren erfarenhet. <a href="/integritetspolicy">Läs mer.</a>
+      </CookieConsent>
       <Container>
         <Row>
           <Col>
