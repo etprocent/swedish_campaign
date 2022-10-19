@@ -33,7 +33,7 @@ const generateEmailBody = (party, motivationArg, meetMp, name) => {
     motivationString +
     " " +
     meetMpString +
-    "\n" +
+    "\n\n" +
     rand(emailStrings.signoff) +
     "\n" +
     (name ? name : "Medborgare i sverige")

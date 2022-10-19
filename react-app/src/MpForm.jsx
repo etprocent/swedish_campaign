@@ -131,7 +131,7 @@ const MpForm = ({ passDataUpstream, mp, setUpstreamState, upstreamState }) => {
                 ...state,
                 greeting: generatedGreeting,
                 emailWithGreeting:
-                  generatedGreeting + "\n" + state.generatedEmailBody,
+                  generatedGreeting + "\n\n" + state.generatedEmailBody,
               };
             });
           }}
