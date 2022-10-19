@@ -92,7 +92,7 @@ const MpForm = ({ passDataUpstream, mp, setUpstreamState, upstreamState }) => {
           type="submit"
           onClick={(e) => {
             if (upstreamState.mps.length < 1) {
-              alert("Pick at lest one!"); //TODO
+              alert("välj minst en!"); //TODO
               return;
             }
             e.preventDefault();
