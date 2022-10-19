@@ -70,9 +70,7 @@ const MpForm = ({
             constituency: mp.Constituency,
             party: mp.party,
             error: "",
-            //mpEmailAddress: mp.Email,
-            // Email address should be added on greeting generation.
-            // otherwise there will be a mismatch between email and greeting
+            mpEmailAddress: mp.Email,
           },
         });
       }
@@ -175,11 +173,14 @@ const MpForm = ({
               <div style={{ marginTop: "10px" }}>
                 <button
                   onClick={() => {
+                    if (!upstreamState.mpData.mpEmailAddress) {
+                      console.trace("no email");
+                    }
                     generateGreetingDisplayEmail({
                       Member: upstreamState.mpData.full_name,
                       Constituency: upstreamState.mpData.constituency,
                       party: upstreamState.mpData.party,
-                      email: upstreamState.mpData.mpEmailAddress,
+                      Email: upstreamState.mpData.mpEmailAddress,
                     });
                   }}
                 >

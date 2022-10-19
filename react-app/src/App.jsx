@@ -66,13 +66,16 @@ const App = () => {
     const firstAndLastName = memberArray[0] + " " + (lastName ? lastName : "");
     const greeting = rand(greetings) + " " + firstAndLastName + ",";
 
-    console.log(mp.email);
     setState((state) => ({
       ...state,
       emailVisible: true,
       greeting,
       emailWithGreeting: greeting + "\n\n" + state.generatedEmailBody,
-      mpData: { ...state.mpData, mpEmailAddress: mp.Email },
+      mpData: {
+        ...state.mpData,
+        mpEmailAddress: mp.Email,
+        mpEmailFromGreeting: mp.Email,
+      },
       // dropDownOpen: false, //Dropdown can not be closed from this point
     }));
   };
@@ -206,7 +209,7 @@ const App = () => {
                   <Col>
                     <div className="">
                       <SendEmail
-                        mpEmailAddress={mpData.mpEmailAddress}
+                        mpEmailAddress={mpData.mpEmailFromGreeting}
                         body={emailWithGreeting}
                         subject={emailSubject}
                         passDataUpstream={passDataUpstream}

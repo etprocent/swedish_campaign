@@ -25,6 +25,10 @@ const DisplayMps = ({ mps, setState, generateGreetingDisplayEmail }) => {
                     mpEmailAddress: mp.Email,
                   },
                 }));
+                if (!mp.Email) {
+                  console.trace("no email");
+                }
+
                 generateGreetingDisplayEmail(mp);
               }}
             >
