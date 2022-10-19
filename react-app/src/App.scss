@@ -1,4 +1,4 @@
-$primary: #000000;
+$primary: #FFCD00;
 $secondary: #4eb9be;
 
 //#DA6846
@@ -16,7 +16,8 @@ html {
 .main {
   width: 100%;
   margin: 0;
-  background: url("./assets/Background Small.jpg");
+  background: linear-gradient(rgba(0, 0, 0, 0.45), rgba(0, 0, 0, 0.45)),
+    url("./assets/Background Small.jpg");
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: auto 100vh;
@@ -126,7 +127,7 @@ h2.secondary-header {
 .intro-para {
   font-size: 2.1rem;
   line-height: 3rem;
-  color: black;
+  color: white;
   @media only screen and (min-width: 768px) {
     margin-bottom: 40px;
   }
@@ -213,7 +214,7 @@ p.explanation {
   line-height: 2.5rem;
   margin-bottom: 40px;
   display: block;
-  color: black;
+  color: white;
 }
 .surveyQuestions {
   label {
@@ -257,10 +258,11 @@ button,
 .btn-primary {
   background-color: $primary !important;
   border: 1px solid $primary !important;
-  color: white !important;
+  color: #004B87 !important;
   font-weight: 600 !important;
   &:hover {
-    background-color: #db866e !important;
+    background-color: #004B87 !important;
+    color: #FFCD00 !important;
   }
 }
 .btn-outline-primary {

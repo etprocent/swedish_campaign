@@ -7,13 +7,13 @@ const sendEmail = ({ subject, body, mpEmailAddress, passDataUpstream }) => {
     encodeURIComponent(subject) +
     "&Body=" +
     encodeURIComponent(body) +
-    "&bcc=emails@etprocent.se";
+    "&bcc=emails@1procent.nu";
 
   return (
     <div className="send-email">
-      <h2 className="secondary-header send-email-header">Send your email</h2>
+      <h2 className="secondary-header send-email-header">Skicka ditt e-post</h2>
       <p className="explanation campaign-explanation">
-        This will open your email service in a different tab
+        Detta öppnar din e-posttjänst i en annan flik
       </p>
       <a
         href={"mailto:" + getFullEmailLink(mpEmailAddress)}
@@ -24,7 +24,7 @@ const sendEmail = ({ subject, body, mpEmailAddress, passDataUpstream }) => {
           passDataUpstream({ emailSent: true });
         }}
       >
-        SEND EMAIL
+        SKICKA E-POST
       </a>
     </div>
   );
