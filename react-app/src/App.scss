@@ -12,6 +12,7 @@ $secondary: #4eb9be;
 
 html {
   scroll-behavior: smooth;
+  background-color: #7d99af;
 }
 .main {
   width: 100%;
@@ -35,7 +36,7 @@ html {
 }
 
 .footer {
-  background-color: #d0d0ff;
+  background-color: #7d99af;
   padding-top: 30px;
   padding-bottom: 30px;
   font-size: 16px;
@@ -486,7 +487,7 @@ textarea:disabled {
 .privacy-policy,
 .about {
   width: 100%;
-  background-color: #d0d0ff;
+  background-color: #7d99af;
   color: black;
   padding-bottom: 40px;
   @media only screen and (min-width: 768px) {
