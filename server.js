@@ -10,6 +10,7 @@ const mpsjson = require("./emailGenerator/MPs.json");
 const emailStrings = require("./emailGenerator/emailStrings.json");
 
 const io = require("socket.io")(http);
+var enforce = require("express-sslify");
 
 const { getMpByPostcode } = require("./api-calls");
 const { generateEmailBody } = require("./generateEmailBody");
@@ -69,16 +70,7 @@ const dir = {};
 app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({ extended: true }));
 app.use(cors());
-
-app.use((req, res, next) => {
-  if (process.env.NODE_ENV === "production") {
-    if (req.headers["x-forwarded-proto"] !== "https") {
-      console.log("forwarding to https");
-      return res.redirect("https://" + req.headers.host + req.url);
-    } else return next();
-  } else return next();
-});
-//
+app.use(enforce.HTTPS({ trustProtoHeader: true }));
 
 //allows us to write exampleResponses for testing in the early stages of development
 //NOTE: be careful to not to save any files with personal details
