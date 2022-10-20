@@ -2,6 +2,9 @@
   "name": "create-07-campaign-app",
   "version": "1.0.0",
   "main": "server.js",
+  "engines": {
+    "node": "16.x"
+  },
   "start": "node server.js",
   "nodemonConfig": {
     "ignore": [
